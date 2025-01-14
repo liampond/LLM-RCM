@@ -1,0 +1,22 @@
+X:1
+T:RCM6_August2024_Q10
+%%scale 0.83
+%%pagewidth 21.00cm
+%%leftmargin 1.50cm
+%%rightmargin 1.50cm
+%%score { 1 | ( 2 3 ) }
+L:1/8
+M:6/8
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:3 bass 
+V:1
+"^Allegretto vivace" (f'2 c' a2 f | d'bd' c'3) | (bgc' afc' | [fa]3 [eg]2) z | (f'2 c' a2 f | %5
+ d'bd' c'3) | (c'af bge | (g3 f2)) z :| %8
+V:2
+ F,A,C F,A,C | F,B,D F,A,C | E,G,C F,A,C | C,CC CB,G, | F,A,C F,A,C | F,B,D F,A,C | C,F,A, C,G,B, | %7
+ C,E,B, F,A,C :| %8
+V:3
+ F,3 F,3 | F,3 F,3 | E,3 F,3 | x6 | F,3 F,3 | F,3 F,3 | C,3 C,3 | C,3 F,3 :| %8

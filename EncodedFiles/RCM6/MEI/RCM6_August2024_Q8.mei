@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead xml:id="m1v5ffkq">
+      <fileDesc xml:id="f1f2zk1i">
+         <titleStmt xml:id="tbed228">
+            <title>RCM6_August2024_Q8</title>
+            <respStmt />
+         </titleStmt>
+         <pubStmt xml:id="p1gjqmq">
+            <date isodate="2025-01-05" type="encoding-date">2025-01-05</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="e52bavz">
+         <appInfo xml:id="a1dxifdg">
+            <application xml:id="aizy21" isodate="2025-01-09T13:09:32" version="5.0.0-dev-4196bb0">
+               <name xml:id="n1phiu71">Verovio</name>
+               <p xml:id="p18kjqyi">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mer4coi">
+            <score xml:id="sasz1tk">
+               <scoreDef xml:id="srnke6a">
+                  <pgHead xml:id="p132zn8r">
+                     <rend xml:id="r7ddjt" halign="center" valign="top">RCM6_August2024_Q8</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s1vfmnmm">
+                     <staffGrp xml:id="s1h1w6of">
+                        <grpSym xml:id="g1bv0sc8" symbol="brace" />
+                        <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                           <label xml:id="l18q85c">Piano</label>
+                           <labelAbbr xml:id="lu0wqko">Pno.</labelAbbr>
+                           <instrDef xml:id="imny9ly" midi.channel="0" midi.instrnum="0" midi.volume="78.00%" />
+                           <clef xml:id="cy0t9dn" shape="G" line="2" />
+                           <keySig xml:id="k1ippb9c" sig="3s" />
+                           <meterSig xml:id="mtlmein" count="4" unit="4" />
+                        </staffDef>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1mpzpn9">
+                  <measure xml:id="m1tv89sw" n="1">
+                     <staff xml:id="s1npbdr" n="1">
+                        <layer xml:id="ldd5tlz" n="1">
+                           <note xml:id="n1yutkjh" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down" accid.ges="s" />
+                           <beam xml:id="bbwhvsm">
+                              <note xml:id="naqyvqb" dur.ppq="1" dur="8" oct="5" pname="a" stem.dir="down" />
+                              <note xml:id="ncaa9rq" dur.ppq="1" dur="8" oct="5" pname="g" stem.dir="down" accid.ges="s" />
+                           </beam>
+                           <note xml:id="n1bo2a75" dur.ppq="2" dur="4" oct="5" pname="a" stem.dir="down" />
+                           <note xml:id="nsmauo0" dur.ppq="2" dur="4" oct="5" pname="e" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <harm xml:id="hkuwxfg" staff="1" tstamp="1" />
+                  </measure>
+                  <measure xml:id="mkqcnyi" n="2">
+                     <staff xml:id="s1qksfe5" n="1">
+                        <layer xml:id="lc6vxr" n="1">
+                           <note xml:id="n10qf5ho" dots="1" dur.ppq="3" dur="4" oct="5" pname="f" stem.dir="down" accid.ges="s" />
+                           <note xml:id="ng6x04h" dur.ppq="1" dur="8" oct="5" pname="e" stem.dir="down" />
+                           <note xml:id="n11w00q5" dur.ppq="4" dur="2" oct="5" pname="d" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <harm xml:id="h6vos21" staff="1" tstamp="1" />
+                  </measure>
+                  <measure xml:id="m1wjac4n" n="3">
+                     <staff xml:id="sv069iy" n="1">
+                        <layer xml:id="l1g6e5qj" n="1">
+                           <mRest xml:id="m1m72em7" />
+                        </layer>
+                     </staff>
+                     <harm xml:id="h6cdfz2" staff="1" tstamp="1" />
+                  </measure>
+                  <measure xml:id="mp37ewg" n="4">
+                     <staff xml:id="s1ocmepo" n="1">
+                        <layer xml:id="l17biofg" n="1">
+                           <mRest xml:id="m107ex1i" />
+                        </layer>
+                     </staff>
+                     <harm xml:id="h1l9gbd5" staff="1" tstamp="1" />
+                  </measure>
+                  <measure xml:id="mp8d704" n="5">
+                     <staff xml:id="s1jr9evh" n="1">
+                        <layer xml:id="l1xpkhpu" n="1">
+                           <mRest xml:id="mnvbonw" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1hbmx2x" n="6">
+                     <staff xml:id="s11s1quu" n="1">
+                        <layer xml:id="lqw6mne" n="1">
+                           <mRest xml:id="m1jus39q" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mbrkcko" n="7">
+                     <staff xml:id="scf4pfp" n="1">
+                        <layer xml:id="l14jbkun" n="1">
+                           <mRest xml:id="mfh0357" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m16gvd8w" right="end" n="8">
+                     <staff xml:id="s1mydxbh" n="1">
+                        <layer xml:id="lmxmvoi" n="1">
+                           <mRest xml:id="ma7kufo" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

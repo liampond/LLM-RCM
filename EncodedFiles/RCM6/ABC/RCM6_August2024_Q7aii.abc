@@ -1,0 +1,13 @@
+X:1
+T:RCM6_August2024_Q7ii
+%%scale 0.83
+%%pagewidth 21.00cm
+%%leftmargin 1.50cm
+%%rightmargin 1.50cm
+L:1/8
+M:2/4
+I:linebreak $
+K:Db
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ A | dd ff | d2 AA | A>A e/d/c/B/ | A2 || %5

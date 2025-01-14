@@ -1,0 +1,17 @@
+X:1
+T:RCM6_August2024_Q6b
+%%scale 0.83
+%%pagewidth 21.00cm
+%%leftmargin 1.50cm
+%%rightmargin 1.50cm
+%%score { 1 | 2 }
+L:1/4
+M:3/4
+I:linebreak $
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ (d/e/ d c | B3/2 A/ G | A d [EAc] | [FAd]3) || %4
+V:2
+ z3 | z3 | z2 A,, | F,3 || %4

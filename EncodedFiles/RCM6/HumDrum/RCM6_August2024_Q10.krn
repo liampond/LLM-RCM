@@ -1,0 +1,73 @@
+!!!OTL: RCM6_August2024_Q10
+**kern	**kern
+*part1	*part1
+*staff2	*staff1
+*I"Piano	*
+*I'Pno.	*
+*clefF4	*clefG2
+*k[b-]	*k[b-]
+*M6/8	*M6/8
+=1	=1
+*^	*
+!	!	!LO:TX:a:t=Allegretto vivace
+8FL	4.F	(4fff
+8A	.	.
+8cJ	.	8ccc
+8FL	4.F	4aa
+8A	.	.
+8cJ	.	8ff
+=	=	=
+8FL	4.F	8dddL
+8B-	.	8bb-
+8dJ	.	8dddJ
+8FL	4.F	4.ccc)
+8A	.	.
+8cJ	.	.
+=	=	=
+8EL	4.E	(8bb-L
+8G	.	8gg
+8cJ	.	8cccJ
+8FL	4.F	8aaL
+8A	.	8ff
+8cJ	.	8cccJ
+*v	*v	*
+=	=
+8CL	4.ff 4.aa
+8c	.
+8cJ	.
+8cL	4ee) 4gg
+8B-	.
+8GJ	8r
+=	=
+*^	*
+8FL	4.F	(4fff
+8A	.	.
+8cJ	.	8ccc
+8FL	4.F	4aa
+8A	.	.
+8cJ	.	8ff
+=	=	=
+8FL	4.F	8dddL
+8B-	.	8bb-
+8dJ	.	8dddJ
+8FL	4.F	4.ccc)
+8A	.	.
+8cJ	.	.
+=	=	=
+8CL	4.C	(8cccL
+8F	.	8aa
+8AJ	.	8ffJ
+8CL	4.C	8bb-L
+8G	.	8gg
+8B-J	.	8eeJ
+=	=	=
+8CL	4.C	(4.gg
+8E	.	.
+8B-J	.	.
+8FL	4.F	4ff))
+8A	.	.
+8cJ	.	8r
+*v	*v	*
+=:|!	=:|!
+*-	*-
+!!!system-decoration: {(s1,s2)}

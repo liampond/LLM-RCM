@@ -1,0 +1,27 @@
+!!!OTL: RCM6_August2024_Q6b
+**kern	**kern
+*part1	*part1
+*staff2	*staff1
+*I"Piano	*
+*I'Pno.	*
+*clefF4	*clefG2
+*k[f#c#]	*k[f#c#]
+*M3/4	*M3/4
+=1	=1
+2.r	(8ddL
+.	8eeJ
+.	4dd
+.	4cc#
+=	=
+2.r	4.b
+.	8a
+.	4g
+=	=
+2r	4a
+.	4dd
+4AA	4e 4a 4cc#
+=	=
+2.F#	2.f#) 2.a 2.dd
+=||	=||
+*-	*-
+!!!system-decoration: {(s1,s2)}

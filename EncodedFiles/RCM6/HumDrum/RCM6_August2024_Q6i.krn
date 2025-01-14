@@ -1,0 +1,36 @@
+!!!OTL: RCM6_August2024_Q6a
+**kern	**kern
+*part1	*part1
+*staff2	*staff1
+*I"Piano	*
+*I'Pno.	*
+*clefF4	*clefG2
+*k[b-e-a-]	*k[b-e-a-]
+*M4/4	*M4/4
+*met(c)	*met(c)
+=1	=1
+4r	(8ccL
+.	8bnJ
+=	=
+1r	4cc
+.	4g
+.	8ee-L
+.	8ddJ
+.	4cc
+=	=
+1r	4dd
+.	4ff
+.	8bnL
+.	8ccJ
+.	4dd
+=	=
+2.r	4ee-
+.	4cc
+.	8ggL
+.	8ffJ
+4C	4g 4cc 4ee-
+=	=
+2.GG	2.g) 2.bn 2.dd
+=||	=||
+*-	*-
+!!!system-decoration: {(s1,s2)}
