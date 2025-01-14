@@ -1,0 +1,6 @@
+Return what notes would be:
+-A perfect 4th above the first note in the file.
+-A major 3rd above the second note in the file.
+-A diminished 8ve above the third note in the file.
+-A augmented 6th above the fourth note in the file.
+-A minor 2nd above the fifth note in the file.

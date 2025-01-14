@@ -1,0 +1,1 @@
+Please return the notes present in an ascending and descending scale that is the relative minor, melodic form, of B major in the treble clef using a key signature and any necessary accidentals.

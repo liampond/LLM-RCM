@@ -1,0 +1,1 @@
+Please return the notes present in an ascending and descending A major scale in the treble clef using a key signature and any necessary accidentals.
