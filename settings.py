@@ -1,3 +1,3 @@
-MODEL_NAME = "gpt-3.5-turbo"
+MODEL_NAME = "gpt-4o-2024-11-20"
 TEMPERATURE = 0
 NUM_RESPONSES = 5
