@@ -7,3 +7,4 @@ venv
 outputs/
 *.log
 *.pdf
+LLM_RCM.code-workspace
