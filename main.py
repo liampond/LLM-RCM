@@ -39,9 +39,10 @@ else:
 response_content = ""
 
 for i, choice in enumerate(response.choices):
-    response_content += f"Response {i + 1}:\n"
+    response_content += f"\n{'=' * 100}\n"  # Clean divider before each response
+    response_content += f"📝 Response {i + 1}\n"
+    response_content += f"{'=' * 100}\n\n"
     response_content += choice.message.content.strip() + "\n"
-    response_content += "-" * 60 + "\n\n"
 
 save_response(MODEL, EXAM, DATATYPE, OUTPUT_FILENAME, response_content)
 
