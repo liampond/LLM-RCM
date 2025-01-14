@@ -1,8 +1,8 @@
 # Prompt settings
 EXAM = "RCM6"             # Options: "RCM5" or "RCM6"
 CONTEXT = "NoContext"     # Options: "Context" or "NoContext"
-QUESTION = "Q1a"
-YEAR = "August2024"
+QUESTION = "Q1a"          # Options: "Q#"
+YEAR = "August2024"       # Option: "August2024"
 
 # API settings
 DATATYPE = "MEI"          # Options: "ABC", "HumDrum", "MEI", "MusicXML"
