@@ -15,25 +15,37 @@ from config.config_loader import load_runtime_config, build_encoded_filename, ch
 # Load dynamic runtime configuration
 config = load_runtime_config()
 
-# Check if the encoded file exists
-if not check_encoded_file_exists(config):
-    print(f"⚠️ Skipping {config['QUESTION']} due to missing encoded file.")
-    exit()
-
 # Load prompts
 system_prompt = load_prompt(SYSTEM_PROMPT_PATH)
-first_user_prompt = load_prompt(DATATYPE_PROMPT_PATH)
-encoded_filename = build_encoded_filename(config)
-encoded_file_content = load_encoded_file(config["EXAM"], config["DATATYPE"], encoded_filename)
 final_user_prompt = load_prompt(MAIN_PROMPT_PATH)
 
-# Construct conversation
-conversation = [
-    {"role": "system", "content": system_prompt},
-    {"role": "user", "content": first_user_prompt},
-    {"role": "user", "content": f"Here is the encoded music file in {config['DATATYPE']} format:\n\n{encoded_file_content}"},
-    {"role": "user", "content": final_user_prompt}
-]
+# Check if the question requires a first user prompt and encoded file
+questions_without_encoded_files = ["Q3a", "Q3b", "Q3c", "Q3d", "Q3e", "Q5", "Q9"]
+
+if config["QUESTION"] in questions_without_encoded_files:
+    # For Q3 series, only include system and final prompts
+    conversation = [
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": final_user_prompt}
+    ]
+else:
+    # Check if the encoded file exists for other questions
+    if not check_encoded_file_exists(config):
+        print(f"⚠️ Skipping {config['QUESTION']} due to missing encoded file.")
+        exit()
+    
+    # Load first user prompt and encoded file
+    first_user_prompt = load_prompt(DATATYPE_PROMPT_PATH)
+    encoded_filename = build_encoded_filename(config)
+    encoded_file_content = load_encoded_file(config["EXAM"], config["DATATYPE"], encoded_filename)
+    
+    # Construct conversation with full prompts and encoded file
+    conversation = [
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": first_user_prompt},
+        {"role": "user", "content": f"Here is the encoded music file in {config['DATATYPE']} format:\n\n{encoded_file_content}"},
+        {"role": "user", "content": final_user_prompt}
+    ]
 
 # Handle model-specific requests
 if MODEL == "ChatGPT":

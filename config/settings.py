@@ -1,7 +1,7 @@
 # Prompt settings
 EXAM = "RCM6"             # Options: "RCM5" or "RCM6"
 CONTEXT = "NoContext"     # Options: "Context" or "NoContext"
-QUESTION = "Q5"           # Options: "Q#"
+QUESTION = "Q3a"           # Options: "Q#"
 YEAR = "August2024"       # Option: "August2024"
 
 # API settings
