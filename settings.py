@@ -52,6 +52,10 @@ def check_encoded_file_exists(question):
         raise FileNotFoundError(f"Encoded file not found for {question}")
     return True
 
+# Output path
+OUTPUT_DIR = f"outputs/{MODEL}/{EXAM}/{DATATYPE}/"
+OUTPUT_FILENAME = f"{EXAM}_{YEAR}_{QUESTION}_{CONTEXT}_{DATATYPE}_Output.txt"
+
 # Example usage
 try:
     if check_encoded_file_exists(QUESTION):
