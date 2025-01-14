@@ -1,3 +1,4 @@
+import os
 from models.chatgpt_api import chatgpt_request
 from models.claude_api import claude_request
 from models.gemini_api import gemini_request
@@ -6,51 +7,38 @@ from utils.encoded_file_loader import load_encoded_file
 from utils.file_manager import save_response
 from config.settings import (
     CHATGPT_API_KEY, CLAUDE_API_KEY, GEMINI_API_KEY, CHATGPT_MODEL, 
-    TEMPERATURE, NUM_RESPONSES, MODEL, EXTENSION_MAP
+    TEMPERATURE, NUM_RESPONSES, SYSTEM_PROMPT_PATH, 
+    DATATYPE_PROMPT_PATH, MODEL, EXTENSION_MAP
 )
 from config.config_loader import load_runtime_config, build_encoded_filename, check_encoded_file_exists
-import os
 
-EXAM = os.getenv("EXAM")
-CONTEXT = os.getenv("CONTEXT")
-YEAR = os.getenv("YEAR")
-DATATYPE = os.getenv("DATATYPE")
-QUESTION = os.getenv("QUESTION")
-
-BASE_PROMPT_DIR = "prompts"
-SYSTEM_PROMPT_PATH = f"{BASE_PROMPT_DIR}/AllPrompts/AllPromptsSystem.txt"
-DATATYPE_PROMPT_PATH = f"{BASE_PROMPT_DIR}/AllPrompts/AllPromptsUser_{DATATYPE}.txt"
-MAIN_PROMPT_PATH = f"{BASE_PROMPT_DIR}/{EXAM}/{CONTEXT}/{EXAM}_{YEAR}_{QUESTION}_{CONTEXT}Prompt.txt"
-
-# Load dynamic runtime configuration
+# ✅ Dynamically load runtime configuration
 config = load_runtime_config()
+
+# Dynamically build MAIN_PROMPT_PATH based on the QUESTION
+MAIN_PROMPT_PATH = f"prompts/{config['EXAM']}/{config['CONTEXT']}/{config['EXAM']}_{config['YEAR']}_{config['QUESTION']}_{config['CONTEXT']}Prompt.txt"
 
 # Load system and final prompts
 system_prompt = load_prompt(SYSTEM_PROMPT_PATH)
 final_user_prompt = load_prompt(MAIN_PROMPT_PATH)
 
-# Define questions that do NOT need the first user prompt or encoded file
+# Handle special questions
 questions_without_encoded_files = ["Q3a", "Q3b", "Q3c", "Q3d", "Q3e", "Q5", "Q6", "Q9a", "Q9b"]
 
-# Handle special cases
 if config["QUESTION"] in questions_without_encoded_files:
-    # Only system and final prompts for these questions
     conversation = [
         {"role": "system", "content": system_prompt},
         {"role": "user", "content": final_user_prompt}
     ]
 else:
-    # Standard flow for other questions
     if not check_encoded_file_exists(config):
         print(f"⚠️ Skipping {config['QUESTION']} due to missing encoded file.")
         exit()
 
-    # Load first user prompt and encoded file
     first_user_prompt = load_prompt(DATATYPE_PROMPT_PATH)
     encoded_filename = build_encoded_filename(config)
     encoded_file_content = load_encoded_file(config["EXAM"], config["DATATYPE"], encoded_filename)
 
-    # Full conversation with all prompts
     conversation = [
         {"role": "system", "content": system_prompt},
         {"role": "user", "content": first_user_prompt},
@@ -68,14 +56,8 @@ elif MODEL == "Gemini":
 else:
     raise ValueError("Invalid model selected!")
 
-# Format and save responses
-response_content = ""
-for i, choice in enumerate(response.choices):
-    response_content += f"\n{'=' * 100}\n"
-    response_content += f"📝 Response {i + 1}\n"
-    response_content += f"{'=' * 100}\n\n"
-    response_content += choice.message.content.strip() + "\n"
-
+# Save responses
+response_content = "\n".join([choice.message.content.strip() for choice in response.choices])
 output_filename = f"{config['EXAM']}_{config['YEAR']}_{config['QUESTION']}_{config['CONTEXT']}_{config['DATATYPE']}_Output.txt"
 save_response(MODEL, config["EXAM"], config["DATATYPE"], output_filename, response_content)
 
