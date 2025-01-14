@@ -39,6 +39,10 @@ EXTENSION_MAP = {
     "ABC": ".abc"
 }
 
+# Encoded file path
+FILE_EXTENSION = EXTENSION_MAP.get(DATATYPE, ".txt")
+ENCODED_FILENAME = f"{EXAM}_{YEAR}_{QUESTION}{FILE_EXTENSION}"
+
 # List of questions without encoded files
 QUESTIONS_WITHOUT_ENCODED_FILES = ["Q3a", "Q3b", "Q3c", "Q3d", "Q3e", "Q9"]  # Add questions that don't have encoded files here
 
