@@ -1,6 +1,7 @@
 import os
 import subprocess
-from settings import EXAM, CONTEXT, MODEL, EXTENSION_MAP
+from config.settings import EXAM, CONTEXT, MODEL, EXTENSION_MAP
+from config.config_loader import check_encoded_file_exists
 
 # Define all data types
 DATA_TYPES = ["ABC", "MEI", "HumDrum", "MusicXML"]
@@ -18,6 +19,11 @@ def run_main_script(datatype, question):
     # Set environment variables for each run
     os.environ["DATATYPE"] = datatype
     os.environ["QUESTION"] = question
+
+    # Check if the encoded file exists before running
+    if not check_encoded_file_exists({"EXAM": EXAM, "DATATYPE": datatype, "QUESTION": question, "YEAR": "August2024"}):
+        print(f"⚠️ Skipping {question} due to missing encoded file.")
+        return
 
     # Execute the main script
     subprocess.run(["python", MAIN_SCRIPT], env=os.environ)

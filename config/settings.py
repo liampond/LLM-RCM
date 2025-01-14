@@ -1,7 +1,7 @@
 # Prompt settings
 EXAM = "RCM6"             # Options: "RCM5" or "RCM6"
 CONTEXT = "NoContext"     # Options: "Context" or "NoContext"
-QUESTION = "Q5"          # Options: "Q#"
+QUESTION = "Q5"           # Options: "Q#"
 YEAR = "August2024"       # Option: "August2024"
 
 # API settings
@@ -23,13 +23,11 @@ CHATGPT_API_KEY = os.getenv("CHATGPT_API_KEY")
 CLAUDE_API_KEY = os.getenv("CLAUDE_API_KEY")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
-PROMPT_FILENAME = f"{EXAM}_{YEAR}_{QUESTION}_{CONTEXT}Prompt.txt" # Ensure EXAM and CONTEXT match in the PROMPT_FILENAME
-
 # Prompt paths
 BASE_PROMPT_DIR = "prompts"
 SYSTEM_PROMPT_PATH = f"{BASE_PROMPT_DIR}/AllPrompts/AllPromptsSystem.txt"
 DATATYPE_PROMPT_PATH = f"{BASE_PROMPT_DIR}/AllPrompts/AllPromptsUser_{DATATYPE}.txt"
-MAIN_PROMPT_PATH = f"{BASE_PROMPT_DIR}/{EXAM}/{CONTEXT}/{PROMPT_FILENAME}"
+MAIN_PROMPT_PATH = f"{BASE_PROMPT_DIR}/{EXAM}/{CONTEXT}/{EXAM}_{YEAR}_{QUESTION}_{CONTEXT}Prompt.txt"
 
 # File extension mapping
 EXTENSION_MAP = {
@@ -51,7 +49,7 @@ def check_encoded_file_exists(question):
     if question in QUESTIONS_WITHOUT_ENCODED_FILES:
         print(f"Skipping encoded file check for {question} as it is known to have no encoded file.")
         return False
-    encoded_file_path = os.path.join(BASE_PROMPT_DIR, f"{EXAM}_{YEAR}_{question}_{CONTEXT}Encoded.txt")
+    encoded_file_path = os.path.join("EncodedFiles", EXAM, DATATYPE, f"{EXAM}_{YEAR}_{question}{EXTENSION_MAP.get(DATATYPE, '.txt')}")
     if not os.path.exists(encoded_file_path):
         raise FileNotFoundError(f"Encoded file not found for {question}")
     return True

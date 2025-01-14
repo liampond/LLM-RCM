@@ -1,5 +1,5 @@
 import openai
-from settings import CHATGPT_MODEL, TEMPERATURE, NUM_RESPONSES
+from config.settings import CHATGPT_MODEL, TEMPERATURE, NUM_RESPONSES
 
 def chatgpt_request(conversation, api_key):
     client = openai.OpenAI(api_key=api_key)
