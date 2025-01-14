@@ -35,14 +35,6 @@ else:
         {"role": "user", "content": final_user_prompt}
     ]
 
-# Construct conversation
-conversation = [
-    {"role": "system", "content": system_prompt},
-    {"role": "user", "content": first_user_prompt},
-    {"role": "user", "content": f"Here is the encoded music file in {DATATYPE} format:\n\n{encoded_file_content}"},
-    {"role": "user", "content": final_user_prompt}
-]
-
 # Handle model-specific requests
 if MODEL == "ChatGPT":
     response = chatgpt_request(conversation, CHATGPT_API_KEY)
