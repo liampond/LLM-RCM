@@ -7,14 +7,16 @@ from utils.file_manager import save_response
 from settings import (
     CHATGPT_API_KEY, CLAUDE_API_KEY, GEMINI_API_KEY, CHATGPT_MODEL, 
     TEMPERATURE, NUM_RESPONSES, SYSTEM_PROMPT_PATH, 
-    FIRST_USER_PROMPT_PATH, FINAL_USER_PROMPT_PATH, 
+    DATATYPE_PROMPT_PATH, MAIN_PROMPT_PATH, 
     OUTPUT_FILENAME, MODEL, EXAM, DATATYPE, ENCODED_FILENAME,
-    QUESTIONS_WITHOUT_ENCODED_FILES
+    QUESTIONS_WITHOUT_ENCODED_FILES, check_encoded_file_exists,
+    QUESTION, 
 )
 
 # Load prompts
 system_prompt = load_prompt(SYSTEM_PROMPT_PATH)
-first_user_prompt = load_prompt(FIRST_USER_PROMPT_PATH)
+first_user_prompt = load_prompt(DATATYPE_PROMPT_PATH)
+final_user_prompt = load_prompt(MAIN_PROMPT_PATH)
 
 # Check if the encoded file should be skipped
 if check_encoded_file_exists(QUESTION):
