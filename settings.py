@@ -1,7 +1,7 @@
 # Prompt settings
 EXAM = "RCM6"             # Options: "RCM5" or "RCM6"
 CONTEXT = "NoContext"     # Options: "Context" or "NoContext"
-QUESTION = "Q3a"          # Options: "Q#"
+QUESTION = "Q5"          # Options: "Q#"
 YEAR = "August2024"       # Option: "August2024"
 
 # API settings
@@ -44,7 +44,7 @@ FILE_EXTENSION = EXTENSION_MAP.get(DATATYPE, ".txt")
 ENCODED_FILENAME = f"{EXAM}_{YEAR}_{QUESTION}{FILE_EXTENSION}"
 
 # List of questions without encoded files
-QUESTIONS_WITHOUT_ENCODED_FILES = ["Q3a", "Q3b", "Q3c", "Q3d", "Q3e", "Q9"]  # Add questions that don't have encoded files here
+QUESTIONS_WITHOUT_ENCODED_FILES = ["Q3a", "Q3b", "Q3c", "Q3d", "Q3e", "Q5", "Q9"]  # Add questions that don't have encoded files here
 
 # Function to check if the encoded file exists
 def check_encoded_file_exists(question):
@@ -55,15 +55,3 @@ def check_encoded_file_exists(question):
     if not os.path.exists(encoded_file_path):
         raise FileNotFoundError(f"Encoded file not found for {question}")
     return True
-
-# Output path
-OUTPUT_DIR = f"outputs/{MODEL}/{EXAM}/{DATATYPE}/"
-OUTPUT_FILENAME = f"{EXAM}_{YEAR}_{QUESTION}_{CONTEXT}_{DATATYPE}_Output.txt"
-
-# Example usage
-try:
-    if check_encoded_file_exists(QUESTION):
-        # Proceed with loading the encoded file
-        pass
-except FileNotFoundError as e:
-    print(e)
