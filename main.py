@@ -3,7 +3,7 @@ from models.claude_api import claude_request
 from models.gemini_api import gemini_request
 from utils.prompt_loader import load_prompt
 from utils.file_manager import save_response
-from settings import CHATGPT_API_KEY, CLAUDE_API_KEY, GEMINI_API_KEY
+from settings import CHATGPT_API_KEY, CLAUDE_API_KEY, GEMINI_API_KEY, CHATGPT_MODEL, TEMPERATURE, NUM_RESPONSES
 
 # Configurable model selection
 MODEL = "ChatGPT"  # Options: "ChatGPT", "Claude", "Gemini"

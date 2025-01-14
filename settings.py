@@ -8,7 +8,8 @@ YEAR = "August2024"       # Option: "August2024"
 DATATYPE = "MEI"          # Options: "ABC", "HumDrum", "MEI", "MusicXML"
 MODEL = "ChatGPT"         # Options: "ChatGPT", "Claude", "Gemini"
 
-# General model configuration
+# ChatGPT Configuration
+CHATGPT_MODEL = "gpt-4o-2024-11-20"
 TEMPERATURE = 0
 NUM_RESPONSES = 5
 
