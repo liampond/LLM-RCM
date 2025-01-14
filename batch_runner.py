@@ -16,17 +16,11 @@ def map_prompt_to_encoded(question):
     return [question]
 
 def run_main_script(datatype, question):
-    # Set environment variables for each run
-    os.environ["DATATYPE"] = datatype
-    os.environ["QUESTION"] = question
+    env = os.environ.copy()
+    env["DATATYPE"] = datatype
+    env["QUESTION"] = question
 
-    # Check if the encoded file exists before running
-    if not check_encoded_file_exists({"EXAM": EXAM, "DATATYPE": datatype, "QUESTION": question, "YEAR": "August2024"}):
-        print(f"⚠️ Skipping {question} due to missing encoded file.")
-        return
-
-    # Execute the main script
-    subprocess.run(["python", MAIN_SCRIPT], env=os.environ)
+    subprocess.run(["python", "main.py"], env=env)
 
 def get_all_questions(exam, context):
     # Path to the prompts folder

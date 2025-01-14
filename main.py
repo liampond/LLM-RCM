@@ -11,35 +11,39 @@ from config.settings import (
     MODEL, EXAM, DATATYPE, EXTENSION_MAP
 )
 from config.config_loader import load_runtime_config, build_encoded_filename, check_encoded_file_exists
+import os
+
+QUESTION = os.getenv("QUESTION")
 
 # Load dynamic runtime configuration
 config = load_runtime_config()
 
-# Load prompts
+# Load system and final prompts
 system_prompt = load_prompt(SYSTEM_PROMPT_PATH)
 final_user_prompt = load_prompt(MAIN_PROMPT_PATH)
 
-# Check if the question requires a first user prompt and encoded file
-questions_without_encoded_files = ["Q3a", "Q3b", "Q3c", "Q3d", "Q3e", "Q5", "Q9"]
+# Define questions that do NOT need the first user prompt or encoded file
+questions_without_encoded_files = ["Q3a", "Q3b", "Q3c", "Q3d", "Q3e", "Q5", "Q6", "Q9a", "Q9b"]
 
+# Handle special cases
 if config["QUESTION"] in questions_without_encoded_files:
-    # For Q3 series, only include system and final prompts
+    # Only system and final prompts for these questions
     conversation = [
         {"role": "system", "content": system_prompt},
         {"role": "user", "content": final_user_prompt}
     ]
 else:
-    # Check if the encoded file exists for other questions
+    # Standard flow for other questions
     if not check_encoded_file_exists(config):
         print(f"⚠️ Skipping {config['QUESTION']} due to missing encoded file.")
         exit()
-    
+
     # Load first user prompt and encoded file
     first_user_prompt = load_prompt(DATATYPE_PROMPT_PATH)
     encoded_filename = build_encoded_filename(config)
     encoded_file_content = load_encoded_file(config["EXAM"], config["DATATYPE"], encoded_filename)
-    
-    # Construct conversation with full prompts and encoded file
+
+    # Full conversation with all prompts
     conversation = [
         {"role": "system", "content": system_prompt},
         {"role": "user", "content": first_user_prompt},
