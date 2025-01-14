@@ -1,0 +1,3 @@
+MODEL_NAME = "gpt-3.5-turbo"
+TEMPERATURE = 0
+NUM_RESPONSES = 5
