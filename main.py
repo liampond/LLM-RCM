@@ -8,13 +8,13 @@ from settings import (
     CHATGPT_API_KEY, CLAUDE_API_KEY, GEMINI_API_KEY, CHATGPT_MODEL, 
     TEMPERATURE, NUM_RESPONSES, SYSTEM_PROMPT_PATH, 
     FIRST_USER_PROMPT_PATH, FINAL_USER_PROMPT_PATH, 
-    OUTPUT_FILENAME, MODEL, EXAM, DATATYPE, FILENAME
+    OUTPUT_FILENAME, MODEL, EXAM, DATATYPE, PROMPT_FILENAME, ENCODING_FILENAME
 )
 
 # Load prompts
 system_prompt = load_prompt(SYSTEM_PROMPT_PATH)
 first_user_prompt = load_prompt(FIRST_USER_PROMPT_PATH)
-encoded_file_content = load_encoded_file(EXAM, DATATYPE, FILENAME)
+encoded_file_content = load_encoded_file(EXAM, DATATYPE, ENCODING_FILENAME)
 final_user_prompt = load_prompt(FINAL_USER_PROMPT_PATH)
 
 conversation = [
