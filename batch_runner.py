@@ -20,7 +20,7 @@ def run_main_script(datatype, question):
     env["DATATYPE"] = datatype
     env["QUESTION"] = question
 
-    subprocess.run(["python", "main.py"], env=env)
+    subprocess.run(["python", MAIN_SCRIPT], env=env)
 
 def get_all_questions(exam, context):
     # Path to the prompts folder
@@ -33,30 +33,41 @@ def get_all_questions(exam, context):
     )
     return questions
 
-def batch_run(exam, context, datatype=None):
+def batch_run(exam, context, datatype=None, specific_question=None):
     # Get all questions for the given exam and context
     questions = get_all_questions(exam, context)
     
     datatypes_to_run = [datatype] if datatype else DATA_TYPES
-    
+
     for dt in datatypes_to_run:
-        for question in questions:
-            mapped_questions = map_prompt_to_encoded(question)
+        # ✅ Run only the specific question if provided
+        if specific_question:
+            mapped_questions = map_prompt_to_encoded(specific_question)
             for mq in mapped_questions:
-                print(f"Running {exam} {context} {dt} {mq}")
+                print(f"🔎 Running {exam} {context} {dt} {mq}")
                 run_main_script(dt, mq)
+        else:
+            # Run all questions if no specific question is provided
+            for question in questions:
+                mapped_questions = map_prompt_to_encoded(question)
+                for mq in mapped_questions:
+                    print(f"🔎 Running {exam} {context} {dt} {mq}")
+                    run_main_script(dt, mq)
 
 if __name__ == "__main__":
     import argparse
 
-    parser = argparse.ArgumentParser(description="Batch run all questions for a given datatype or all datatypes.")
+    parser = argparse.ArgumentParser(description="Batch run all questions or a specific question.")
     parser.add_argument("--exam", type=str, choices=["RCM5", "RCM6"], default=EXAM, help="Exam level (RCM5 or RCM6)")
     parser.add_argument("--context", type=str, choices=["Context", "NoContext"], default=CONTEXT, help="Context level")
     parser.add_argument("--datatype", type=str, choices=DATA_TYPES + ["All"], default="All", help="Data type or 'All'")
+    parser.add_argument("--question", type=str, help="Specific question to run (e.g., Q5)")
 
     args = parser.parse_args()
 
     selected_datatype = None if args.datatype == "All" else args.datatype
-    batch_run(args.exam, args.context, selected_datatype)
+
+    # ✅ If a specific question is provided, only run that one
+    batch_run(args.exam, args.context, selected_datatype, args.question)
 
     print("✅ Batch run complete.")

@@ -6,14 +6,21 @@ from utils.encoded_file_loader import load_encoded_file
 from utils.file_manager import save_response
 from config.settings import (
     CHATGPT_API_KEY, CLAUDE_API_KEY, GEMINI_API_KEY, CHATGPT_MODEL, 
-    TEMPERATURE, NUM_RESPONSES, SYSTEM_PROMPT_PATH, 
-    DATATYPE_PROMPT_PATH, MAIN_PROMPT_PATH, 
-    MODEL, EXAM, DATATYPE, EXTENSION_MAP
+    TEMPERATURE, NUM_RESPONSES, MODEL, EXTENSION_MAP
 )
 from config.config_loader import load_runtime_config, build_encoded_filename, check_encoded_file_exists
 import os
 
+EXAM = os.getenv("EXAM")
+CONTEXT = os.getenv("CONTEXT")
+YEAR = os.getenv("YEAR")
+DATATYPE = os.getenv("DATATYPE")
 QUESTION = os.getenv("QUESTION")
+
+BASE_PROMPT_DIR = "prompts"
+SYSTEM_PROMPT_PATH = f"{BASE_PROMPT_DIR}/AllPrompts/AllPromptsSystem.txt"
+DATATYPE_PROMPT_PATH = f"{BASE_PROMPT_DIR}/AllPrompts/AllPromptsUser_{DATATYPE}.txt"
+MAIN_PROMPT_PATH = f"{BASE_PROMPT_DIR}/{EXAM}/{CONTEXT}/{EXAM}_{YEAR}_{QUESTION}_{CONTEXT}Prompt.txt"
 
 # Load dynamic runtime configuration
 config = load_runtime_config()
