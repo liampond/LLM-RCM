@@ -94,4 +94,4 @@ if __name__ == "__main__":
     parser.add_argument('--examdate', type=str, default='August2024', help='Exam date (e.g., August2024)')
 
     args = parser.parse_args()
-    main(args.exam, args.context, args.datatype, args.question, args.model, args.year)
+    main(args.exam, args.context, args.datatype, args.question, args.model, args.examdate)
