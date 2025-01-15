@@ -1,71 +1,39 @@
-import os
 import subprocess
-from config.settings import EXAM, CONTEXT, MODEL, EXTENSION_MAP
-from config.config_loader import check_encoded_file_exists
+import argparse
 
-# Define all data types
-DATA_TYPES = ["ABC", "MEI", "HumDrum", "MusicXML"]
+# List of all questions to iterate through
+QUESTIONS = ["Q1a", "Q1b", "Q2a", "Q2b", "Q3a", "Q3b", "Q3c", "Q3d", "Q3e", "Q4a", "Q4b", "Q5",
+              "Q6i", "Q6ii", "Q7ai", "Q7aii", "Q7aiii", "Q7b", "Q9a", "Q9b", "Q10"]
+# List of supported datatypes
+DATATYPES = ["ABC", "HumDrum", "MEI", "MusicXML"]
 
-# Define the path to the main script
-MAIN_SCRIPT = "main.py"
+def run_batch(model, exam, context, examdate):
+    for question in QUESTIONS:
+        for datatype in DATATYPES:
+            # Command to run main.py with dynamic arguments
+            command = [
+                "python", "main.py",
+                "--exam", exam,
+                "--context", context,
+                "--datatype", datatype,
+                "--question", question,
+                "--model", model,
+                "--examdate", examdate
+            ]
 
-def map_prompt_to_encoded(question):
-    # Special case: Map Q7a to Q7ai, Q7aii, and Q7aiii
-    if question == "Q7a":
-        return ["Q7ai", "Q7aii", "Q7aiii"]
-    return [question]
+            # Display the command for tracking
+            print(f"▶️ Running: {' '.join(command)}")
 
-def run_main_script(datatype, question):
-    env = os.environ.copy()
-    env["DATATYPE"] = datatype
-    env["QUESTION"] = question
-
-    subprocess.run(["python", MAIN_SCRIPT], env=env)
-
-def get_all_questions(exam, context):
-    # Path to the prompts folder
-    prompt_dir = os.path.join("prompts", exam, context)
-    
-    # Sort files numerically by question number (e.g., Q1a, Q2b)
-    questions = sorted(
-        [f.split("_")[2] for f in os.listdir(prompt_dir) if f.endswith("Prompt.txt")],
-        key=lambda q: (int(q[1:-1]), q[-1]) if q[1:-1].isdigit() else (int(q[1:]), '')
-    )
-    return questions
-
-def batch_run(exam, context, datatype=None, specific_question=None):
-    datatypes_to_run = [datatype] if datatype else DATA_TYPES
-
-    for dt in datatypes_to_run:
-        if specific_question:
-            # Run only the specified question
-            mapped_questions = map_prompt_to_encoded(specific_question)
-            for mq in mapped_questions:
-                print(f"🔎 Running {exam} {context} {dt} {mq}")
-                run_main_script(dt, mq)
-        else:
-            # Run all questions if no specific question is given
-            questions = get_all_questions(exam, context)
-            for question in questions:
-                mapped_questions = map_prompt_to_encoded(question)
-                for mq in mapped_questions:
-                    print(f"🔎 Running {exam} {context} {dt} {mq}")
-                    run_main_script(dt, mq)
+            # Run the command
+            subprocess.run(command)
 
 if __name__ == "__main__":
-    import argparse
-
-    parser = argparse.ArgumentParser(description="Batch run all questions or a specific question.")
-    parser.add_argument("--exam", type=str, choices=["RCM5", "RCM6"], default=EXAM, help="Exam level")
-    parser.add_argument("--context", type=str, choices=["Context", "NoContext"], default=CONTEXT, help="Context level")
-    parser.add_argument("--datatype", type=str, choices=DATA_TYPES + ["All"], default="All", help="Data type or 'All'")
-    parser.add_argument("--question", type=str, help="Specific question to run (e.g., Q5)")
+    parser = argparse.ArgumentParser(description="Batch runner for multiple questions and datatypes.")
+    parser.add_argument('--model', type=str, default="ChatGPT", help='Model to use (ChatGPT, Claude, Gemini), default: ChatGPT')
+    parser.add_argument('--exam', type=str, default="RCM6", help='Exam level (default: RCM6)')
+    parser.add_argument('--context', type=str, default="NoContext", help='Context (default: NoContext)')
+    parser.add_argument('--examdate', type=str, default="August2024", help='Exam date (default: August2024)')
 
     args = parser.parse_args()
 
-    selected_datatype = None if args.datatype == "All" else args.datatype
-
-    # Run either a specific test or all tests
-    batch_run(args.exam, args.context, selected_datatype, args.question)
-
-    print("✅ Batch run complete.")
+    run_batch(args.model, args.exam, args.context, args.examdate)
