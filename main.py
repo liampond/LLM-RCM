@@ -78,12 +78,12 @@ def main(exam, context, datatype, question, model, examdate):
     output_dir = os.path.join("outputs", model, exam, datatype)
     os.makedirs(output_dir, exist_ok=True)
 
-    output_filename = f"{exam}_{examdate}_{question}_{context}_{datatype}_Output.txt"
+    output_filename = f"{model}_{exam}_{examdate}_{question}_{context}_{datatype}_Output.txt"
     output_path = os.path.join(output_dir, output_filename)
 
     save_response(output_path, response_content)
 
-    print(f"✅ {model} response for {question}, {exam}_{examdate}, {datatype}, {context} saved to {output_path}")
+    print(f"✅ {model} response for {question}, {model}, {exam}_{examdate}, {datatype}, {context} saved to {output_path}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run prompt generation and model API call.")
@@ -91,7 +91,7 @@ if __name__ == "__main__":
     parser.add_argument('--context', type=str, required=True, help='Context (Context or NoContext)')
     parser.add_argument('--datatype', type=str, required=True, help='Data type (ABC, MEI, HumDrum, MusicXML)')
     parser.add_argument('--question', type=str, required=True, help='Question number (e.g., Q1a)')
-    parser.add_argument('--model', type=str, default='ChatGPT', help='Model to use (ChatGPT, Claude, Gemini)')
+    parser.add_argument('--model', type=str, required=True, help='Model to use (ChatGPT, Claude, Gemini)')
     parser.add_argument('--examdate', type=str, default='August2024', help='Exam date (e.g., August2024)')
 
     args = parser.parse_args()
