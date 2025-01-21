@@ -10,5 +10,7 @@ def chatgpt_request(conversation, api_key):
         temperature=TEMPERATURE,
         n=NUM_RESPONSES
     )
+
+    output = "\n".join([choice.message.content.strip() for choice in response.choices])
     
-    return response
+    return output

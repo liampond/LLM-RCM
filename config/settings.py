@@ -4,7 +4,9 @@ import google.generativeai as genai
 TEMPERATURE = 0
 NUM_RESPONSES = 1
 CHATGPT_MODEL = "gpt-4o-2024-11-20"
-GEMINI_MODEL = genai.GenerativeModel("gemini-1.5-flash")
+GEMINI_MODEL = "gemini-1.5-flash"
+
+sys_prompt_path = "prompts/AllPrompts/AllPromptsSystem.txt"
 
 # API Keys (loaded from .env)
 import os
