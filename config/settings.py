@@ -1,7 +1,10 @@
-# ChatGPT Configuration
-CHATGPT_MODEL = "gpt-4o-2024-11-20"
+import google.generativeai as genai
+
+# Configuration
 TEMPERATURE = 0
 NUM_RESPONSES = 1
+CHATGPT_MODEL = "gpt-4o-2024-11-20"
+GEMINI_MODEL = genai.GenerativeModel("gemini-1.5-flash")
 
 # API Keys (loaded from .env)
 import os
