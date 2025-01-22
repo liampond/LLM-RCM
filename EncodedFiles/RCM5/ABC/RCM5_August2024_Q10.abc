@@ -1,0 +1,22 @@
+X:1
+T:RCM5_August2024_Q10
+%%scale 0.83
+%%pagewidth 21.00cm
+%%leftmargin 1.50cm
+%%rightmargin 1.50cm
+%%score { 1 | ( 2 3 ) }
+L:1/8
+M:6/8
+I:linebreak $
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:3 bass 
+V:1
+!p! F | d3({/e} dcd) | (f2 e) d3 | c2 c (cdB) | (ABG) (Ffe) |!mp! d2 d{/e} dcd |$ (.f.=e._e) d3 | %7
+ c2 c({/B} AGA) | (!>![Ac]3 B2) :| %9
+V:2
+ z | B,DF B,DF | A,CF B,DF | E,G,C =E,G,C | [F,C]2 z z2 z | B,DF B,DF |$ A,CF B,DF | E,G,C F,CF | %8
+ B,3- B,2 :| %9
+V:3
+ x | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | EFE D2 :| %9
