@@ -1,10 +1,9 @@
-import google.generativeai as genai
-
 # Configuration
 TEMPERATURE = 0
 NUM_RESPONSES = 1
 CHATGPT_MODEL = "gpt-4o-2024-11-20"
-GEMINI_MODEL = "gemini-1.5-flash"
+GEMINI_MODEL = "gemini-1.5-pro"
+CLAUDE_MODEL = "claude-3-5-sonnet-latest"
 
 sys_prompt_path = "prompts/AllPrompts/AllPromptsSystem.txt"
 

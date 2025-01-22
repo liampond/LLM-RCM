@@ -1,5 +1,15 @@
+import anthropic
+from config.settings import CLAUDE_MODEL, TEMPERATURE, NUM_RESPONSES
+
 def claude_request(conversation, api_key):
-    # Pseudo-code for Claude API
-    # Replace this with actual Claude API call
-    response = "Claude response placeholder"
-    return response
+    client = anthropic.Anthropic(api_key=api_key)
+    
+    message = client.messages.create(
+    model=CLAUDE_MODEL,
+    messages=conversation,
+    temperature=TEMPERATURE
+)
+
+    output = message.content
+    
+    return output
