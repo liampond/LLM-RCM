@@ -1,1 +1,1 @@
-Now, please tell me the intervals between the notes in each measure.
+Return the intervals between the notes in each measure.

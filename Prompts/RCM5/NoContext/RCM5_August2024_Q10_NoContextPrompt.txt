@@ -1,0 +1,10 @@
+For the above piece of music, answer the following questions:
+-Name the key of this piece
+-Return the time signature of the piece
+-Name the interval between the first two notes in the right hand in bar 2
+-Name the interval between the fourth and fifth notes in the left hand in bar 3
+-Name the triad formed by the first three notes in the left hand in bar 6. Choose from either: tonic triad, subdominant triad, dominant triad
+-How many times does the tonic triad appear in the broken form?
+-Indicate two consecutive notes in the same hand that form a chromatic half step
+-Name the lowest note in this piece
+-Explain the meaning of "andante"

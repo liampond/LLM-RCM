@@ -1,0 +1,1 @@
+Please return the notes present in an ascending and descending scale that is the relative major of F sharp minor in the bass clef using a key signature and any necessary accidentals.

@@ -1,0 +1,1 @@
+Return the enharmonic equivalent of the notes in bars 3, 5, 7, 9, and 11. Bars 1 and 2 are an example of the correct answer.

@@ -1,0 +1,1 @@
+Please return the notes present in an ascending and descending G minor scale, harmonic form, in the treble clef using a key signature and any necessary accidentals.
