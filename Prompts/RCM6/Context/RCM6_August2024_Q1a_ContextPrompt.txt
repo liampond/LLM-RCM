@@ -1,1 +1,87 @@
-Return the intervals between the notes in each measure.
+I am going to ask you to determine the intervals between the notes in each measure of the file. However, I will first provide a step-by-step guide on how to determine the intervals.
+
+Step 1: Identify the Notes
+Recognize the two notes you are comparing. For example, C and E.
+
+Step 2: Determine the Interval Number
+Count the letter names of the two notes (ignoring accidentals), starting from the lower note as 1. Include both the starting and ending notes.
+
+Example: From C to E: C (1), D (2), E (3). This is a third.
+Step 3: Determine the Quality of the Interval
+Use the major scale of the lower note as a reference.
+
+Identify the higher note within this scale.
+
+If the higher note is in the major scale of the lower note, the interval is either Major or Perfect:
+
+Perfect: Unison, 4th, 5th, Octave.
+Major: 2nd, 3rd, 6th, 7th.
+Example: In the C major scale (C, D, E, F, G, A, B), E is the third note. Therefore, C to E is a Major third.
+
+If the higher note is lowered by one semitone from the major scale, the interval becomes Minor.
+
+Example: C to E♭ is a Minor third.
+If the higher note is lowered further (by another semitone), the interval becomes Diminished.
+
+If the higher note is raised from the major scale note, the interval becomes Augmented.
+
+Step 4: Adjust for Accidentals
+Check the accidentals (sharps or flats) on either note and adjust the quality:
+
+If the accidental alters the relationship to the major scale, adjust the quality accordingly (Major ↔ Minor, Perfect ↔ Augmented/Diminished).
+
+Example: From C♯ to E:
+
+In the C♯ major scale (C♯, D♯, E♯, F♯, G♯, A♯, B♯), E is not present—it is a semitone lower than E♯. Therefore, the interval is Minor third.
+Step 5: Combine the Number and Quality
+State the interval by combining the number (Step 2) and the quality (Step 3).
+
+Example: C to E is a Major third, while C to E♭ is a Minor third.
+
+-----
+Now, here are some examples of how you would determine the interval.
+
+Step 1: Identify the Notes
+Let's say the two notes are D and B♭.
+
+Step 2: Determine the Interval Number
+Count the letter names of the two notes, starting with D as 1 and including B.
+
+D (1), E (2), F (3), G (4), A (5), B (6).
+This makes the interval a sixth.
+
+Step 3: Determine the Quality of the Interval
+Use the D major scale as a reference. The D major scale is:
+D, E, F♯, G, A, B, C♯.
+Locate B within the scale. The note B is the 6th note in the D major scale. This makes D to B a Major sixth.
+Now compare B♭ to B. Since B♭ is one semitone lower than B, the interval becomes Minor.
+
+Step 4: Adjust for Accidentals
+The accidental (♭) on B already lowered it, so no further adjustment is needed. The interval remains Minor.
+
+Step 5: Combine the Number and Quality
+The interval between D and B♭ is a Minor sixth.
+-----
+Here's another example
+
+Step 1: Identify the Notes
+Let's say two notes are G𝄫 and A♭.
+
+Step 2: Determine the Interval Number
+Count the letter names from G to A, starting with G as 1.
+
+G (1), A (2).
+This makes the interval a second.
+
+Step 3: Determine the Quality of the Interval
+Use the G major scale as a reference. The G major scale is:
+G, A, B, C, D, E, F♯.
+In the G major scale, the note A is the 2nd note. This means G to A is a Major second.
+Compare G𝄫 (G double flat) to G. G𝄫 is two semitones lower than G, making the starting note effectively lower by two semitones.
+Lowering the starting note by two semitones changes the quality of the interval from Major to Diminished.
+
+Step 4: Combine the Number and Quality
+The interval between G𝄫 and A♭ is a Diminished second.
+
+
+Now, return the intervals between the notes in each measure.
