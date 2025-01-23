@@ -109,7 +109,7 @@ def main(exam, context, datatype, question, model, examdate):
     # Call the model API
     response = call_model_api(model, conversation, history)
 
-    output_dir = os.path.join("outputs", model, exam, datatype)
+    output_dir = os.path.join("outputs", model, exam, context, datatype)
     os.makedirs(output_dir, exist_ok=True)
 
     output_filename = f"{model}_{exam}_{examdate}_{question}_{context}_{datatype}_Output.txt"
