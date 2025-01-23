@@ -1,0 +1,7 @@
+Please return the following regarding the melody provided:
+-Name the key of the melody
+-Return the time signature of the melody
+-Write the root/quality chord symbol implied by the melody in bar 1
+-Write the root/quality chord symbol implied by the melody in bar 2
+-Write the root/quality chord symbol implied by the melody in bar 3
+-Write the root/quality chord symbol implied by the melody in bar 4

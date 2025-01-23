@@ -1,0 +1,3 @@
+For each musical term in group 1, identify the opposite term in group 2. Not all terms in group 2 will be used. However, once a term in group 2 is used, it will not be repeated for another group 1 term.
+Group 1: allegro, staccato, expressivo, mano sinistra, crescendo, largo
+Group 2: right hand; left hand; fast; becoming louder; becoming softer; detached; very slow; expressive, with expression

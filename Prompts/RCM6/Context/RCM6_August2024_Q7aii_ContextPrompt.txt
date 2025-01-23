@@ -1,0 +1,3 @@
+Please return the following regarding the melody provided:
+-Name the key of the melody
+-Return the time signature of the melody

@@ -1,0 +1,11 @@
+For the piece above:
+-Name the key of the piece
+-Return the time signature of the piece
+-What chord is outlined by the first three eighth notes of the second bar (in both hands)? The three options are: supertonic triad, subdominant triad, submediant triad.
+-What is the interval between the last eighth note in the left hand of bar 2 and the first note in the left hand of bar 3?
+-What is the functional chord symbol for the chord outlined by the first three eighth notes of bar 5 (in both hands)?
+-What chord is outlined by the last three eighth notes of bar 7 (in both hands)?
+-What is the interval between the second eighth note in the left hand of bar 8 and the third eighth note in the left hand of bar 8?
+-What kind of rest should go at the end of bar 8 in the right hand, after the F?
+-Is the given passage an example of a parallel period or a contrasting period?
+-Explain the meaning of allegretto vivace
