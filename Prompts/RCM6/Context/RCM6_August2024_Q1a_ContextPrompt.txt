@@ -1,0 +1,161 @@
+I am going to ask you to determine the intervals between the notes in each measure of the file. However, I will first provide a step-by-step guide on how to determine the intervals.
+
+Step 1: Identify the Notes in the File
+Recognize the two notes you are comparing. For example, C and E.
+
+Step 2: Determine the Interval Number
+Count the letter names of the two notes, ignoring accidentals, starting from the lower note as 1. Include both the starting and ending notes.
+
+Example: From C to E: C (1), D (2), E (3). This is a third.
+
+Step 3.
+To determine the quality of a musical interval, follow these detailed steps, with particular attention to accidentals (sharps, flats, and naturals):
+
+Step 3.1: Use the Major Scale of the Lower Note
+Start with the lower note and imagine or recall its major scale.
+Example: For C, the major scale is C, D, E, F, G, A, B.
+Check where the higher note falls in relation to the notes in this major scale:
+If the higher note matches the note in the major scale, the interval is either:
+Perfect (unison, 4th, 5th, octave).
+Major (2nd, 3rd, 6th, 7th).
+Example 1: In the C major scale, the note G is the 5th. C to G is a Perfect fifth.
+Example 2: In the C major scale, the note E is the 3rd. C to E is a Major third.
+
+Step 3.2: Adjust for Accidentals
+Accidentals affect the higher note's position relative to the major scale. This determines whether the interval becomes minor, diminished, or augmented.
+Perfect Intervals (Unison, 4th, 5th, Octave):
+If the higher note is lowered by one semitone: The interval becomes Diminished.
+Example: In the C major scale, G is the 5th. If G is lowered to G♭, the interval becomes a Diminished fifth.
+If the higher note is raised by one semitone: The interval becomes Augmented.
+Example: In the C major scale, G is the 5th. If G is raised to G♯, the interval becomes an Augmented fifth.
+Major Intervals (2nd, 3rd, 6th, 7th):
+If the higher note is lowered by one semitone: The interval becomes Minor.
+Example: In the C major scale, E is the 3rd. If E is lowered to E♭, the interval becomes a Minor third.
+If the higher note is lowered by two semitones: The interval becomes Diminished.
+Example: In the C major scale, E is the 3rd. If E is lowered to E♭♭ (double flat), the interval becomes a Diminished third.
+If the higher note is raised by one semitone: The interval becomes Augmented.
+Example: In the C major scale, E is the 3rd. If E is raised to E♯, the interval becomes an Augmented third.
+
+Step 3.3: Compare Accidentals Between the Notes
+Accidentals on the lower note also affect the starting point of the interval:
+If the lower note is raised or lowered, treat it as if the note itself has shifted.
+Example: If the lower note is C♯ (not C), the major scale shifts to C♯, D♯, E♯, F♯, G♯, A♯, B♯.
+Recalculate the interval by comparing the higher note to the adjusted major scale of the lower note.
+
+Step 3.4: Combine Interval Number and Quality
+After accounting for accidentals, determine the final number (e.g., second, third) and quality (e.g., Major, Minor, Perfect, Augmented, or Diminished).
+
+Step 4: Adjust for Accidentals
+Check the accidentals (sharps or flats) on either note and adjust the quality:
+
+If the accidental alters the relationship to the major scale, adjust the quality accordingly (Major ↔ Minor, Perfect ↔ Augmented/Diminished).
+
+Example: From C♯ to E:
+
+In the C♯ major scale (C♯, D♯, E♯, F♯, G♯, A♯, B♯), E is not present—it is a semitone lower than E♯. Therefore, the interval is Minor third.
+Step 5: Combine the Number and Quality
+State the interval by combining the number (Step 2) and the quality (Step 3).
+
+Example: C to E is a Major third, while C to E♭ is a Minor third.
+
+-----
+Now, here are some examples of how you would determine the interval.
+
+Example: Determining the Interval Between D♯ and D𝄪 (D Double Sharp), Same Octave
+
+Step 1: Identify the Notes in the File
+The two notes are D♯ (lower note) and D𝄪 (higher note).
+
+Step 2: Determine the Interval Number
+Count the letter names, starting with the lower note as 1.
+D (1) → D (still D).
+Since the letter name remains the same, this is a Unison.
+
+Step 3: Determine the Quality of the Interval
+Reference the D♯ Major Scale:
+The D♯ major scale is: D♯, E♯, F𝄪, G♯, A♯, B♯, C𝄪.
+In this scale, D♯ (the lower note) and D♯ (unison) would be the same note.
+Compare D𝄪 to D♯:
+D𝄪 is one semitone higher than D♯.
+A Perfect unison raised by one semitone becomes an Augmented unison.
+
+Step 4: Adjust for Accidentals
+The accidental double sharp (𝄪) on the higher note already indicates the pitch is raised by two semitones relative to natural D, so this reinforces the interval as Augmented.
+
+Step 5: Combine the Number and Quality
+The interval is a Unison (from Step 2).
+The quality is Augmented (from Step 3).
+Final Answer: The interval between D♯ and D𝄪 is an Augmented unison.
+
+-----
+Here's another example
+
+Example: Determining the Interval Between D and A♭
+
+Step 1: Identify the Notes in the File
+The two notes are D (lower note) and A♭ (higher note).
+
+Step 2: Determine the Interval Number
+Count the letter names, starting with D as 1:
+D (1), E (2), F (3), G (4), A (5).
+The interval number is a fifth.
+
+Step 3: Determine the Quality of the Interval
+Reference the D Major Scale:
+The D major scale is: D, E, F♯, G, A, B, C♯.
+In this scale, A is the 5th note. D to A is a Perfect fifth.
+Compare A♭ to A:
+A♭ is one semitone lower than A.
+Lowering a Perfect fifth by one semitone makes it a Diminished fifth.
+
+Step 4: Combine the Number and Quality
+The interval is a Fifth (from Step 2).
+The quality is Diminished (from Step 3).
+Final Answer: The interval between D and A♭ is a Diminished fifth.
+-----
+Here's another example:
+
+Step 1: Identify the Notes
+The two notes are G♯ (lower note) and E (higher note).
+
+Step 2: Determine the Interval Number
+Count the letter names, starting with G as 1:
+G (1), A (2), B (3), C (4), D (5), E (6).
+The interval number is a sixth.
+
+Step 3: Determine the Quality of the Interval
+Reference the G♯ Major Scale:
+The G♯ major scale is: G♯, A♯, B♯, C♯, D♯, E♯, F𝄪.
+In this scale, E♯ is the 6th note.
+Compare E to E♯:
+E is one semitone lower than E♯.
+Lowering a Major sixth by one semitone makes it a Minor sixth.
+
+Step 4: Combine the Number and Quality
+The interval is a Sixth (from Step 2).
+The quality is Minor (from Step 3).
+Final Answer: The interval between G♯ and E is a Minor sixth.
+—
+One last example:
+
+Example: Determine the Interval Between G and A♯
+Step 1: Identify the Lower Note and Interval
+Lower note: G
+Specified interval: Interval between G and A♯
+Step 2: Determine the Interval Number
+Count the letter names, starting with G as 1:
+G (1), A (2).
+The interval number is a second.
+Step 3: Use the Major Scale of the Lower Note
+The G major scale is:
+G, A, B, C, D, E, F♯.
+In the G major scale, the note A is the 2nd note, forming a Major 2nd above G.
+Step 4: Adjust the Quality of the Interval
+A♯ is one semitone higher than A.
+Raising a Major 2nd by one semitone makes the interval an Augmented 2nd.
+Step 5: Write the Upper Note
+The upper note is A♯, and the interval is an Augmented 2nd.
+Final Answer
+The interval between G and A♯ is an Augmented 2nd.
+---
+Now, please read the file provided and return the intervals between the notes in each measure, following the same process for each.
