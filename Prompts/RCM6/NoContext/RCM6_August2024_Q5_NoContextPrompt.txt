@@ -1,4 +1,4 @@
-Return the notes present in the following chords using a key signature and any necessary accidentals for each:
+Return the notes present in the following chords using a key signature and any necessary accidentals for each. Only use accidentals when they are not covered by the key signature. Return the accidentals in the key signature in the order that they would be printed in a score.
 -The mediant triad of E flat major in root position
 -The submediant triad of A sharp minor, harmonic form, in second inversion
 -The dominant triad of C sharp minor, harmonic form, in first inversion
