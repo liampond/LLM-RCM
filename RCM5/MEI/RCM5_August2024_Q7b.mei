@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">RCM5_August2024_Q7b</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-21T21:53:42" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">RCM5_August2024_Q7b</rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" meter.count="3" meter.unit="8">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="G" line="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <pb />
+                  <measure xml:id="mgf6kpz" right="dbl" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <note xml:id="nttnrg" dots="1" dur="8" pname="f" oct="4" />
+                           <note xml:id="n1adjdky" type="mscore-beam-none" dur="16" pname="f" oct="4" />
+                           <beam>
+                              <note xml:id="n1srtkzw" type="mscore-beam-begin" dur="16" pname="f" oct="4" />
+                              <note xml:id="n11vc96l" dur="16" pname="f" oct="4" />
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef meter.count="4" meter.unit="2" />
+                  <measure xml:id="mfzj1k1" right="dbl" n="2">
+                     <staff xml:id="m2s1" n="1">
+                        <layer xml:id="m2s1l1" n="1">
+                           <tuplet xml:id="t1g003td" num="3" numbase="2">
+                              <note xml:id="n19jmzza" dur="4" pname="f" oct="4" />
+                              <note xml:id="nsqawgb" dur="4" pname="f" oct="4" />
+                              <note xml:id="n1bnuk2u" dur="4" pname="f" oct="4" />
+                           </tuplet>
+                           <note xml:id="n1iibo51" dur="4" pname="f" oct="4" />
+                           <beam>
+                              <note xml:id="n5f4p5n" dur="8" pname="f" oct="4" />
+                              <note xml:id="npqtin" dur="16" pname="f" oct="4" />
+                              <note xml:id="n152haxj" dur="16" pname="f" oct="4" />
+                           </beam>
+                           <note xml:id="nyto0ox" dur="4" pname="f" oct="4" />
+                           <note xml:id="nrrdmih" dots="1" dur="2" pname="f" oct="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

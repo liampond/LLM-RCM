@@ -1,0 +1,74 @@
+!!!OTL: RCM5_August2024_Q10
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*	*
+*I'Pno.	*	*
+*clefF4	*clefG2	*
+*k[b-e-]	*k[b-e-]	*
+*M6/8	*M6/8	*
+=1	=1	=1
+8r	8f	p
+=	=	=
+8B-L	4.dd	.
+8d	.	.
+8fJ	.	.
+.	(8qee-/	.
+8B-L	8ddL	.
+8d	8cc	.
+8fJ	8ddJ)	.
+=	=	=
+8AL	(4ff	.
+8c	.	.
+8fJ	8ee-)	.
+8B-L	4.dd	.
+8d	.	.
+8fJ	.	.
+=	=	=
+8E-L	4cc	.
+8G	.	.
+8cJ	8cc	.
+8EnL	(8ccL	.
+8G	8dd	.
+8cJ	8b-J)	.
+=	=	=
+4F 4c	(8aL	.
+.	8b-	.
+8r	8gJ)	.
+4r	(8fL	.
+.	8ff	.
+8r	8ee-J)	.
+=	=	=
+8B-L	4dd	mp
+8d	.	.
+8fJ	8dd	.
+.	8qee-/	.
+8B-L	8ddL	.
+8d	8cc	.
+8fJ	8ddJ	.
+!!linebreak:original
+=	=	=
+8AL	(8ff'L	.
+8c	8een'	.
+8fJ	8ee-X'J)	.
+8B-L	4.dd	.
+8d	.	.
+8fJ	.	.
+=	=	=
+8E-L	4cc	.
+8G	.	.
+8cJ	8cc	.
+.	(8qb-/	.
+8FL	8aL	.
+8c	8g	.
+8fJ	8aJ)	.
+=	=	=
+*^	*	*
+[4.B-	8e-L	(4.a^ 4.cc	.
+.	8f	.	.
+.	8e-J	.	.
+4B-]	4d	4b-)	.
+*v	*v	*	*
+=:|!	=:|!	=:|!
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}

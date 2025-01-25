@@ -1,0 +1,13 @@
+X:1
+T:RCM5_August2024_Q2b
+%%scale 0.83
+%%pagewidth 21.00cm
+%%leftmargin 1.50cm
+%%rightmargin 1.50cm
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 bass nm="Piano" snm="Pno."
+V:1
+ _E,4 | ^D,4 || ^G,,4 | z4 || _C,4 | z4 || ^A,4 | z4 || F,,4 | z4 || _D4 | z4 || %12
