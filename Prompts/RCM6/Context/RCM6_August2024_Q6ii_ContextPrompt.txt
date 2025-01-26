@@ -1,7 +1,240 @@
 Please return the following regarding the melody provided:
 -The key of the melody
--The root/quality chord symbol of the last chord
 -The root/quality chord symbol of the second last chord
--The functional chord symbol for the last chord
+-The root/quality chord symbol of the last chord
 -The functional chord symbol for the second last chord
+-The functional chord symbol for the last chord
+-Name the type of cadence (authentic or half)
+
+In order to help you do this, I am giving you a guide on how to determine key followed by a guide on how to determine the root/quality chord symbol of a chord, and lastly how to determine the type of cadence.
+—--
+How to Determine the Root/Quality Chord Symbol of a Chord
+When identifying the root/quality chord symbol of a chord, the process is straightforward, especially if the chords are in root position. Here’s a step-by-step guide:
+
+1. Identify the Root
+In root position, the bass note (the lowest note) is always the root of the chord.
+Write down the letter name of this note. This will form the starting point of your chord symbol.
+
+2. Determine the Quality of the Chord
+To identify the chord's quality (major, minor, or dominant seventh), follow these steps:
+Step 2.1: Count the Third Above the Root
+Look at the note a third above the root (the second note from the bottom in the chord).
+Determine whether it is a minor third or a major third:
+A minor third is 3 half steps above the root.
+A major third is 4 half steps above the root.
+Interval from Root
+Quality
+Minor third (3 half steps)
+Minor
+Major third (4 half steps)
+Major
+
+
+Step 2.2: Check the Number of Different Notes
+Count how many different notes are in the chord:
+If there are 3 different notes (one note may be doubled), it’s a triad.
+If there are 4 different notes, it’s likely a dominant seventh chord.
+Step 2.3: Check for the Seventh
+If there are 4 different notes, examine the top note:
+A dominant seventh chord has a minor seventh above the root. A minor seventh is 10 half steps above the root.
+Number of Notes
+Chord Type
+3 (triad)
+Major or Minor
+4
+Dominant Seventh
+
+
+3. Write the Chord Symbol
+Once you know the root and the quality, use the following rules to write the chord symbol:
+Triads
+Major chord: Write the root’s letter name in uppercase.
+Example: C major → C
+Minor chord: Write the root’s letter name in uppercase followed by a lowercase m.
+Example: A minor → Am
+Dominant Seventh Chords
+Write the root’s letter name in uppercase followed by a 7.
+Example: G dominant seventh → G7
+—-
+Example 1 for determining root/quality chord symbols:
+1. Identify the Root
+The bass note is C, so the root of the chord is C.
+Write down the root: C.
+
+2. Determine the Quality of the Chord
+Step 2.1: Find the Third Above the Root
+Look at the note directly above the root:
+The note above C is E♭.
+Count the half steps between C and E♭:
+C → C♯ → D → E♭ = 3 half steps.
+A distance of 3 half steps is a minor third.
+Step 2.2: Count the Number of Different Notes
+The chord contains C, E♭, and G.
+There are 3 different notes (C is doubled, but that doesn't count as a new note).
+This is a triad (not a seventh chord).
+
+3. Write the Chord Symbol
+Since the chord has:
+A C root.
+A minor third (E♭ above C).
+A perfect fifth (G above C).
+The chord is a C minor triad.
+Write the chord symbol: Cm.
+
+Final Answer:
+The chord C (bass), C, E♭, G is Cm (C minor).
+—
+Example 2:
+1. Identify the Root
+The bass note is A♭, so the root of the chord is A♭.
+Write down the root: A♭.
+
+2. Determine the Quality of the Chord
+Step 2.1: Find the Third Above the Root
+Look at the note a third above the root:
+The note above A♭ is C.
+Count the half steps between A♭ and C:
+A♭ → A → B♭ → B → C = 4 half steps.
+A distance of 4 half steps is a major third.
+Step 2.2: Count the Number of Different Notes
+The chord contains A♭, C, and E♭.
+There are 3 different notes (A♭, C, E♭).
+This is a triad (not a seventh chord).
+Step 2.3: Check for the Fifth
+The note E♭ is a perfect fifth above A♭ (7 half steps).
+This confirms the chord is a major triad.
+
+3. Write the Chord Symbol
+Since the chord has:
+An A♭ root.
+A major third (C above A♭).
+A perfect fifth (E♭ above A♭).
+The chord is an A♭ major triad.
+Write the chord symbol: A♭.
+
+Final Answer:
+The chord A♭ (bass), C, E♭, A♭ is A♭ (A-flat major).
+
+—-
+Guide to Determining the Key of a Piece of Music
+Determining the key of a piece is a fundamental skill in music theory. Follow these steps to identify the key, distinguishing between major and minor keys:
+
+1. Check the Key Signature
+Look at the key signature at the beginning of the piece (next to the clef).
+Count the number of sharps (#) or flats (♭) in the key signature.
+Use the table below to match the sharps or flats to their corresponding major and minor keys.
+Sharps
+Major Key
+Minor Key
+Flats
+Major Key
+Minor Key
+0
+C Major
+A Minor
+0
+C Major
+A Minor
+1
+G Major
+E Minor
+1
+F Major
+D Minor
+2
+D Major
+B Minor
+2
+B♭ Major
+G Minor
+3
+A Major
+F♯ Minor
+3
+E♭ Major
+C Minor
+4
+E Major
+C♯ Minor
+4
+A♭ Major
+F Minor
+5
+B Major
+G♯ Minor
+5
+D♭ Major
+B♭ Minor
+6
+F♯ Major
+D♯ Minor
+6
+G♭ Major
+E♭ Minor
+7
+C♯ Major
+A♯ Minor
+7
+C♭ Major
+A♭ Minor
+
+
+2. Determine if the Key is Major or Minor
+Once you've identified the possible key from the key signature, decide whether the piece is in the major key or its relative minor.
+Look for the raised seventh degree:
+In minor keys, the seventh note of the scale is typically raised by a half step, creating a leading tone that resolves to the tonic. This is often indicated by an accidental (a sharp or natural sign not in the key signature).
+For example:
+If the key signature has no sharps or flats (C Major / A Minor), and you see a G♯ in the piece, the key is A Minor (G♯ is the raised seventh in A Minor).
+If there are no such accidentals, the key is likely the major key.
+
+3. Look for Other Clues
+If you're unsure after checking the raised seventh, consider these additional hints:
+Melodic and Harmonic Content:
+Minor keys often emphasize minor triads (e.g., A-C-E for A Minor).
+Look for chord progressions common to minor keys, such as i-iv-V-i (e.g., A Minor: Am-Dm-E-Am).
+Starting and Ending Notes/Chords:
+Many pieces start and end on the tonic note or chord of the key.
+If a piece starts and ends on A Minor chords, it is likely in A Minor.
+—-
+Guide to Determining if a Cadence is Half or Authentic
+This guide explains how to determine whether a cadence is half or authentic based on the home key and two root/quality chord symbols. The process involves converting the chord symbols into Roman numerals and analyzing their relationship within the key.
+
+Step-by-Step Process
+Write Out the Scale for the Home Key
+Identify the home key (e.g., C major, A minor).
+Write out the corresponding scale for the key:
+Determine the Scale Degree of Each Chord Root
+Look at the root of the first and second chord symbols.
+Find each root in the written scale and determine its scale degree (1st, 2nd, 3rd, etc.).
+Use the quality (e.g., major, minor) of the chord to assign a Roman numeral:
+Uppercase Roman numerals for major chords
+Lowercase Roman numerals for minor chords.
+Example:
+Chord: G major, Home key: C major
+Root: G → 5th scale degree → Roman numeral: V
+Chord: C major, Home key: C major
+Root: C → 1st scale degree → Roman numeral: I
+Analyze the Cadence
+Look at the second chord (final chord) to determine the type of cadence:
+If the second chord is V (dominant): The cadence is half.
+If the second chord is I (major tonic) or i (minor tonic): The cadence is authentic.
+Example 1 (Half Cadence):
+Chord progression: C major → G major
+Roman numerals: I → V
+Final chord is V → Half Cadence
+Example 2 (Authentic Cadence):
+Chord progression: G major → C major
+Roman numerals: V → I
+Final chord is I → Authentic Cadence
+Double-Check the Key
+Ensure the Roman numerals match the quality and position of the chords in the scale.
+In minor keys, be aware of raised leading tones for dominant (V or vii°) chords. For example, in A minor, V is often E major, not E minor.
+If you have anything other than i, I or V at the end, you have done something wrong.
+—-
+Now, read the file provided above and please return the following regarding the melody provided by following the guides step by step.
+-The key of the melody
+-The root/quality chord symbol of the second last chord
+-The root/quality chord symbol of the last chord
+-The functional chord symbol for the second last chord
+-The functional chord symbol for the last chord
 -Name the type of cadence (authentic or half)

@@ -1,7 +1,7 @@
 Please return the following regarding the melody provided:
 -The key of the melody
--The root/quality chord symbol of the last chord
 -The root/quality chord symbol of the second last chord
--The functional chord symbol for the last chord
+-The root/quality chord symbol of the last chord
 -The functional chord symbol for the second last chord
+-The functional chord symbol for the last chord
 -Name the type of cadence (authentic or half)
