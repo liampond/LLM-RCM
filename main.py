@@ -120,7 +120,7 @@ def main(exam, context, datatype, question, model, examdate):
     print(f"✅ {model} response for {question}, {model}, {exam}_{examdate}, {datatype}, {context} saved to {output_path}")
 
 if __name__ == "__main__":
-    #Example call: python main.py --exam RCM6 --context NoContext --datatype MEI --question Q1a --model Gemini --examdate August2024
+    #Example call: python main.py --exam RCM6 --context Context --datatype MEI --question Q1a --model Gemini --examdate August2024
     parser = argparse.ArgumentParser(description="Run prompt generation and model API call.")
     parser.add_argument('--exam', type=str, required=True, help='Exam level (RCM5 or RCM6)')
     parser.add_argument('--context', type=str, required=True, help='Context (Context or NoContext)')
