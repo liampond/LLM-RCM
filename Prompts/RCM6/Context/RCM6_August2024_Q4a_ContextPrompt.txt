@@ -1,1 +1,2 @@
 Transpose the melody in the score up a minor sixth and state the correct key signature. Be precise about the notes and the rhythms. Name the new key.
+Give the entire melody, do not leave out notes. The file is readable, please parse it.
