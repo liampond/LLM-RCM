@@ -5,6 +5,7 @@ __pycache__/
 .venv/
 venv
 outputs/
+Paper/
 Lit_Review/
 *.log
 *.pdf
