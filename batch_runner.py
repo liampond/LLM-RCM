@@ -2,13 +2,13 @@ import subprocess
 import argparse
 
 # List of all questions to iterate through
-QUESTIONS = ["Q1a", "Q1b", "Q2a", "Q2b", "Q3a", "Q3b", "Q3c", "Q3d", "Q3e", "Q4a", "Q4b", "Q5",
+RCM5_QUESTIONS = [] # TODO
+RCM6_QUESTIONS = ["Q1a", "Q1b", "Q2a", "Q2b", "Q3a", "Q3b", "Q3c", "Q3d", "Q3e", "Q4a", "Q4b", "Q5",
               "Q6i", "Q6ii", "Q7ai", "Q7aii", "Q7aiii", "Q7b", "Q9a", "Q9b", "Q10"]
-# List of supported datatypes
 DATATYPES = ["ABC", "HumDrum", "MEI", "MusicXML"]
 
 def run_batch(model, exam, context, examdate):
-    for question in QUESTIONS:
+    for question in RCM6_QUESTIONS:
         for datatype in DATATYPES:
             # Command to run main.py with dynamic arguments
             command = [

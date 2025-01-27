@@ -1,6 +1,6 @@
 import os
 
-def save_response(output_path, content):
+def save_response(output_path, content, model):
     # Create the directory if it doesn't exist
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
@@ -19,6 +19,13 @@ def save_response(output_path, content):
         new_filename = f"{base_filename}_V{version}{extension}"
         new_file_path = os.path.join(directory, new_filename)
 
+    if model == "Claude":
+        content = str(content)
+        formatted_string = content.replace("type=text", "").replace("textblock", "")
+        formatted_string = formatted_string.replace("\\n", "\n")
+        formatted_string = formatted_string.strip()
+        content = formatted_string
+
     # Save the response to the correct path
     with open(new_file_path, "w") as file:
-        file.write(content)
+        file.write(str(content))
