@@ -7,61 +7,17 @@ Determining the key of a piece is a fundamental skill in music theory. Follow th
 Look at the key signature at the beginning of the piece (next to the clef).
 Count the number of sharps (#) or flats (♭) in the key signature.
 Use the table below to match the sharps or flats to their corresponding major and minor keys.
-Sharps
-Major Key
-Minor Key
-Flats
-Major Key
-Minor Key
-0
-C Major
-A Minor
-0
-C Major
-A Minor
-1
-G Major
-E Minor
-1
-F Major
-D Minor
-2
-D Major
-B Minor
-2
-B♭ Major
-G Minor
-3
-A Major
-F♯ Minor
-3
-E♭ Major
-C Minor
-4
-E Major
-C♯ Minor
-4
-A♭ Major
-F Minor
-5
-B Major
-G♯ Minor
-5
-D♭ Major
-B♭ Minor
-6
-F♯ Major
-D♯ Minor
-6
-G♭ Major
-E♭ Minor
-7
-C♯ Major
-A♯ Minor
-7
-C♭ Major
-A♭ Minor
 
+Sharps        | Major Key   | Minor Key   || Flats        | Major Key   | Minor Key
+---------------------------------------------------------------------------------
+0             | C Major     | A Minor     || 0            | C Major     | A Minor
+1             | G Major     | E Minor     || 1            | F Major     | D Minor
+2             | D Major     | B Minor     || 2            | B♭ Major    | G Minor
+3             | A Major     | F♯ Minor    || 3            | E♭ Major    | C Minor
+4             | E Major     | C♯ Minor    || 4            | A♭ Major    | F Minor
+5             | B Major     | G♯ Minor    || 5            | D♭ Major    | B♭ Minor
+6             | F♯ Major    | D♯ Minor    || 6            | G♭ Major    | E♭ Minor
+7             | C♯ Major    | A♯ Minor    || 7            | C♭ Major    | A♭ Minor
 
 2. Determine if the Key is Major or Minor
 Once you've identified the possible key from the key signature, decide whether the piece is in the major key or its relative minor.
