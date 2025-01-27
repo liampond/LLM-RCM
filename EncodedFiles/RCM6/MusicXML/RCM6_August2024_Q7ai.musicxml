@@ -79,8 +79,8 @@
           <fifths>1</fifths>
           </key>
         <time>
-          <beats>12</beats>
-          <beat-type>16</beat-type>
+          <beats>?</beats>
+          <beat-type>?</beat-type>
           </time>
         <clef>
           <sign>G</sign>

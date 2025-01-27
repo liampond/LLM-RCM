@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
@@ -38,7 +38,7 @@
                            <instrDef xml:id="iumcqg7" midi.channel="0" midi.instrnum="0" midi.volume="78.00%" />
                            <clef xml:id="c363ku3" shape="G" line="2" />
                            <keySig xml:id="k3fsqpg" sig="1s" />
-                           <meterSig xml:id="m1koqm8b" count="12" unit="16" />
+                           <meterSig xml:id="m1koqm8b" count="?" unit="?" />
                         </staffDef>
                      </staffGrp>
                   </staffGrp>
