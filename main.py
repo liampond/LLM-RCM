@@ -87,6 +87,7 @@ def deepseek_build_conversation(exam, context, datatype, question, examdate):
 
         # Build the full conversation
         conversation = [
+            {"role": "system", "content": system_prompt},
             {"role": "user", "content": f"{datatype_prompt} \n----\n Here is the encoded music file in {datatype} format:\n\n{encoded_file_content} \n-----\n {question_prompt}"}
         ]
 
@@ -183,7 +184,9 @@ def main(exam, context, datatype, question, model, examdate):
         conversation, history = gemini_build_conversation(exam, context, datatype, question, examdate)
 
     # Call the model API
+    print(conversation)
     response = call_model_api(model, conversation, history)
+    #pass
 
     output_dir = os.path.join("outputs", model, exam, context, datatype)
     os.makedirs(output_dir, exist_ok=True)

@@ -8,9 +8,10 @@ def deepseek_request(conversation, api_key):
         model=DEEPSEEK_MODEL,
         messages=conversation,
         temperature=TEMPERATURE,
-        n=NUM_RESPONSES
+        n=NUM_RESPONSES,
+        stream=False
     )
-
+    print(response.choices[0].message.content)
     output = response.choices[0].message.content
     
     return output
