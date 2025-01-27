@@ -101,6 +101,7 @@ def main(exam, context, datatype, question, model, examdate):
     # Build the conversation prompt
     if model == "ChatGPT":
         conversation = chatgpt_build_conversation(exam, context, datatype, question, examdate)
+        history = ""
     elif model == "Claude":
         pass #TODO
     elif model == "Gemini":
