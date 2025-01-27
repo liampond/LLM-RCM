@@ -30,7 +30,7 @@ def run_batch(model, exam, context, examdate):
 if __name__ == "__main__":
     #Example call: python batch_runner.py --exam RCM6 --context Context --model ChatGPT --examdate August2024
     parser = argparse.ArgumentParser(description="Batch runner for multiple questions and datatypes.")
-    parser.add_argument('--model', type=str, default="ChatGPT", help='Model to use (ChatGPT, Claude, Gemini), default: ChatGPT')
+    parser.add_argument('--model', type=str, default="ChatGPT", help='Model to use (ChatGPT, Claude, DeepSeek, Gemini), default: ChatGPT')
     parser.add_argument('--exam', type=str, default="RCM6", help='Exam level (default: RCM6)')
     parser.add_argument('--context', type=str, default="NoContext", help='Context (default: NoContext)')
     parser.add_argument('--examdate', type=str, default="August2024", help='Exam date (default: August2024)')
