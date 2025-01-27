@@ -170,4 +170,4 @@ Combine the top number (6 beats) with the bottom number (quarter note as the bea
 6/4
 —-
 
-Now, read the file provided above and determine the time signature for each of the measures provided.
+Now, read the file provided above and determine the time signature for each of the measures provided. The time signature is explicitly hidden so you must infer its value from the rhythms of the notes.

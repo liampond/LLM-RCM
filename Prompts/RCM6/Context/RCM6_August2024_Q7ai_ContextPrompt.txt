@@ -1,4 +1,4 @@
-I would like you to identify the key and time signature for the piece of music provided above. To help you, I am giving you two guides that you should follow step by step.
+I would like you to identify the key and time signature for the piece of music provided above.  The time signature is explicitly hidden so you must infer its value from the rhythms of the notes. To help you, I am giving you two guides that you should follow step by step.
 —
 Guide to Determining the Key of a Piece of Music
 Determining the key of a piece is a fundamental skill in music theory. Follow these steps to identify the key, distinguishing between major and minor keys:
@@ -252,4 +252,4 @@ Combine the top number (6 beats) with the bottom number (quarter note as the bea
 6/4
 —-
 
-Now, read the file provided above and determine the key and the time signature by following the two guides provided above step by step.
+Now, read the file provided above and determine the key and the time signature by following the two guides provided above step by step.  The time signature is explicitly hidden so you must infer its value from the rhythms of the notes.
