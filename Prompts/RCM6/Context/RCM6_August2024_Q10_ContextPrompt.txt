@@ -1,11 +1,548 @@
+Please read the musical piece provided above and answer the following questions. To help you, I will present multiple guides. The first is about how to identify the key of a piece. The second is about how to determine the time signature. The third is how to identify a chord. The fourth is how to determine an interval. The fifth is how to determine a functional chord symbol. The sixth and final one is about how to determine if a passage is a parallel or contrasting period.
+
 For the piece above:
--Name the key of the piece
--Return the time signature of the piece
--What chord is outlined by the first three eighth notes of the second bar (in both hands)? The three options are: supertonic triad, subdominant triad, submediant triad.
--What is the interval between the last eighth note in the left hand of bar 2 and the first note in the left hand of bar 3?
--What is the functional chord symbol for the chord outlined by the first three eighth notes of bar 5 (in both hands)?
--What chord is outlined by the last three eighth notes of bar 7 (in both hands)?
--What is the interval between the second eighth note in the left hand of bar 8 and the third eighth note in the left hand of bar 8?
--What kind of rest should go at the end of bar 8 in the right hand, after the F?
--Is the given passage an example of a parallel period or a contrasting period?
+-Name the key of the piece. Use guide 1 for this.
+-Return the time signature of the piece. Use guide 2.
+-What chord is outlined by the first three eighth notes of the second bar (in both hands)? The three options are: supertonic triad, subdominant triad, submediant triad. Use guide 3.
+-What is the interval between the last eighth note in the left hand of bar 2 and the first note in the left hand of bar 3? Use guide 4.
+-What is the functional chord symbol for the chord outlined by the first three eighth notes of bar 5 (in both hands)? Use guide 5.
+-What chord is outlined by the last three eighth notes of bar 7 (in both hands)? Use guide 3.
+-What is the interval between the second eighth note in the left hand of bar 8 and the third eighth note in the left hand of bar 8? Use guide 4.
+-Is the given passage an example of a parallel period or a contrasting period? Use guide 6.
+-Explain the meaning of allegretto vivace
+
+—
+
+Guide 1:
+Guide to Determining the Key of a Piece of Music
+Determining the key of a piece is a fundamental skill in music theory. Follow these steps to identify the key, distinguishing between major and minor keys:
+
+1. Check the Key Signature
+Look at the key signature at the beginning of the piece (next to the clef).
+Count the number of sharps (#) or flats (♭) in the key signature.
+Use the table below to match the sharps or flats to their corresponding major and minor keys.
+Sharps
+Major Key
+Minor Key
+Flats
+Major Key
+Minor Key
+0
+C Major
+A Minor
+0
+C Major
+A Minor
+1
+G Major
+E Minor
+1
+F Major
+D Minor
+2
+D Major
+B Minor
+2
+B♭ Major
+G Minor
+3
+A Major
+F♯ Minor
+3
+E♭ Major
+C Minor
+4
+E Major
+C♯ Minor
+4
+A♭ Major
+F Minor
+5
+B Major
+G♯ Minor
+5
+D♭ Major
+B♭ Minor
+6
+F♯ Major
+D♯ Minor
+6
+G♭ Major
+E♭ Minor
+7
+C♯ Major
+A♯ Minor
+7
+C♭ Major
+A♭ Minor
+
+
+2. Determine if the Key is Major or Minor
+Once you've identified the possible key from the key signature, decide whether the piece is in the major key or its relative minor.
+Look for the raised seventh degree:
+In minor keys, the seventh note of the scale is typically raised by a half step, creating a leading tone that resolves to the tonic. This is often indicated by an accidental (a sharp or natural sign not in the key signature).
+For example:
+If the key signature has no sharps or flats (C Major / A Minor), and you see a G♯ in the piece, the key is A Minor (G♯ is the raised seventh in A Minor).
+If there are no such accidentals, the key is likely the major key.
+
+3. Look for Other Clues
+If you're unsure after checking the raised seventh, consider these additional hints:
+Melodic and Harmonic Content:
+Minor keys often emphasize minor triads (e.g., A-C-E for A Minor).
+Look for chord progressions common to minor keys, such as i-iv-V-i (e.g., A Minor: Am-Dm-E-Am).
+Starting and Ending Notes/Chords:
+Many pieces start and end on the tonic note or chord of the key.
+If a piece starts and ends on A Minor chords, it is likely in A Minor.
+—
+How to Determine an Unknown Time Signature: A Step-by-Step Guide
+When you’re working with an unknown time signature, analyzing the rhythmic values and beat groupings is key. Follow these steps to determine the time signature:
+
+Step 1: Identify the Beat Groupings
+Look at the beamed notes (notes connected by beams). These groupings reveal how the beats are structured within the measure.
+Add up the rhythmic values of all the notes under one beam to determine how much time they represent.
+
+Step 2: Check the Total Value of the Beam Groupings
+Determine whether the time is simple or compound based on the total rhythmic value of each grouping:
+Simple Time
+If the total value of a single beam grouping is 1, 2, or 0.5, you are in simple time.
+In simple time:
+Each beam grouping represents one beat.
+The bottom number of the time signature is determined by the value of one beat:
+If one beat = a quarter note (1), the bottom number is 4.
+If one beat = an eighth note (0.5), the bottom number is 8.
+If one beat = a half note (2), the bottom number is 2.
+Compound Time
+If the total value of a single beam grouping is 3, 1.5, or 0.75, you are in compound time.
+In compound time:
+Each beam grouping represents three smaller beats combined into one larger beat.
+The value of one smaller beat determines the bottom number of the time signature:
+If one smaller beat = a sixteenth note (0.25), the bottom number is 16.
+If one smaller beat = an eighth note (0.5), the bottom number is 8.
+If one smaller beat = a quarter note (1), the bottom number is 4.
+
+Key Addition: Identify the Beat Value That Represents One Full Beat
+To determine the bottom number, carefully analyze how the beats are grouped:
+The bottom number represents the note value of one full beat, not necessarily the smallest rhythmic value in the measure.
+For example:
+If four sixteenth notes make up one beat, the bottom number would still be 4 (a quarter note) if the rhythm groups them into one quarter note.
+Likewise, if two eighth notes form one beat, the bottom number would be 8.
+This distinction is important because the time signature reflects the structural grouping of beats, not just the smallest subdivision present.
+
+Step 3: Count the Total Beats in the Measure
+Count the total number of smaller beats (the smallest note value corresponding to the bottom number of the time signature) in the measure.
+This includes adding up all the rhythmic values in terms of the smallest beat (e.g., 16ths for a bottom number of 16, 8ths for a bottom number of 8).
+In Simple Time:
+Each beam grouping equals one beat. Add up the number of beats in the measure.
+In Compound Time:
+Each beam grouping equals three smaller beats. Add up the total number of smaller beats across all groupings.
+The top number of the time signature is the total number of smaller beats in the measure.
+
+Step 4: Write the Time Signature
+Combine the top number (total number of smaller beats in the measure) with the bottom number (the note value for one smaller beat).
+If the total number of smaller beats suggests simple time (e.g., grouped in twos or fours), write the time signature accordingly.
+If the total number of smaller beats suggests compound time (e.g., grouped in threes), reflect that in the time signature.
+—--
+Here are some examples:
+
+Given Rhythmic Groupings
+(16th, dotted 16th, 32nd)
+(8th, 16th)
+(16th, 16th, 16th)
+
+Step 1: Analyze Each Beam Grouping
+Group 1: 16th, dotted 16th, 32nd
+A 16th note = 0.25 beats.
+A dotted 16th note = 0.25 + 0.125 = 0.375 beats.
+A 32nd note = 0.125 beats.
+Total value = 0.25 + 0.375 + 0.125 = 0.75 beats.
+Since the total is 0.75 beats, this grouping equals three 16th notes.
+
+Group 2: Eighth, Sixteenth
+An eighth note = 0.5 beats.
+A sixteenth note = 0.25 beats.
+Total value = 0.5 + 0.25 = 0.75 beats.
+This grouping also equals three 16th notes.
+
+Group 3: 16th, 16th, 16th
+Each 16th note = 0.25 beats.
+Total value = 0.25 + 0.25 + 0.25 = 0.75 beats.
+This grouping equals three 16th notes as well.
+
+Step 2: Determine the Bottom Number
+Each smaller beat is a 16th note, so the bottom number of the time signature is 16.
+
+Step 3: Count the Total Beats in the Measure
+Count the total number of 16th notes in the measure. Each grouping equals three 16ths, and there are three groupings:
+3 groupings × 3 16ths per grouping = 9 16ths total.
+The top number of the time signature is therefore 9.
+
+Step 4: Write the Time Signature
+Combine the top number (total number of 16ths in the measure) with the bottom number (smallest beat value). The time signature is:
+9/16
+
+Final Answer
+The time signature for the rhythm provided is 9/16, indicating a compound meter with three beats per measure, each divided into three 16th notes.
+—--
+Example 2:
+
+Given Rhythmic Groupings
+(Dotted sixteenth, 32nd, eighth)
+(Dotted eighth, sixteenth)
+
+Step 1: Analyze Each Beam Grouping
+Group 1: Dotted sixteenth, 32nd, eighth
+A dotted sixteenth note = 3/32.
+A 32nd note = 1/32.
+An eighth note = 4/32.
+Total value = 3/32 + 1/32 + 4/32 = 8/32 = 1/4.
+This grouping equals 1/4 of a measure.
+
+Group 2: Dotted eighth, sixteenth
+A dotted eighth note = 3/16.
+A sixteenth note = 1/16.
+Total value = 3/16 + 1/16 = 4/16 = 1/4.
+This grouping equals 1/4 of a measure.
+
+Step 2: Add Up the Total Value of the Measure
+Group 1 = 1/4.
+Group 2 = 1/4.
+Total = 1/4 + 1/4 = 1/2.
+The total rhythmic value of the measure is 1/2 of a whole note.
+
+Step 3: Determine the Bottom Number
+The measure adds up to 1/2 of a whole note, meaning the note value for 1 beat must be a quarter note (1/4). Thus, the bottom number of the time signature is 4.
+
+Step 4: Count the Total Beats in the Measure
+Each grouping equals 1/4 of a whole note, so there are 2 beats in the measure.
+The top number of the time signature is 2, as there are 2 beats in the measure.
+
+Step 5: Write the Time Signature
+Combine the top number (2 beats) with the bottom number (4, representing a quarter note). The time signature is:
+2/4
+
+Final Answer
+The time signature for the rhythm provided is 2/4, indicating 2 beats per measure, with each beat represented by a quarter note.
+—
+Guide 3:
+Step 1: Identify the Key and Write the Scale
+Determine the key:
+Is it major or minor? Identify the tonic note and whether the scale is major or minor.
+Write the scale:
+For major keys: Write the major scale (e.g., C, D, E, F, G, A, B, C for C major).
+For minor keys: Write the harmonic minor scale (e.g., A, B, C, D, E, F, G#, A for A minor).
+Determine the scale degrees:
+Use the following chart to map scale degrees:
+1st: Tonic
+2nd: Supertonic
+3rd: Mediant
+4th: Subdominant
+5th: Dominant
+6th: Submediant
+Natural 7th: Subtonic (only in natural minor)
+Raised 7th: Leading tone (harmonic minor or major)
+
+Step 2: Match the Notes to a Chord
+Identify the notes in the chord:
+Use the notes given and determine their position within the scale.
+Example: If the key is C major and the notes are E, G, and C, determine where these notes fall within the C major scale.
+Determine the root, third, fifth, and seventh (if applicable):
+The root is the note that feels like the "foundation" of the chord.
+The third is the third note above the root.
+The fifth is the fifth note above the root.
+The seventh (if present) is the seventh note above the root.
+Classify the chord based on scale degrees:
+Check which scale degree the root corresponds to:
+If the root is the 1st scale degree → Tonic
+If the root is the 5th scale degree → Dominant
+If the root is the 6th scale degree → Submediant
+If the root is the 3rd scale degree → Mediant
+And so on.
+Compare the chord's quality (e.g., major, minor, diminished, augmented) to the type of chord expected in the key:
+Major key:
+Tonic, Subdominant, Dominant → Major
+Supertonic, Mediant, Submediant → Minor
+Leading tone → Diminished
+Minor key:
+Tonic, Subdominant → Minor
+Dominant, Mediant → Major
+Submediant → Major (if using harmonic minor)
+Leading tone → Diminished
+
+Step 3: Apply Accidentals (if necessary)
+In minor keys, if the chord includes the 7th scale degree (leading tone), ensure it is raised (e.g., G# in A minor harmonic).
+If a note in the chord doesn't match the natural notes of the key, check for accidentals (sharps, flats).
+
+Example Walkthroughs
+Example 1: Identify the chord type for F#, A, C# in the key of D major.
+Key and scale:
+The key is D major.
+The scale is: D, E, F#, G, A, B, C#, D.
+Identify the root note:
+F# is the root note.
+Determine the scale degrees:
+F# = 3rd scale degree (mediant).
+A = 5th scale degree relative to F#.
+C# = 7th scale degree relative to F#.
+Chord type:
+The chord is a mediant triad.
+
+Example 2: Identify the chord type for G♭, B♭, D♭ in the key of B♭ minor.
+Key and scale:
+The key is B♭ minor.
+The scale is: B♭, C, D♭, E♭, F, G♭, A, B♭.
+Identify the root note:
+G♭ is the root note.
+Determine the scale degrees:
+G♭ = 6th scale degree (submediant).
+B♭ = 8th scale degree (octave, equivalent to the root).
+D♭ = 3rd scale degree relative to G♭.
+Chord type:
+The chord is a submediant triad.
+
+Example 3: Identify the chord type for E, G#, B, D in the key of A major.
+Key and scale:
+The key is A major.
+The scale is: A, B, C#, D, E, F#, G#, A.
+Identify the root note:
+E is the root note.
+Determine the scale degrees:
+E = 5th scale degree (dominant).
+G# = 7th scale degree relative to E.
+B = 2nd scale degree relative to E.
+D = 4th scale degree relative to E.
+Chord type:
+The chord is a dominant seventh chord.
+—-
+Guide 4:
+Step 1: Identify the Notes in the File
+Recognize the two notes you are comparing. For example, C and E.
+
+Step 2: Determine the Interval Number
+Count the letter names of the two notes, ignoring accidentals, starting from the lower note as 1. Include both the starting and ending notes.
+
+Example: From C to E: C (1), D (2), E (3). This is a third.
+
+Step 3.
+To determine the quality of a musical interval, follow these detailed steps, with particular attention to accidentals (sharps, flats, and naturals):
+
+Step 3.1: Use the Major Scale of the Lower Note
+Start with the lower note and imagine or recall its major scale.
+Example: For C, the major scale is C, D, E, F, G, A, B.
+Check where the higher note falls in relation to the notes in this major scale:
+If the higher note matches the note in the major scale, the interval is either:
+Perfect (unison, 4th, 5th, octave).
+Major (2nd, 3rd, 6th, 7th).
+Example 1: In the C major scale, the note G is the 5th. C to G is a Perfect fifth.
+Example 2: In the C major scale, the note E is the 3rd. C to E is a Major third.
+
+Step 3.2: Adjust for Accidentals
+Accidentals affect the higher note's position relative to the major scale. This determines whether the interval becomes minor, diminished, or augmented.
+Perfect Intervals (Unison, 4th, 5th, Octave):
+If the higher note is lowered by one semitone: The interval becomes Diminished.
+Example: In the C major scale, G is the 5th. If G is lowered to G♭, the interval becomes a Diminished fifth.
+If the higher note is raised by one semitone: The interval becomes Augmented.
+Example: In the C major scale, G is the 5th. If G is raised to G♯, the interval becomes an Augmented fifth.
+Major Intervals (2nd, 3rd, 6th, 7th):
+If the higher note is lowered by one semitone: The interval becomes Minor.
+Example: In the C major scale, E is the 3rd. If E is lowered to E♭, the interval becomes a Minor third.
+If the higher note is lowered by two semitones: The interval becomes Diminished.
+Example: In the C major scale, E is the 3rd. If E is lowered to E♭♭ (double flat), the interval becomes a Diminished third.
+If the higher note is raised by one semitone: The interval becomes Augmented.
+Example: In the C major scale, E is the 3rd. If E is raised to E♯, the interval becomes an Augmented third.
+
+Step 3.3: Compare Accidentals Between the Notes
+Accidentals on the lower note also affect the starting point of the interval:
+If the lower note is raised or lowered, treat it as if the note itself has shifted.
+Example: If the lower note is C♯ (not C), the major scale shifts to C♯, D♯, E♯, F♯, G♯, A♯, B♯.
+Recalculate the interval by comparing the higher note to the adjusted major scale of the lower note.
+
+Step 3.4: Combine Interval Number and Quality
+After accounting for accidentals, determine the final number (e.g., second, third) and quality (e.g., Major, Minor, Perfect, Augmented, or Diminished).
+
+Step 4: Adjust for Accidentals
+Check the accidentals (sharps or flats) on either note and adjust the quality:
+
+If the accidental alters the relationship to the major scale, adjust the quality accordingly (Major ↔ Minor, Perfect ↔ Augmented/Diminished).
+
+Example: From C♯ to E:
+
+In the C♯ major scale (C♯, D♯, E♯, F♯, G♯, A♯, B♯), E is not present—it is a semitone lower than E♯. Therefore, the interval is Minor third.
+Step 5: Combine the Number and Quality
+State the interval by combining the number (Step 2) and the quality (Step 3).
+
+Example: C to E is a Major third, while C to E♭ is a Minor third.
+
+-----
+Now, here are some examples of how you would determine the interval.
+
+Example: Determining the Interval Between D♯ and D𝄪 (D Double Sharp), Same Octave
+
+Step 1: Identify the Notes in the File
+The two notes are D♯ (lower note) and D𝄪 (higher note).
+
+Step 2: Determine the Interval Number
+Count the letter names, starting with the lower note as 1.
+D (1) → D (still D).
+Since the letter name remains the same, this is a Unison.
+
+Step 3: Determine the Quality of the Interval
+Reference the D♯ Major Scale:
+The D♯ major scale is: D♯, E♯, F𝄪, G♯, A♯, B♯, C𝄪.
+In this scale, D♯ (the lower note) and D♯ (unison) would be the same note.
+Compare D𝄪 to D♯:
+D𝄪 is one semitone higher than D♯.
+A Perfect unison raised by one semitone becomes an Augmented unison.
+
+Step 4: Adjust for Accidentals
+The accidental double sharp (𝄪) on the higher note already indicates the pitch is raised by two semitones relative to natural D, so this reinforces the interval as Augmented.
+
+Step 5: Combine the Number and Quality
+The interval is a Unison (from Step 2).
+The quality is Augmented (from Step 3).
+Final Answer: The interval between D♯ and D𝄪 is an Augmented unison.
+
+-----
+Here's another example
+
+Example: Determining the Interval Between D and A♭
+
+Step 1: Identify the Notes in the File
+The two notes are D (lower note) and A♭ (higher note).
+
+Step 2: Determine the Interval Number
+Count the letter names, starting with D as 1:
+D (1), E (2), F (3), G (4), A (5).
+The interval number is a fifth.
+
+Step 3: Determine the Quality of the Interval
+Reference the D Major Scale:
+The D major scale is: D, E, F♯, G, A, B, C♯.
+In this scale, A is the 5th note. D to A is a Perfect fifth.
+Compare A♭ to A:
+A♭ is one semitone lower than A.
+Lowering a Perfect fifth by one semitone makes it a Diminished fifth.
+
+Step 4: Combine the Number and Quality
+The interval is a Fifth (from Step 2).
+The quality is Diminished (from Step 3).
+Final Answer: The interval between D and A♭ is a Diminished fifth.
+-----
+Here's one last example:
+
+Step 1: Identify the Notes
+The two notes are G♯ (lower note) and E (higher note).
+
+Step 2: Determine the Interval Number
+Count the letter names, starting with G as 1:
+G (1), A (2), B (3), C (4), D (5), E (6).
+The interval number is a sixth.
+
+Step 3: Determine the Quality of the Interval
+Reference the G♯ Major Scale:
+The G♯ major scale is: G♯, A♯, B♯, C♯, D♯, E♯, F𝄪.
+In this scale, E♯ is the 6th note.
+Compare E to E♯:
+E is one semitone lower than E♯.
+Lowering a Major sixth by one semitone makes it a Minor sixth.
+
+Step 4: Combine the Number and Quality
+The interval is a Sixth (from Step 2).
+The quality is Minor (from Step 3).
+Final Answer: The interval between G♯ and E is a Minor sixth.
+—
+Guide 5:
+
+Guide to Determining Root and Quality Chord Symbols from a Melody
+Determining the implied chord from a melody involves identifying the underlying harmonic structure that supports the melody. In this guide, we will focus on triads (major, minor, diminished, or augmented) and how to differentiate between chord tones and non-chord tones.
+
+Step 1: Analyze the Melody in the Given Bar
+Identify the Notes: Write out all the pitches in the melody for the bar.
+Determine the Metric Placement:
+Strong beats: Notes that land on strong beats (e.g., beats 1 and 3 in 4/4 time) are more likely to be chord tones.
+Weak beats: Notes on weaker beats (e.g., beats 2 and 4) or off-beats are more likely to be non-chord tones, though not always.
+Observe Range and Extremes:
+The highest and lowest notes in the bar are often chord tones, as they tend to anchor the harmony.
+Account for Rhythmic Emphasis: Notes held longer or with greater rhythmic prominence are more likely to belong to the chord.
+
+Step 2: Differentiate Chord Tones and Non-Chord Tones
+Non-chord tones (NCTs) are melodic embellishments that do not belong to the underlying chord. Common types of NCTs include:
+Passing Tones (PT): Stepwise notes connecting two chord tones (e.g., A-B-C, where B is the passing tone).
+Neighbor Tones (NT): Notes that step away from a chord tone and return (e.g., G-A-G, where A is the neighbor tone).
+Suspensions (SUS): Notes that delay resolution by holding a previous chord tone before stepping down to the actual chord tone (e.g., F-E in a C major chord).
+Anticipations (ANT): Notes that resolve early, landing on a chord tone of the next harmony.
+Appoggiaturas (APP): Non-chord tones approached by a leap and resolved by a step (e.g., G-E over a C major chord).
+Escape Tones (ET): Notes approached by step and resolved by a leap in the opposite direction.
+
+Step 3: Look for Patterns to Infer the Chord
+Group the Chord Tones: After identifying the likely chord tones (based on metric placement, range, and prominence), group them into sets of three.
+Find a Root and Quality:
+Arrange the chord tones into a triad (stacked in thirds).
+Identify the root, third, and fifth to determine the chord quality:
+Major triad: Root–Major 3rd–Perfect 5th.
+Minor triad: Root–Minor 3rd–Perfect 5th.
+Diminished triad: Root–Minor 3rd–Diminished 5th.
+Augmented triad: Root–Major 3rd–Augmented 5th.
+
+Step 4: Verify with the Melody's Movement
+Check for Compatibility: Ensure the chord makes sense with the melodic contour and avoids dissonances (e.g., a diminished triad might clash if the melody emphasizes consonance).
+Simplify if Necessary: If multiple chords seem possible, choose the one that fits the overall harmonic context or simplifies the progression.
+—
+
+Guide 6:
+
+How to Identify Parallel Periods and Contrasting Periods in Music
+
+How to Identify Parallel Periods and Contrasting Periods in Music
+When analyzing musical passages, it's important to determine whether a passage forms a parallel period or a contrasting period. These classifications depend on the relationship between two phrases and their thematic material. Here’s a step-by-step guide to help you identify them:
+
+Step 1: Understand the Structure of a Period
+A period consists of two phrases:
+Phrase A (the antecedent): Ends with a weaker cadence (e.g., half cadence, imperfect authentic cadence).
+Phrase B (the consequent): Ends with a stronger cadence (e.g., perfect authentic cadence).
+Together, the phrases form a complete musical thought, with Phrase B responding to or complementing Phrase A.
+
+Step 2: Compare the Beginnings of the Phrases
+Examine the melody or thematic material at the start of each phrase.
+Look at the first few measures of Phrase A and Phrase B.
+Pay attention to pitch patterns, rhythm, and contour.
+Determine if the beginnings are the same or different.
+Same beginnings: This indicates a parallel period.
+Different beginnings: This indicates a contrasting period.
+
+Step 3: Verify the Overall Form
+The structure of a period is generally A B, where:
+A is the antecedent.
+B is the consequent. The relationship between Phrase A and Phrase B determines the type of period:
+Parallel Period
+Definition: The two phrases begin with the same or similar melodic material.
+Key Feature: Thematic repetition at the start of Phrase B.
+Example:
+Phrase A: | Do-Re-Mi-Fa | ends with a weaker cadence.
+Phrase B: | Do-Re-Mi-Sol | ends with a stronger cadence.
+Contrasting Period
+Definition: The two phrases begin with different melodic material.
+Key Feature: No thematic repetition at the start of Phrase B; it contrasts with Phrase A.
+Example:
+Phrase A: | Do-Re-Mi-Fa | ends with a weaker cadence.
+Phrase B: | Sol-La-Ti-Do | ends with a stronger cadence.
+
+Step 4: Check the Cadences
+Identify the cadences at the end of each phrase.
+Phrase A should end with a weaker cadence (e.g., half cadence).
+Phrase B should end with a stronger cadence (e.g., perfect authentic cadence).
+If the cadences match this pattern, it confirms the presence of a period.
+
+—-
+
+Please read the musical piece provided above and answer the following questions. Use the guides provided above.
+
+For the piece above:
+-Name the key of the piece. Use guide 1 for this.
+-Return the time signature of the piece. Use guide 2.
+-What chord is outlined by the first three eighth notes of the second bar (in both hands)? The three options are: supertonic triad, subdominant triad, submediant triad. Use guide 3.
+-What is the interval between the last eighth note in the left hand of bar 2 and the first note in the left hand of bar 3? Use guide 4.
+-What is the functional chord symbol for the chord outlined by the first three eighth notes of bar 5 (in both hands)? Use guide 5.
+-What chord is outlined by the last three eighth notes of bar 7 (in both hands)? Use guide 3.
+-What is the interval between the second eighth note in the left hand of bar 8 and the third eighth note in the left hand of bar 8? Use guide 4.
+-Is the given passage an example of a parallel period or a contrasting period? Use guide 6.
 -Explain the meaning of allegretto vivace
