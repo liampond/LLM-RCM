@@ -1,4 +1,4 @@
-Return what notes would be:
+Please edit the file to add the following notes. All new notes should occur at the same time as the given ones.
 -A perfect 4th above the first note in the file.
 -A major 3rd above the second note in the file.
 -A diminished 8ve above the third note in the file.
