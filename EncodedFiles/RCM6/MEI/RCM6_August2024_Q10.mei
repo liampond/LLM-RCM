@@ -38,7 +38,7 @@
                         <staffDef xml:id="sj4d7u7" n="1" lines="5" ppq="2">
                            <clef xml:id="c1cz5on0" shape="G" line="2" />
                            <keySig xml:id="k103c5ci" sig="1f" />
-                           <meterSig xml:id="mjla9uz" count="6" unit="8" />
+                           <meterSig xml:id="mjla9uz" count="?" unit="?" />
                         </staffDef>
                         <staffDef xml:id="s1c41l2f" n="2" lines="5" ppq="2">
                            <clef xml:id="c1udgafs" shape="F" line="4" />

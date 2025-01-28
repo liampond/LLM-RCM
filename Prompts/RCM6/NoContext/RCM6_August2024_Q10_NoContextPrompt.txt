@@ -1,6 +1,6 @@
 For the piece above:
 -Name the key of the piece
--Return the time signature of the piece
+-Return the time signature of the piece. It is intentionally hidden in the encoding. Please analyze the rhythmic content of the piece to determine what the correct time signature should be.
 -What chord is outlined by the first three eighth notes of the second bar (in both hands)? The three options are: supertonic triad, subdominant triad, submediant triad.
 -What is the interval between the last eighth note in the left hand of bar 2 and the first note in the left hand of bar 3?
 -What is the functional chord symbol for the chord outlined by the first three eighth notes of bar 5 (in both hands)?

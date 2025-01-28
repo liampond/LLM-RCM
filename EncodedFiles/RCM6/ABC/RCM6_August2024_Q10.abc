@@ -6,7 +6,7 @@ T:RCM6_August2024_Q10
 %%rightmargin 1.50cm
 %%score { 1 | ( 2 3 ) }
 L:1/8
-M:6/8
+M:?
 I:linebreak $
 K:F
 V:1 treble nm="Piano" snm="Pno."

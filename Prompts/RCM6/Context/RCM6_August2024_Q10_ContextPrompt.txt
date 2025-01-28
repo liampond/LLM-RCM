@@ -2,7 +2,7 @@ Please read the musical piece provided above and answer the following questions.
 
 For the piece above:
 -Name the key of the piece. Use guide 1 for this.
--Return the time signature of the piece. Use guide 2.
+-Return the time signature of the piece. Use guide 2 to infer. It is intentionally hidden in the file.
 -What chord is outlined by the first three eighth notes of the second bar (in both hands)? The three options are: supertonic triad, subdominant triad, submediant triad. Use guide 3.
 -What is the interval between the last eighth note in the left hand of bar 2 and the first note in the left hand of bar 3? Use guide 4.
 -What is the functional chord symbol for the chord outlined by the first three eighth notes of bar 5 (in both hands)? Use guide 5.
@@ -538,7 +538,7 @@ Please read the musical piece provided above and answer the following questions.
 
 For the piece above:
 -Name the key of the piece. Use guide 1 for this.
--Return the time signature of the piece. Use guide 2.
+-Return the time signature of the piece. Use guide 2 to infer. It is intentionally hidden in the file.
 -What chord is outlined by the first three eighth notes of the second bar (in both hands)? The three options are: supertonic triad, subdominant triad, submediant triad. Use guide 3.
 -What is the interval between the last eighth note in the left hand of bar 2 and the first note in the left hand of bar 3? Use guide 4.
 -What is the functional chord symbol for the chord outlined by the first three eighth notes of bar 5 (in both hands)? Use guide 5.
