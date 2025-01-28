@@ -137,4 +137,4 @@ The quality is Minor (from Step 3).
 Final Answer: The interval between G♯ and E is a Minor sixth.
 —
 
-Now, please read the file provided and return the intervals between the notes in each measure, following the same process for each.
+Now, please read the file provided and return the intervals between the notes in each measure, following the same process for each. If you have a diminished fifth or augmented fourth, do not say tritone. Specify the the interval with precision.

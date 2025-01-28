@@ -535,6 +535,7 @@ If the cadences match this pattern, it confirms the presence of a period.
 —-
 
 Please read the musical piece provided above and answer the following questions. Use the guides provided above.
+If you have a diminished fifth or augmented fourth, do not say tritone. Specify the the interval with precision.
 
 For the piece above:
 -Name the key of the piece. Use guide 1 for this.
