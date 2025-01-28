@@ -1,0 +1,36 @@
+[TextBlock(text="I'll analyze each measure carefully following the process outlined.
+
+Measure 1:
+Notes: A4 and G5
+Step 1: Lower note A, upper note G
+Step 2: Count: A(1), B(2), C(3), D(4), E(5), F(6), G(7)
+Step 3: In A major scale (A,B,C♯,D,E,F♯,G♯), G natural is one semitone lower than G♯
+Final interval: Minor seventh
+
+Measure 2:
+Notes: F♯4 and B♭4
+Step 1: Lower note F♯, upper note B♭
+Step 2: Count: F(1), G(2), A(3), B(4)
+Step 3: In F♯ major scale (F♯,G♯,A♯,B,C♯,D♯,E♯), B♭ is two semitones lower than B
+Final interval: Diminished fourth
+
+Measure 3:
+Notes: E4 and C♯5
+Step 1: Lower note E, upper note C♯
+Step 2: Count: E(1), F(2), G(3), A(4), B(5), C(6)
+Step 3: In E major scale (E,F♯,G♯,A,B,C♯,D♯), C♯ matches the major scale
+Final interval: Major sixth
+
+Measure 4:
+Notes: C♭5 and D5
+Step 1: Lower note C♭, upper note D
+Step 2: Count: C(1), D(2)
+Step 3: In C♭ major scale (C♭,D♭,E♭,F♭,G♭,A♭,B♭), D natural is two semitones higher than D♭
+Final interval: Augmented second
+
+Measure 5:
+Notes: B4 and F♯5
+Step 1: Lower note B, upper note F♯
+Step 2: Count: B(1), C(2), D(3), E(4), F(5)
+Step 3: In B major scale (B,C♯,D♯,E,F♯,G♯,A♯), F♯ matches the major scale
+Final interval: Perfect fifth", type='text')]

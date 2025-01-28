@@ -1,0 +1,59 @@
+### Step 1: Determine the Key of the Piece
+
+#### 1. Check the Key Signature
+The `<key>` element in the MusicXML file specifies `<fifths>-5</fifths>`. This means there are **five flats** in the key signature. Referring to the key signature table:
+
+- **Five flats** correspond to **D♭ Major** or **B♭ Minor**.
+
+#### 2. Determine if the Key is Major or Minor
+To decide between D♭ Major and B♭ Minor, we look for clues in the music:
+- In minor keys, the raised seventh degree is often present. For B♭ Minor, the raised seventh would be **A♮** (instead of A♭).
+- The notes in the piece include **A♭** consistently, with no A♮ present. This suggests the piece is not in B♭ Minor.
+- The melodic and harmonic content does not emphasize minor triads or progressions typical of minor keys.
+
+Thus, the key is **D♭ Major**.
+
+---
+
+### Step 2: Determine the Time Signature
+
+#### Step 1: Identify the Beat Groupings
+We analyze the rhythmic groupings in each measure to infer the beat structure.
+
+- **Measure 1:**
+  - The measure contains four eighth notes (D♭5, D♭5, F5, F5), grouped into two pairs of beamed eighth notes.
+  - Total rhythmic value = 4 eighth notes = 2 quarter notes.
+
+- **Measure 2:**
+  - The measure contains:
+    - One quarter note (D♭5) = 1 beat.
+    - Two beamed eighth notes (A♭4, A♭4) = 1 beat.
+  - Total rhythmic value = 1 quarter note + 2 eighth notes = 2 quarter notes.
+
+- **Measure 3:**
+  - The measure contains:
+    - A dotted eighth note (A♭4) = 0.75 beats.
+    - A sixteenth note (A♭4) = 0.25 beats.
+    - Four sixteenth notes (E♭5, D♭5, C5, B♭4) = 1 beat.
+  - Total rhythmic value = 0.75 + 0.25 + 1 = 2 quarter notes.
+
+- **Measure 4:**
+  - The measure contains one quarter note (A♭4).
+  - Total rhythmic value = 1 quarter note.
+
+#### Step 2: Check the Total Value of the Beam Groupings
+- The rhythmic groupings in each measure suggest **simple time** (not compound), as the notes are grouped into eighths and quarters, not triplets or dotted groupings.
+
+#### Step 3: Count the Total Beats in the Measure
+- Each measure consistently adds up to **2 quarter notes**.
+
+#### Step 4: Write the Time Signature
+- The total beats per measure = 2.
+- The note value of one beat = quarter note.
+- Therefore, the time signature is **2/4**.
+
+---
+
+### Final Answer:
+- **Key:** D♭ Major
+- **Time Signature:** 2/4

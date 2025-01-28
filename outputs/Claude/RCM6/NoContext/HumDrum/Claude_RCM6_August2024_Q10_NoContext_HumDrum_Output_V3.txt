@@ -1,0 +1,21 @@
+[TextBlock(text='Let me analyze this piece and answer your questions:
+
+1. Key: F major (one flat - Bb)
+
+2. Time Signature: 6/8 (based on the grouping of 6 eighth notes per bar with compound duple feel)
+
+3. The chord in the first three eighth notes of bar 2 is the subdominant triad (F-Bb-D)
+
+4. The interval between the last eighth note in bar 2 (C) and the first note in bar 3 (E) is a major third
+
+5. The functional chord symbol for the first three eighth notes of bar 5 is I (tonic chord in F major: F-A-C)
+
+6. The chord outlined by the last three eighth notes of bar 7 is C major (C-E-Bb), which is V7 in F major
+
+7. The interval between the second and third eighth notes in the left hand of bar 8 (E to Bb) is a diminished fifth
+
+8. An eighth rest should go at the end of bar 8 in the right hand after the F
+
+9. This is a parallel period (the melodic material in bars 5-8 closely mirrors bars 1-4, with a different ending)
+
+10. Allegretto vivace means "fairly quick and lively" - Allegretto indicates a moderately fast tempo (slightly slower than allegro), while vivace adds a particularly bright and spirited character to the performance', type='text')]

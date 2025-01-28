@@ -1,0 +1,9 @@
+In the natural B minor scale, the key signature includes **two sharps (F# and C#)**. Below are the notes for the **ascending** and **descending** B minor scale in the bass clef:
+
+### Ascending:
+B, C#, D, E, F#, G, A, B
+
+### Descending:
+B, A, G, F#, E, D, C#, B
+
+These notes adhere to the natural minor scale pattern, and the key signature accounts for the sharps (F# and C#). No additional accidentals are needed.

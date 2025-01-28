@@ -1,0 +1,24 @@
+[TextBlock(text="I'll analyze each note and determine the requested intervals.
+
+1. First note is B♭,, (double flat B)
+- For Perfect 4th: Count up 4 (B-C-D-E): E♭,, 
+(B♭ to E♭ is a perfect 4th)
+
+2. Second note is D♯, (sharp D)
+- For Major 3rd: Count up 3 (D-E-F): F𝄪, 
+(D♯ to F𝄪 is a major 3rd)
+
+3. Third note is G♭,, (double flat G)
+- For Diminished 8ve: Count up 8 to G, then lower by two semitones: G𝄫,, 
+(G♭ to G𝄫 is a diminished octave)
+
+4. Fourth note is C♭, (flat C)
+- For Augmented 6th: Count up 6 (C-D-E-F-G-A), then raise by one semitone: A♯, 
+(C♭ to A♯ is an augmented 6th)
+
+5. Final note is E,, (E)
+- For Minor 2nd: Count up 2 (E-F), then lower by one semitone: F♭,, 
+(E to F♭ is a minor 2nd)
+
+The requested notes are:
+E♭,,, F𝄪,, G𝄫,,, A♯,, F♭,,", type='text')]

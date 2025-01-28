@@ -1,0 +1,40 @@
+To transpose the melody up a **minor sixth**, we need to raise each note by 8 semitones. The original key signature is **E major (4 sharps: F#, C#, G#, D#)**. Transposing up a minor sixth from E major results in the key of **C minor (3 flats: Bb, Eb, Ab)**. Below is the transposed melody with the correct notes, rhythms, and accidentals.
+
+---
+
+### Measure 1:
+1. **Original Notes**: E4 (half note), G#4 (quarter note), B4 (quarter note)  
+   **Transposed Notes**: C5 (half note), E5 (quarter note), G5 (quarter note)  
+   - Rhythm: Half note, quarter note, quarter note.
+
+---
+
+### Measure 2:
+1. **Original Notes**: D#4 (dotted quarter note), E4 (16th note), F#4 (16th note), E4 (quarter note), rest (quarter note)  
+   **Transposed Notes**: Bb4 (dotted quarter note), C5 (16th note), Db5 (16th note), C5 (quarter note), rest (quarter note)  
+   - Rhythm: Dotted quarter note, 16th note, 16th note, quarter note, quarter rest.
+
+---
+
+### Measure 3:
+1. **Original Notes**: C#5 (half note), B4 (quarter note), E5 (quarter note)  
+   **Transposed Notes**: A5 (half note), G5 (quarter note), C6 (quarter note)  
+   - Rhythm: Half note, quarter note, quarter note.
+
+---
+
+### Measure 4:
+1. **Original Notes**: B4 (quarter note), A4 (eighth note), G#4 (16th note), A4 (16th note), G#4 (quarter note), rest (quarter note)  
+   **Transposed Notes**: G5 (quarter note), F5 (eighth note), E5 (16th note), F5 (16th note), E5 (quarter note), rest (quarter note)  
+   - Rhythm: Quarter note, eighth note, 16th note, 16th note, quarter note, quarter rest.
+
+---
+
+### Transposed Key:
+The new key is **C minor**, with a key signature of **3 flats (Bb, Eb, Ab)**.
+
+### Full Transposed Melody:
+1. Measure 1: **C5 (half note), E5 (quarter note), G5 (quarter note)**  
+2. Measure 2: **Bb4 (dotted quarter note), C5 (16th note), Db5 (16th note), C5 (quarter note), rest (quarter note)**  
+3. Measure 3: **A5 (half note), G5 (quarter note), C6 (quarter note)**  
+4. Measure 4: **G5 (quarter note), F5 (eighth note), E5 (16th note), F5 (16th note), E5 (quarter note), rest (quarter note)**

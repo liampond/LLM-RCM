@@ -1,0 +1,10 @@
+* **Key:** F major
+* **Time Signature:** 3/4
+* **Chord in m. 2:** Subdominant triad (Bb-D-F)
+* **Interval m. 2-3:** Diminished fifth
+* **Functional Chord Symbol m. 5:** I (tonic)
+* **Chord in m. 7:** Submediant triad (Ab-C-Eb, root is Ab)
+* **Interval m. 8:** Augmented fourth
+* **Rest in m. 8:** Eighth rest
+* **Period Type:** Parallel period
+* **Allegretto vivace:**  A tempo marking indicating a moderately fast tempo (allegretto) with a lively and brisk character (vivace).

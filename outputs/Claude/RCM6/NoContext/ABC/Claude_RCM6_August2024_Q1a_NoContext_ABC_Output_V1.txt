@@ -1,0 +1,9 @@
+[TextBlock(text="I'll analyze each measure's interval between the two notes:
+
+Measure 1: [A,g] - Major 7th
+Measure 2: [F,B♭] - Perfect 4th
+Measure 3: [E,c] - Minor 6th
+Measure 4: [c,d] - Major 2nd
+Measure 5: [B,f] - Diminished 5th
+
+Each measure contains a single chord held for 4 beats, and I've listed the interval between the two notes in each chord.", type='text')]

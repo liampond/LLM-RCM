@@ -1,0 +1,11 @@
+1. **Key of the melody**: G minor (based on the key signature of B♭, E♭, and A♭, and the melodic content).
+
+2. **Root/quality chord symbol of the second last chord**: C minor (Cm).
+
+3. **Root/quality chord symbol of the last chord**: G major (G).
+
+4. **Functional chord symbol for the second last chord**: iv (minor subdominant in G minor).
+
+5. **Functional chord symbol for the last chord**: V (dominant in G minor).
+
+6. **Type of cadence**: Half cadence (ends on the dominant chord, G major).

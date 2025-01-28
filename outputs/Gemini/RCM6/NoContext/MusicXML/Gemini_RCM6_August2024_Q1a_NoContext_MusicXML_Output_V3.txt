@@ -1,0 +1,9 @@
+Measure 1: Perfect fifth (A4 to G5)
+
+Measure 2: Diminished fifth (F#4 to Bb4)
+
+Measure 3: Major sixth (E4 to C#5)
+
+Measure 4: Minor second (Db5 to D5)
+
+Measure 5: Perfect fifth (B4 to F#5)

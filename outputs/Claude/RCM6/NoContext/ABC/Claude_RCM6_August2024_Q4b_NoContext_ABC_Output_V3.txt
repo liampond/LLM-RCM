@@ -1,0 +1,29 @@
+[TextBlock(text="I'll help transpose this melody from E major to A♭ major.
+
+The interval of transposition is up a minor third (or augmented second).
+
+Here's the transposed version in ABC notation:
+
+X:1
+T:RCM6_August2024_Q4 (Transposed to Ab)
+L:1/16
+M:4/4
+K:Ab
+V:1 treble
+Ab8 B4 d4 | F6 GA G4 z4 | eb8 d4 g4 | d4 c2Bc B4 z4 ||
+
+The transformation of each note:
+- E → A♭
+- G → B
+- B → D
+- D → F
+- E → G
+- F → A
+- C → E♭
+- B → D
+- E → G
+- B → D
+- A → C
+- G → B
+
+All rhythmic values remain exactly the same as the original.", type='text')]

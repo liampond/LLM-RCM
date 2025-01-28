@@ -1,0 +1,30 @@
+[TextBlock(text="I'll help transpose this melody up a minor sixth from E major.
+
+Moving up a minor sixth from E takes us to C major.
+The new key signature will be C major (no sharps or flats).
+
+Here's the transposed melody with the same rhythms:
+
+C8 E4 G4 | B,6 CD C4 z4 | A8 G4 c4 | G4 F2EF E4 z4 ||
+
+To break this down:
+- E becomes C
+- G becomes E
+- B becomes G
+- D becomes B♮
+- E F becomes C D
+- c becomes A
+- B becomes G
+- e becomes c
+- B becomes G
+- A becomes F
+- G A becomes E F
+- G becomes E
+
+All rhythmic values remain exactly the same as the original:
+- Whole notes (16 sixteenth notes)
+- Dotted half notes followed by two sixteenth notes
+- Quarter notes (4 sixteenth notes)
+- Quarter rests (4 sixteenth rests)
+
+The new key is C major.", type='text')]

@@ -1,0 +1,35 @@
+The melody in the provided MusicXML file is in the key of E major (4 sharps: F#, C#, G#, D#). To transpose it up to A-flat major (4 flats: Bb, Eb, Ab, Db), we need to transpose the melody up by a **minor third** (E to G# is a major third, so E to Ab is a minor third).
+
+### Transposed Key Signature:
+The new key signature will have **4 flats** (Bb, Eb, Ab, Db).
+
+### Transposed Notes and Rhythms:
+Here is the transposed melody, measure by measure:
+
+#### Measure 1:
+1. **E4 (half note)** → **G4 (half note)**  
+2. **G#4 (quarter note)** → **Bb4 (quarter note)**  
+3. **B4 (quarter note)** → **Db5 (quarter note)**  
+
+#### Measure 2:
+1. **D#4 (dotted quarter note)** → **F4 (dotted quarter note)**  
+2. **E4 (16th note)** → **G4 (16th note)**  
+3. **F#4 (16th note)** → **Ab4 (16th note)**  
+4. **E4 (quarter note)** → **G4 (quarter note)**  
+5. **Rest (quarter note)** → **Rest (quarter note)**  
+
+#### Measure 3:
+1. **C#5 (half note)** → **Eb5 (half note)**  
+2. **B4 (quarter note)** → **Db5 (quarter note)**  
+3. **E5 (quarter note)** → **G5 (quarter note)**  
+
+#### Measure 4:
+1. **B4 (quarter note)** → **Db5 (quarter note)**  
+2. **A4 (eighth note)** → **C5 (eighth note)**  
+3. **G#4 (16th note)** → **Bb4 (16th note)**  
+4. **A4 (16th note)** → **C5 (16th note)**  
+5. **G#4 (quarter note)** → **Bb4 (quarter note)**  
+6. **Rest (quarter note)** → **Rest (quarter note)**  
+
+### Interval of Transposition:
+The interval of transposition is a **minor third up**.

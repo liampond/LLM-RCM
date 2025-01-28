@@ -1,0 +1,13 @@
+[TextBlock(text="I'll analyze the intervals between the two notes in each measure:
+
+Measure 1: A to G♯ - Major 7th
+
+Measure 2: F♯ to B♭ - Augmented 4th
+
+Measure 3: E to C♯ - Major 6th
+
+Measure 4: C♭ to D - Major 2nd
+
+Measure 5: B to F♯ - Perfect 5th
+
+I've listed these intervals by measuring from the lower note to the higher note in each measure. Each measure contains two whole notes sounding simultaneously.", type='text')]

@@ -1,0 +1,12 @@
+### Key of the Melody:
+The key signature indicates **1 sharp**, which corresponds to either **G major** or **E minor**. Based on the melodic content, particularly the frequent use of **G**, **A**, **B**, and **C**, the melody is most likely in **G major**.
+
+### Time Signature:
+To infer the time signature, we analyze the rhythmic structure of the measures:
+
+1. **Measure 1**: Contains a sixteenth rest followed by five sixteenth notes. Total duration = \( \frac{1}{16} + 5 \times \frac{1}{16} = \frac{6}{16} = \frac{3}{8} \).
+2. **Measure 2**: Contains six sixteenth notes. Total duration = \( 6 \times \frac{1}{16} = \frac{6}{16} = \frac{3}{8} \).
+3. **Measure 3**: Contains two thirty-second notes, one sixteenth note, one eighth note, and an eighth rest. Total duration = \( 2 \times \frac{1}{32} + \frac{1}{16} + \frac{1}{8} + \frac{1}{8} = \frac{1}{16} + \frac{1}{16} + \frac{2}{16} = \frac{6}{16} = \frac{3}{8} \).
+4. **Measure 4**: Contains two thirty-second notes, one sixteenth note, one eighth note, and an eighth rest. Total duration = \( 2 \times \frac{1}{32} + \frac{1}{16} + \frac{1}{8} + \frac{1}{8} = \frac{1}{16} + \frac{1}{16} + \frac{2}{16} = \frac{6}{16} = \frac{3}{8} \).
+
+Each measure consistently totals \( \frac{3}{8} \), so the inferred time signature is **3/8**.

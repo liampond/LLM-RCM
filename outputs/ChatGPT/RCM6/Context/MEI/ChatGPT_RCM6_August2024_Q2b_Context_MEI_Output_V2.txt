@@ -1,0 +1,65 @@
+To determine the time signature for the measures in the provided MEI file, we will analyze the rhythmic groupings and their total values step by step.
+
+---
+
+### Measure 1 Analysis:
+#### Notes and Rhythms:
+1. **First note**: Dotted quarter note (`dur="4"`, `dots="1"`) = 1.5 beats.
+2. **Second note**: Quarter note (`dur="8"`) = 1 beat.
+3. **Third beam group**:
+   - First note: Sixteenth note (`dur="16"`) = 0.25 beats.
+   - Second note: Sixteenth note (`dur="16"`) = 0.25 beats.
+   - Third note: Eighth note (`dur="8"`) = 0.5 beats.
+   - Total for this beam group = 0.25 + 0.25 + 0.5 = 1 beat.
+4. **Fourth beam group**:
+   - First note: Eighth note (`dur="8"`) = 0.5 beats.
+   - Second note: Eighth note (`dur="8"`) = 0.5 beats.
+   - Total for this beam group = 0.5 + 0.5 = 1 beat.
+
+#### Total Rhythmic Value:
+1.5 (dotted quarter) + 1 (quarter) + 1 (third beam group) + 1 (fourth beam group) = **4.5 beats**.
+
+#### Time Signature:
+- The measure does not fit into a simple time signature like 4/4 or 3/4 because the total value is 4.5 beats.
+- This suggests **compound time**.
+- Each beat is likely a dotted quarter note (1.5 beats), and there are 3 beats in the measure (4.5 ÷ 1.5 = 3).
+- The bottom number corresponds to the smaller subdivision of the beat, which is an eighth note (0.5 beats).
+
+**Time Signature for Measure 1: 9/8** (compound meter with three beats per measure, each beat divided into three eighth notes).
+
+---
+
+### Measure 2 Analysis:
+#### Notes and Rhythms:
+1. **First beam group**:
+   - First note: Sixteenth note (`dur="16"`) = 0.25 beats.
+   - Second note: Sixteenth note (`dur="16"`) = 0.25 beats.
+   - Third note: Thirty-second note (`dur="32"`) = 0.125 beats.
+   - Fourth note: Thirty-second note (`dur="32"`) = 0.125 beats.
+   - Total for this beam group = 0.25 + 0.25 + 0.125 + 0.125 = 0.75 beats.
+2. **Second beam group**:
+   - First note: Dotted sixteenth note (`dur="16"`, `dots="1"`) = 0.375 beats.
+   - Second note: Thirty-second note (`dur="32"`) = 0.125 beats.
+   - Third note: Sixteenth note (`dur="16"`) = 0.25 beats.
+   - Total for this beam group = 0.375 + 0.125 + 0.25 = 0.75 beats.
+3. **Third beam group**:
+   - First note: Eighth note (`dur="8"`) = 0.5 beats.
+   - Second note: Sixteenth note (`dur="16"`) = 0.25 beats.
+   - Total for this beam group = 0.5 + 0.25 = 0.75 beats.
+
+#### Total Rhythmic Value:
+0.75 (first beam group) + 0.75 (second beam group) + 0.75 (third beam group) = **2.25 beats**.
+
+#### Time Signature:
+- The measure does not fit into a simple time signature like 2/4 or 3/4 because the total value is 2.25 beats.
+- This suggests **compound time**.
+- Each beat is likely a dotted eighth note (0.75 beats), and there are 3 beats in the measure (2.25 ÷ 0.75 = 3).
+- The bottom number corresponds to the smaller subdivision of the beat, which is a sixteenth note (0.25 beats).
+
+**Time Signature for Measure 2: 9/16** (compound meter with three beats per measure, each beat divided into three sixteenth notes).
+
+---
+
+### Final Answer:
+- **Measure 1**: 9/8
+- **Measure 2**: 9/16

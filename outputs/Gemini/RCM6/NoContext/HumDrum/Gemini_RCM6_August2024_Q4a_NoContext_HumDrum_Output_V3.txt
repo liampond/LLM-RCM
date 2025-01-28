@@ -1,0 +1,29 @@
+Transposed Melody:
+
+* **M4/4**
+* **k[g#d#a#e#b#]** (New key: B# major)
+* **met(c)**
+=1
+2b
+4d#
+4f#
+=
+4.g#
+16bLL
+16c#JJ
+4b
+4r
+=
+2f##
+4f#
+4b
+=
+4f#
+8eL
+16d#L
+16eJJ
+4d#
+4r
+=||
+
+

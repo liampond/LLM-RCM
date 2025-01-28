@@ -1,0 +1,7 @@
+* **Key:** D major
+* **Root/quality chord symbol of the second last chord:** A major
+* **Root/quality chord symbol of the last chord:** D major
+* **Functional chord symbol for the second last chord:** V
+* **Functional chord symbol for the last chord:** I
+* **Type of cadence:** Authentic
+

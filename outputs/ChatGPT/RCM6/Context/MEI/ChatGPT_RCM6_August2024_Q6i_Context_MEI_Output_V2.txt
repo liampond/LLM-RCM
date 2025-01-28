@@ -1,0 +1,78 @@
+### Step-by-Step Analysis:
+
+#### 1. **Key of the Melody**
+- The key signature in the MEI file indicates **3 flats**.
+- According to the key signature table:
+  - 3 flats correspond to **E♭ major** or **C minor**.
+- To determine whether the key is major or minor:
+  - The melody contains accidentals such as **B♮** (raised 7th in C minor) and emphasizes **C** as a tonic note.
+  - This suggests the key is **C minor**.
+
+**Key:** C minor
+
+---
+
+#### 2. **Root/Quality Chord Symbol of the Second Last Chord**
+- The second last chord is in measure 4, staff 1:
+  - Notes: **G (bass), B♮, D**.
+- Step-by-step:
+  1. **Root:** The bass note is **G**, so the root is **G**.
+  2. **Quality:**
+     - The third above G is **B♮** (4 half steps → major third).
+     - The fifth above G is **D** (7 half steps → perfect fifth).
+     - This forms a **G major triad**.
+  3. **Chord Symbol:** **G**.
+
+**Root/Quality Chord Symbol (Second Last Chord):** G
+
+---
+
+#### 3. **Root/Quality Chord Symbol of the Last Chord**
+- The last chord is in measure 4, staff 1:
+  - Notes: **G (bass), B♮, D** (same as the second last chord).
+- Step-by-step:
+  1. **Root:** The bass note is **G**, so the root is **G**.
+  2. **Quality:**
+     - The third above G is **B♮** (4 half steps → major third).
+     - The fifth above G is **D** (7 half steps → perfect fifth).
+     - This forms a **G major triad**.
+  3. **Chord Symbol:** **G**.
+
+**Root/Quality Chord Symbol (Last Chord):** G
+
+---
+
+#### 4. **Functional Chord Symbol for the Second Last Chord**
+- The key is **C minor**.
+- The root of the chord is **G**, which is the 5th scale degree in C minor.
+- The chord is a **major triad**, so it is the **dominant (V)** chord.
+
+**Functional Chord Symbol (Second Last Chord):** V
+
+---
+
+#### 5. **Functional Chord Symbol for the Last Chord**
+- The last chord is identical to the second last chord:
+  - Root: **G**.
+  - Quality: **Major triad**.
+  - In the key of **C minor**, this is also the **dominant (V)** chord.
+
+**Functional Chord Symbol (Last Chord):** V
+
+---
+
+#### 6. **Type of Cadence**
+- The cadence ends on the **V (dominant)** chord.
+- A cadence that ends on the dominant is a **half cadence**.
+
+**Type of Cadence:** Half
+
+---
+
+### Final Answers:
+1. **Key of the Melody:** C minor  
+2. **Root/Quality Chord Symbol (Second Last Chord):** G  
+3. **Root/Quality Chord Symbol (Last Chord):** G  
+4. **Functional Chord Symbol (Second Last Chord):** V  
+5. **Functional Chord Symbol (Last Chord):** V  
+6. **Type of Cadence:** Half

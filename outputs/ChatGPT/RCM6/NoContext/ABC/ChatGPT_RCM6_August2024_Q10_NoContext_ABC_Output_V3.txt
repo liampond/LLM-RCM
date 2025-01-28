@@ -1,0 +1,19 @@
+1. **Key of the piece**: The key is **F major**, as indicated by the key signature and the harmonic content.
+
+2. **Time signature**: The rhythmic content suggests a **6/8 time signature**. This is inferred from the grouping of eighth notes into two beats per measure, each subdivided into three eighth notes.
+
+3. **Chord outlined by the first three eighth notes of bar 2 (in both hands)**: The notes are **B♭, D, and F** in the right hand, and **B♭, D, and F** in the left hand. This forms a **subdominant triad** (IV) in F major.
+
+4. **Interval between the last eighth note in the left hand of bar 2 and the first note in the left hand of bar 3**: The last eighth note in bar 2 is **G**, and the first note in bar 3 is **C**. The interval is a **perfect fourth**.
+
+5. **Functional chord symbol for the chord outlined by the first three eighth notes of bar 5 (in both hands)**: The notes are **A, C, and F** in both hands. This forms a **tonic triad (I)** in F major.
+
+6. **Chord outlined by the last three eighth notes of bar 7 (in both hands)**: The notes are **C, E, and B♭** in the right hand, and **C, E, and B♭** in the left hand. This forms a **dominant seventh chord (V7)** in F major.
+
+7. **Interval between the second eighth note in the left hand of bar 8 and the third eighth note in the left hand of bar 8**: The second eighth note is **E**, and the third eighth note is **B♭**. The interval is a **diminished fifth**.
+
+8. **Rest at the end of bar 8 in the right hand**: After the **F**, a **quarter rest** is required to complete the measure in 6/8 time.
+
+9. **Parallel or contrasting period**: The passage is an example of a **parallel period**, as the two phrases begin with similar melodic material.
+
+10. **Meaning of "allegretto vivace"**: "Allegretto" indicates a moderately fast tempo, slightly slower than allegro. "Vivace" adds a lively and spirited character to the performance. Together, it suggests a **moderately fast and lively tempo**.

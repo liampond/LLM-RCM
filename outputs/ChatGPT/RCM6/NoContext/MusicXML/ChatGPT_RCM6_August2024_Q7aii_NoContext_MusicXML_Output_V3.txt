@@ -1,0 +1,14 @@
+### Key of the Melody:
+The key signature indicates **5 flats**, which corresponds to either **D-flat major** or **B-flat minor**. Since the melody prominently features **A-flat** and **D-flat**, and the melodic contour and accidentals suggest a minor tonality, the key is **B-flat minor**.
+
+---
+
+### Time Signature:
+The time signature is hidden, so we must infer it from the rhythmic structure:
+
+1. **Measure 1**: Contains 4 eighth notes (2 beamed pairs of eighth notes). This suggests a total of **2 beats** in the measure if each beat is a quarter note.
+2. **Measure 2**: Contains 1 quarter note (1 beat) and 2 eighth notes (1 beat when combined). This also totals **2 beats**.
+3. **Measure 3**: Contains a dotted eighth note (3/4 of a beat), a sixteenth note (1/4 of a beat), and 4 sixteenth notes (1 beat). This totals **2 beats**.
+4. **Measure 4**: Contains 1 quarter note (2 eighth notes' worth), which fits the pattern of **2 beats**.
+
+Thus, the melody is in **2/4 time**.

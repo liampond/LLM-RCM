@@ -1,0 +1,11 @@
+1. **Key of the melody**: The key signature indicates two sharps (F# and C#), suggesting the key of **D major** or **B minor**. Based on the melodic and harmonic content, the key is **D major**.
+
+2. **Root/quality chord symbol of the last chord**: The last chord consists of the notes **F# (sharp), A, and D**. This forms an **F# minor chord in first inversion (F#m/D)**.
+
+3. **Root/quality chord symbol of the second last chord**: The second last chord consists of the notes **E, A, and C# (sharp)**. This forms an **A major chord in root position (A)**.
+
+4. **Functional chord symbol for the last chord**: In the key of D major, the last chord (**F#m/D**) functions as the **vi chord (submediant)**.
+
+5. **Functional chord symbol for the second last chord**: In the key of D major, the second last chord (**A**) functions as the **V chord (dominant)**.
+
+6. **Type of cadence**: The progression from the second last chord (**A, V**) to the last chord (**F#m, vi**) is a **deceptive cadence**. However, since the question asks for "authentic or half," neither applies directly. If this is a simplification, it is **not an authentic cadence**.

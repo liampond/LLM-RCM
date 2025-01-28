@@ -1,0 +1,37 @@
+1. **Key of the piece**: The key signature indicates B-flat minor (5 flats), and the tonal content supports this key.
+
+2. **Time signature**: Analyzing the rhythmic content, the piece consistently groups into measures of 6 eighth notes. This suggests a **6/8 time signature**.
+
+3. **Chord outlined by the first three eighth notes of bar 2 (both hands)**:  
+   - Left hand: F, A-flat, C  
+   - Right hand: C  
+   This forms an **F minor triad**, which is the **submediant triad (vi)** in B-flat minor.
+
+4. **Interval between the last eighth note in the left hand of bar 2 and the first note in the left hand of bar 3**:  
+   - Last note of bar 2: D-flat  
+   - First note of bar 3: E-flat  
+   The interval is a **major second**.
+
+5. **Functional chord symbol for the first three eighth notes of bar 5 (both hands)**:  
+   - Left hand: B-flat, D-flat, F  
+   - Right hand: F  
+   This forms a **B-flat minor triad**, which is the **tonic (i)** chord in B-flat minor.
+
+6. **Chord outlined by the last three eighth notes of bar 7 (both hands)**:  
+   - Left hand: B-flat, D-flat, F  
+   - Right hand: F  
+   This again forms a **B-flat minor triad**, the **tonic (i)** chord.
+
+7. **Interval between the second and third eighth notes in the left hand of bar 8**:  
+   - Second note: F  
+   - Third note: B-flat  
+   The interval is a **perfect fourth**.
+
+8. **Rest at the end of bar 8 in the right hand**: After the F eighth note, there is no further rhythmic content in the right hand. A **quarter rest** is required to complete the measure in 6/8 time.
+
+9. **Parallel or contrasting period**: The passage is an example of a **parallel period**, as the melodic material in the second phrase is similar to the first, with slight variations.
+
+10. **Meaning of "allegretto vivace"**:  
+    - "Allegretto" indicates a moderately fast tempo, slightly slower than allegro.  
+    - "Vivace" suggests a lively and spirited character.  
+    Together, "allegretto vivace" implies a moderately fast tempo with a lively and energetic feel.

@@ -1,0 +1,13 @@
+### Key of the Melody:
+The key signature is specified as **5 flats** (`sig="5f"`), which corresponds to **D-flat major** or its relative minor, **B-flat minor**. Since the melody prominently features the note **A-flat** (the dominant of D-flat major) and lacks the characteristic raised 7th of B-flat minor (A-natural), the key is most likely **D-flat major**.
+
+### Time Signature:
+The time signature is not explicitly provided (`count="?" unit="?"`), so we must infer it from the rhythmic structure:
+
+1. **Measure 0**: Contains a single eighth note (1/8).
+2. **Measure 1**: Contains four eighth notes (4/8 or 2/4).
+3. **Measure 2**: Contains one quarter note (1/4) and two eighth notes (2/8), totaling 3/4.
+4. **Measure 3**: Contains a dotted eighth note (3/16), three sixteenth notes (3/16), and four more sixteenth notes (4/16), totaling 10/16 or 5/8.
+5. **Measure 4**: Contains one quarter note (1/4).
+
+The rhythmic structure is inconsistent across measures, suggesting **free rhythm** or a lack of a fixed time signature. If a consistent time signature is required, **3/4** could be a reasonable approximation based on the most common grouping of beats.

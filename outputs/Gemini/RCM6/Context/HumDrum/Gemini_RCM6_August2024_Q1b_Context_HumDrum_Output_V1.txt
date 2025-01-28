@@ -1,0 +1,7 @@
+Here are the notes based on the provided intervals and the music encoded in the HumDrum file:
+
+* **Perfect 4th above the first note (B♭):** E♭
+* **Major 3rd above the second note (D♯):** F𝄪 (F double sharp)
+* **Diminished 8ve above the third note (G):** G♭
+* **Augmented 6th above the fourth note (C):** A♯
+* **Minor 2nd above the final note (E):** F♮ 

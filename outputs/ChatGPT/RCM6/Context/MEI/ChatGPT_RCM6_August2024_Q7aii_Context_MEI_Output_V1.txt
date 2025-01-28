@@ -1,0 +1,62 @@
+### Step 1: Determine the Key of the Piece
+
+#### 1. Check the Key Signature
+The `<keySig>` element in the MEI file specifies `sig="5f"`, indicating 5 flats in the key signature. Referring to the table provided:
+- 5 flats correspond to **D♭ Major** or **B♭ Minor**.
+
+#### 2. Determine if the Key is Major or Minor
+To decide between D♭ Major and B♭ Minor, we look for the raised seventh degree (A♮) in the case of B♭ Minor. However, throughout the piece, there is no indication of a raised A♮ (the leading tone in B♭ Minor). Instead, the melodic and harmonic content suggests a major tonality, as the notes emphasize D♭ and its major triad.
+
+#### 3. Look for Other Clues
+The piece begins and ends with A♭ notes (e.g., measure 0 and measure 4), which is the dominant of D♭ Major. This further supports the conclusion that the key is **D♭ Major**.
+
+### Final Key: **D♭ Major**
+
+---
+
+### Step 2: Determine the Time Signature
+
+#### Step 1: Identify the Beat Groupings
+We analyze the rhythmic groupings in each measure:
+
+- **Measure 0**:
+  - A single note: A♭4, duration = eighth note (1/2 beat).
+
+- **Measure 1**:
+  - Two beams:
+    - Beam 1: Two D♭5 notes, each an eighth note (1/2 beat each). Total = 1 beat.
+    - Beam 2: Two F5 notes, each an eighth note (1/2 beat each). Total = 1 beat.
+  - Total for the measure = 1 + 1 = 2 beats.
+
+- **Measure 2**:
+  - A single D♭5 note, duration = quarter note (1 beat).
+  - A beam:
+    - Two A♭4 notes, each an eighth note (1/2 beat each). Total = 1 beat.
+  - Total for the measure = 1 + 1 = 2 beats.
+
+- **Measure 3**:
+  - Two beams:
+    - Beam 1: A♭4 (dotted eighth note = 3/4 beat) + A♭4 (sixteenth note = 1/4 beat). Total = 1 beat.
+    - Beam 2: Four sixteenth notes (E♭5, D♭5, C5, B♭4). Total = 1 beat.
+  - Total for the measure = 1 + 1 = 2 beats.
+
+- **Measure 4**:
+  - A single A♭4 note, duration = quarter note (1 beat).
+  - Total for the measure = 1 beat.
+
+#### Step 2: Check the Total Value of the Beam Groupings
+The rhythmic groupings in each measure consistently add up to **2 beats per measure**, with each beat represented by a quarter note.
+
+#### Step 3: Determine the Bottom Number
+The smallest beat unit is the quarter note, so the bottom number of the time signature is **4**.
+
+#### Step 4: Count the Total Beats in the Measure
+Each measure contains **2 beats**, so the top number of the time signature is **2**.
+
+### Final Time Signature: **2/4**
+
+---
+
+### Final Answer:
+- **Key**: D♭ Major
+- **Time Signature**: 2/4

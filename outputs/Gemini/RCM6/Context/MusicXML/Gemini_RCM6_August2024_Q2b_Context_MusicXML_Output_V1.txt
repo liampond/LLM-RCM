@@ -1,0 +1,3 @@
+Measure 1: 4/4
+
+Measure 2: 4/4 (Though comprised of many smaller note values, the beaming and rhythmic groupings still add up to 4 quarter notes).

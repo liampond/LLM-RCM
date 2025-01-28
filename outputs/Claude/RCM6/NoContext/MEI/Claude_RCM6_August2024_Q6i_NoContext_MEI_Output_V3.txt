@@ -1,0 +1,17 @@
+[TextBlock(text='Let me analyze the melody:
+
+-Key: E-flat major (3 flats: B♭, E♭, A♭)
+
+-Second last chord (measure 3): C minor (Cm)
+The notes are: C, E♭, G
+
+-Last chord (measure 4): G major (G)
+The notes are: G, B♮, D
+
+-Functional chord symbol for second last chord: vi (submediant)
+
+-Functional chord symbol for last chord: III (mediant)
+Note: This is a secondary dominant functioning as V/vi
+
+-Type of cadence: Half cadence
+(The progression moves to a III chord which functions as V/vi, making this a half cadence in the temporary key of C minor)', type='text')]

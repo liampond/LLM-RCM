@@ -1,0 +1,61 @@
+### Step 1: Determine the Key of the Piece
+
+#### 1. Check the Key Signature
+The `<keySig>` element in the MEI file specifies `sig="5f"`, indicating 5 flats in the key signature. Referring to the table provided:
+- 5 flats correspond to **D♭ Major** or **B♭ Minor**.
+
+#### 2. Determine if the Key is Major or Minor
+To distinguish between D♭ Major and B♭ Minor, we look for the raised seventh degree (A♮) in the case of B♭ Minor. Examining the notes:
+- The notes in the piece include A♭, B♭, D♭, E♭, and G♭, consistent with the key signature of 5 flats.
+- There is no A♮ present in the music, which would indicate the raised seventh degree of B♭ Minor.
+
+Since there is no evidence of a raised seventh degree, the piece is in **D♭ Major**.
+
+---
+
+### Step 2: Determine the Time Signature
+
+#### Step 1: Identify the Beat Groupings
+We analyze the rhythmic groupings in each measure:
+
+- **Measure 0**:
+  - Contains a single note: A♭4 with a duration of 1/8 (eighth note).
+
+- **Measure 1**:
+  - Two beams:
+    - Beam 1: Two D♭5 notes, each with a duration of 1/8 (total = 1/4).
+    - Beam 2: Two F5 notes, each with a duration of 1/8 (total = 1/4).
+  - Total duration = 1/4 + 1/4 = 1/2.
+
+- **Measure 2**:
+  - One ungrouped note: D♭5 with a duration of 1/4 (quarter note).
+  - One beam:
+    - Two A♭4 notes, each with a duration of 1/8 (total = 1/4).
+  - Total duration = 1/4 + 1/4 = 1/2.
+
+- **Measure 3**:
+  - Two beams:
+    - Beam 1: A♭4 (dotted eighth note, 3/16) and A♭4 (sixteenth note, 1/16). Total = 3/16 + 1/16 = 1/4.
+    - Beam 2: E♭5 (sixteenth note, 1/16), D♭5 (sixteenth note, 1/16), C5 (sixteenth note, 1/16), and B♭4 (sixteenth note, 1/16). Total = 1/16 + 1/16 + 1/16 + 1/16 = 1/4.
+  - Total duration = 1/4 + 1/4 = 1/2.
+
+- **Measure 4**:
+  - Contains a single note: A♭4 with a duration of 1/4 (quarter note).
+
+#### Step 2: Check the Total Value of the Beam Groupings
+- The rhythmic groupings in each measure suggest **simple time** because the groupings are based on quarter notes (1/4) and eighth notes (1/8), not triplets or dotted rhythms that would indicate compound time.
+
+#### Step 3: Count the Total Beats in the Measure
+- Measures 1, 2, and 3 each have a total duration of 1/2 (two quarter notes per measure).
+- Measure 0 has a single eighth note (1/8), which could be interpreted as an incomplete measure (pickup).
+- Measure 4 has a single quarter note (1/4), which could indicate a final incomplete measure.
+
+#### Step 4: Write the Time Signature
+The measures consistently add up to 1/2 (two quarter notes per measure), indicating **2/4 time**.
+
+---
+
+### Summary
+
+- **Key**: The piece is in **D♭ Major**, as indicated by the key signature of 5 flats and the absence of a raised seventh degree.
+- **Time Signature**: The inferred time signature is **2/4**, based on the rhythmic groupings and total durations in each measure.

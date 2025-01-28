@@ -1,0 +1,80 @@
+1. **Understand the Time Signature:**
+
+* 4/2 time signature means there are 4 beats per measure.
+* A half note receives one beat.
+
+2. **Determine the Beat Pattern:**
+
+* Beat 1: Strong
+* Beat 2: Weak
+* Beat 3: Medium
+* Beat 4: Weak
+
+3. **Complete the Measure Systematically:**
+
+* **Measure 1:**
+    * Beat 1: F3 (dotted half note) - complete
+    * Beat 2: F2 (half note) - complete
+    * Beat 3: F/ (eighth note) - incomplete
+    * Beat 4: (Blank)
+
+    * *Action:* Add an eighth rest after the F/ to complete beat 3.  A half rest fills the remaining space of beat 4.
+
+* **Measure 2:**
+    * Beat 1: (3FFF (dotted half note triplet) - complete
+    * Beat 2: F2 (half note) - complete
+    * Beats 3 & 4: (Blank)
+
+    * *Action:* A whole rest fills beats 3 and 4.
+
+* **Measure 3 (6/4):**
+    * Beat 1: F<F (dotted half note) - complete
+    * Beat 2: F2 (half note) - complete
+    * Beat 3: F3 (dotted half note) - complete
+    * Beat 4: (Blank)
+
+    * *Action:* A half rest fills beat 4.
+
+* **Measure 4:**
+    * Beat 1: F2 (half note) - complete
+    * Beat 2: F (quarter note) - incomplete
+    * Beat 3: F (quarter note) - incomplete
+    * Beat 4: F (quarter note) - incomplete
+    * Additional: F2 (half note) - encroaches on the next measure, creating an incomplete beat.
+
+    * *Action:* Add a quarter rest after the three quarter notes (F F F) to complete beat 4. The final F2 is addressed in the next measure.
+
+* **Measure 5 (9/8):**
+    * Beat 1: F/FF/ (Three eighth notes tied as a dotted quarter) - complete
+    * Beat 2: F2 (quarter note) - complete
+    * Beat 3: (Blank)
+    * Beat 4: F/ (eighth note) - incomplete
+    * Beat 5 & 6: F2 (quarter note) - complete
+    * Beat 7: F (eighth note) - incomplete
+    * Beat 8 & 9: F/F/F/F/F (5 sixteenth notes = a dotted eighth note tied to a sixteenth note) - complete
+
+    * *Action:* Add an eighth rest to complete beat 3. Add a sixteenth rest after the F/ to complete beat 4. Add a sixteenth rest after the F to complete beat 7.
+
+* **Measure 6 (3/4):**
+    * Beat 1: F2 (half note) - complete
+    * Beat 2 & 3: (Blank)
+
+    * *Action:* A whole rest fills beats 2 and 3.
+
+* **Measure 7 (3/4):**
+    * Beat 1: F3/4 (dotted half note) - complete
+    * Beat 2: F2 (half note) - complete
+    * Beat 3: (Blank)
+
+    * *Action:* A half rest fills beat 3.
+
+
+**Summary of Rests Added:**
+
+* **Measure 1:** Eighth rest, half rest
+* **Measure 2:** Whole rest
+* **Measure 3:** Half rest
+* **Measure 4:** Quarter rest
+* **Measure 5:** Eighth rest, sixteenth rest, sixteenth rest
+* **Measure 6:** Whole rest
+* **Measure 7:** Half rest 

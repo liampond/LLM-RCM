@@ -1,0 +1,33 @@
+To determine the intervals between the notes in each measure, we analyze the pitch names, octaves, and accidentals provided in the MEI file. The key signature is **D major (2 sharps: F# and C#)**, so accidentals are interpreted accordingly.
+
+### Measure 1:
+- Notes: A4 and G5
+- Interval: **Minor 7th (A4 to G5)**
+
+### Measure 2:
+- Notes: F#4 and B♭4
+  - F# is in the key signature.
+  - B♭ has an explicit flat accidental.
+- Interval: **Diminished 5th (F#4 to B♭4)**
+
+### Measure 3:
+- Notes: E4 and C#5
+  - C# is in the key signature.
+- Interval: **Major 6th (E4 to C#5)**
+
+### Measure 4:
+- Notes: C♮5 and D5
+  - C♮ has an explicit natural accidental.
+- Interval: **Major 2nd (C♮5 to D5)**
+
+### Measure 5:
+- Notes: B4 and F#5
+  - F# is in the key signature.
+- Interval: **Diminished 5th (B4 to F#5)**
+
+### Summary of Intervals:
+1. Minor 7th
+2. Diminished 5th
+3. Major 6th
+4. Major 2nd
+5. Diminished 5th

@@ -1,0 +1,83 @@
+Here is the analysis of the intervals between the notes in each measure of the provided MEI file, following the detailed process you outlined:
+
+---
+
+### Measure 1:
+**Notes:** A4 and G5  
+1. **Interval Number:** Count the letter names: A (1), B (2), C (3), D (4), E (5), F (6), G (7). The interval is a seventh.  
+2. **Quality:**  
+   - The A major scale is: A, B, C♯, D, E, F♯, G♯.  
+   - G is one semitone lower than G♯ in the A major scale.  
+   - Lowering a Major seventh by one semitone makes it a **Minor seventh**.  
+**Final Answer:** Minor seventh.
+
+---
+
+### Measure 2:
+**Notes:** F♯4 and B♭4  
+1. **Interval Number:** Count the letter names: F (1), G (2), A (3), B (4). The interval is a fourth.  
+2. **Quality:**  
+   - The F♯ major scale is: F♯, G♯, A♯, B, C♯, D♯, E♯.  
+   - B♭ is one semitone lower than B.  
+   - Lowering a Perfect fourth by one semitone makes it a **Diminished fourth**.  
+**Final Answer:** Diminished fourth.
+
+**Notes:** B♭4 and F♯4  
+1. **Interval Number:** Count the letter names: B (1), C (2), D (3), E (4), F (5). The interval is a fifth.  
+2. **Quality:**  
+   - The B♭ major scale is: B♭, C, D, E♭, F, G, A.  
+   - F♯ is one semitone higher than F.  
+   - Raising a Perfect fifth by one semitone makes it an **Augmented fifth**.  
+**Final Answer:** Augmented fifth.
+
+---
+
+### Measure 3:
+**Notes:** E4 and C♯5  
+1. **Interval Number:** Count the letter names: E (1), F (2), G (3), A (4), B (5), C (6). The interval is a sixth.  
+2. **Quality:**  
+   - The E major scale is: E, F♯, G♯, A, B, C♯, D♯.  
+   - C♯ is the 6th note in the E major scale.  
+   - The interval is a **Major sixth**.  
+**Final Answer:** Major sixth.
+
+---
+
+### Measure 4:
+**Notes:** C♭5 and D5  
+1. **Interval Number:** Count the letter names: C (1), D (2). The interval is a second.  
+2. **Quality:**  
+   - The C♭ major scale is: C♭, D♭, E♭, F♭, G♭, A♭, B♭.  
+   - D is one semitone higher than D♭.  
+   - Raising a Major second by one semitone makes it an **Augmented second**.  
+**Final Answer:** Augmented second.
+
+---
+
+### Measure 5:
+**Notes:** B4 and F♯5  
+1. **Interval Number:** Count the letter names: B (1), C (2), D (3), E (4), F (5). The interval is a fifth.  
+2. **Quality:**  
+   - The B major scale is: B, C♯, D♯, E, F♯, G♯, A♯.  
+   - F♯ is the 5th note in the B major scale.  
+   - The interval is a **Perfect fifth**.  
+**Final Answer:** Perfect fifth.
+
+**Notes:** F♯5 and B4  
+1. **Interval Number:** Count the letter names: F (1), G (2), A (3), B (4). The interval is a fourth.  
+2. **Quality:**  
+   - The F♯ major scale is: F♯, G♯, A♯, B, C♯, D♯, E♯.  
+   - B is the 4th note in the F♯ major scale.  
+   - The interval is a **Perfect fourth**.  
+**Final Answer:** Perfect fourth.
+
+---
+
+### Summary of Intervals:
+- **Measure 1:** Minor seventh.  
+- **Measure 2:** Diminished fourth, Augmented fifth.  
+- **Measure 3:** Major sixth.  
+- **Measure 4:** Augmented second.  
+- **Measure 5:** Perfect fifth, Perfect fourth.  
+
+Let me know if you need further clarification!

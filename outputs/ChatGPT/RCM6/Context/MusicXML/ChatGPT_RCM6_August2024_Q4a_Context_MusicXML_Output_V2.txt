@@ -1,0 +1,38 @@
+To transpose the melody up a **minor sixth**, we need to raise each note by that interval while maintaining the original rhythms. The original key is **E major** (4 sharps: F#, C#, G#, D#). Transposing up a minor sixth moves the key to **C minor** (3 flats: Bb, Eb, Ab). Below is the transposed melody with the correct notes, rhythms, and the new key signature.
+
+---
+
+### **Key Signature: C minor (3 flats: Bb, Eb, Ab)**
+
+#### Measure 1:
+1. **C4** (half note, stem up)  
+2. **Eb4** (quarter note, stem up)  
+3. **G4** (quarter note, stem down)
+
+#### Measure 2:
+1. **Bb3** (dotted quarter note, stem up)  
+2. **C4** (16th note, stem up, beamed)  
+3. **Db4** (16th note, stem up, beamed)  
+4. **C4** (quarter note, stem up)  
+5. **Rest** (quarter note)
+
+#### Measure 3:
+1. **Ab4** (half note, stem down)  
+2. **G4** (quarter note, stem down)  
+3. **C5** (quarter note, stem down)
+
+#### Measure 4:
+1. **G4** (quarter note, stem down)  
+2. **F4** (eighth note, stem up, beamed)  
+3. **Eb4** (16th note, stem up, beamed)  
+4. **F4** (16th note, stem up, beamed)  
+5. **Eb4** (quarter note, stem up)  
+6. **Rest** (quarter note)
+
+---
+
+### **Explanation of Transposition:**
+- Each note was raised by a minor sixth interval.
+- Accidentals were adjusted to fit the new key signature of **C minor**.
+- Rhythms and note durations remain unchanged.
+- The melody now fits within the new key and maintains its original structure.

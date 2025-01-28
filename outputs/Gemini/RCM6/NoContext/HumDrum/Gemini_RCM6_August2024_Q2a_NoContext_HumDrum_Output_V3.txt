@@ -1,0 +1,6 @@
+Measure 1 (4/2):  Two quarter rests
+Measure 3 (6/4): One quarter rest
+Measure 4 (6/4): No rests needed
+Measure 5 (9/8): One eighth rest
+Measure 6 (9/8): One eighth rest
+Measure 7 (3/4):  Two eighth rests

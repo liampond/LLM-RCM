@@ -1,0 +1,30 @@
+[TextBlock(text="I'll help transpose this melody up a minor sixth (8 semitones) and provide the new key and notes.
+
+Original key: E major (4 sharps: F#, C#, G#, D#)
+New key: C major (no sharps or flats) - up a minor sixth from E takes us to C
+
+Here's the transposed melody with the same rhythms:
+
+Original -> Transposed
+E -> C (half note)
+G# -> E (quarter note)
+B -> G (quarter note)
+
+D# -> B (dotted quarter note)
+E -> C (sixteenth note)
+F# -> D (sixteenth note)
+E -> C (quarter note)
+rest -> rest (quarter note)
+
+C# -> A (half note)
+B -> G (quarter note)
+E -> C (quarter note)
+
+B -> G (quarter note)
+A -> F (eighth note)
+G# -> E (sixteenth note)
+A -> F (sixteenth note)
+G# -> E (quarter note)
+rest -> rest (quarter note)
+
+The time signature remains 4/4 and all rhythmic values stay exactly the same as the original. The new key signature would be C major (no sharps or flats).", type='text')]

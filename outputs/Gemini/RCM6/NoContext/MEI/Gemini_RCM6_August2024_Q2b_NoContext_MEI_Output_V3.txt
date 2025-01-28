@@ -1,0 +1,8 @@
+Measure 1: 4/4
+Measure 2: 4/4
+
+**Explanation:**
+
+* **Measure 1:** A dotted quarter note (12/8) + an eighth note (4/8) + a series of eighth and sixteenth notes totaling an eighth note (2/8 + 2/8 + 4/8 = 8/8) + two eighth notes (4/8 + 4/8 = 8/8) = 32/8 = 4/4
+
+* **Measure 2:**  A series of sixteenth and thirty-second notes totaling an eighth note (2/8 + 2/8 + 1/8 + 1/8 = 8/8) + a dotted eighth, thirty-second, and sixteenth note totaling a quarter (3/8 + 1/8 + 2/8 = 6/8 = 2/4) + an eighth and sixteenth note (4/8 + 2/8 = 6/8 = 2/4) = 4/4

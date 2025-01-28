@@ -1,0 +1,21 @@
+[TextBlock(text='Let me help you find these intervals from each given note:
+
+1. First note is Bb2:
+- Perfect 4th above Bb2 = Eb3
+
+2. Second note is D#3:
+- Major 3rd above D#3 = G#3
+
+3. Third note is Gb2:
+- Diminished 8ve above Gb2 = Gbb3 (double flat)
+
+4. Fourth note is Cb3:
+- Augmented 6th above Cb3 = A3
+
+5. Fifth note is E2:
+- Minor 2nd above E2 = F2
+
+I arrived at these answers by:
+1. Counting up the correct number of scale degrees
+2. Applying the specific interval quality (perfect, major, minor, diminished, augmented)
+3. Adding any necessary accidentals to achieve the requested interval quality', type='text')]

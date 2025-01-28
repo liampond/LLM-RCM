@@ -1,0 +1,38 @@
+To determine the time signature for each measure, we analyze the total rhythmic values of the notes in each measure. Here's the breakdown:
+
+### Measure 1:
+- **Note 1**: Dotted quarter note (duration = 1.5 beats in 4/4 time).
+- **Note 2**: Eighth note (duration = 0.5 beats).
+- **Beam 1**:
+  - Two sixteenth notes (duration = 0.25 + 0.25 = 0.5 beats).
+  - Eighth note (duration = 0.5 beats).
+- **Beam 2**:
+  - Two eighth notes (duration = 0.5 + 0.5 = 1 beat).
+
+**Total duration**: 1.5 + 0.5 + 0.5 + 0.5 + 1 = **4 beats**.
+
+Thus, **Measure 1 is in 4/4 time**.
+
+---
+
+### Measure 2:
+- **Beam 1**:
+  - Two sixteenth notes (duration = 0.25 + 0.25 = 0.5 beats).
+  - Two thirty-second notes (duration = 0.125 + 0.125 = 0.25 beats).
+- **Beam 2**:
+  - Dotted sixteenth note (duration = 0.375 beats).
+  - Thirty-second note (duration = 0.125 beats).
+  - Sixteenth note (duration = 0.25 beats).
+- **Beam 3**:
+  - Eighth note (duration = 0.5 beats).
+  - Sixteenth note (duration = 0.25 beats).
+
+**Total duration**: 0.5 + 0.25 + 0.375 + 0.125 + 0.25 + 0.5 + 0.25 = **2 beats**.
+
+Thus, **Measure 2 is in 2/4 time**.
+
+---
+
+### Conclusion:
+- Measure 1: **4/4 time**.
+- Measure 2: **2/4 time**.

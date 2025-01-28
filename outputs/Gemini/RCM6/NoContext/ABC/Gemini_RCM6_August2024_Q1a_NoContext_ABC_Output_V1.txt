@@ -1,0 +1,5 @@
+Measure 1: Perfect Octave
+Measure 2: Major Third
+Measure 3: Major Sixth
+Measure 4: Minor Third
+Measure 5: Perfect Fifth

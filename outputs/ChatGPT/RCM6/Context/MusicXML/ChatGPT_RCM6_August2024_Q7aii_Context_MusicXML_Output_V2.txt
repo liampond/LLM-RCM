@@ -1,0 +1,54 @@
+### Step 1: Determine the Key of the Piece
+
+#### 1. Check the Key Signature
+The `<key>` element in the MusicXML file specifies `<fifths>-5</fifths>`. This indicates a key signature with 5 flats. Referring to the table provided:
+- 5 flats correspond to **D♭ Major** or **B♭ Minor**.
+
+#### 2. Determine if the Key is Major or Minor
+To decide between D♭ Major and B♭ Minor, we look for the raised seventh degree (A♮) in the case of B♭ Minor. However:
+- The notes in the piece include A♭, D♭, and B♭, which align with the D♭ Major scale.
+- There is no evidence of a raised seventh (A♮) or other minor key characteristics.
+
+Thus, the key is **D♭ Major**.
+
+---
+
+### Step 2: Determine the Time Signature
+
+#### Measure-by-Measure Analysis of Rhythms
+
+##### Measure 1
+- Notes: Two D♭5 eighth notes (each = 0.5 beats), two F5 eighth notes (each = 0.5 beats).
+- Total rhythmic value: 0.5 + 0.5 + 0.5 + 0.5 = **2 beats**.
+
+##### Measure 2
+- Notes: One D♭5 quarter note (1 beat), two A♭4 eighth notes (each = 0.5 beats).
+- Total rhythmic value: 1 + 0.5 + 0.5 = **2 beats**.
+
+##### Measure 3
+- Notes: 
+  - A♭4 dotted eighth note (0.75 beats), A♭4 sixteenth note (0.25 beats) = 1 beat.
+  - E♭5 sixteenth note (0.25 beats), D♭5 sixteenth note (0.25 beats), C5 sixteenth note (0.25 beats), B♭4 sixteenth note (0.25 beats) = 1 beat.
+- Total rhythmic value: 1 + 1 = **2 beats**.
+
+##### Measure 4
+- Notes: One A♭4 quarter note (1 beat).
+- Total rhythmic value: **1 beat** (this measure is incomplete, likely a pickup or final cadence).
+
+#### Step 3: Determine the Beat Groupings
+- Each measure (except the last) contains **2 beats**.
+- The smallest note value is a sixteenth note (0.25 beats), but the beats are grouped into eighth notes (0.5 beats each).
+- This suggests **simple time** with eighth notes as the beat unit.
+
+#### Step 4: Write the Time Signature
+- The top number is **2** (2 beats per measure).
+- The bottom number is **8** (eighth note as the beat unit).
+
+The time signature is **2/8**.
+
+---
+
+### Summary
+
+- **Key**: D♭ Major
+- **Time Signature**: 2/8

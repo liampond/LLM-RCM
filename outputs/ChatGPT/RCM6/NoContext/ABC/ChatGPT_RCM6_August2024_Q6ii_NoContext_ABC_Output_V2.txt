@@ -1,0 +1,6 @@
+1. **Key of the melody**: D major  
+2. **Root/quality chord symbol of the last chord**: D major (D)  
+3. **Root/quality chord symbol of the second last chord**: A major (A)  
+4. **Functional chord symbol for the last chord**: I  
+5. **Functional chord symbol for the second last chord**: V  
+6. **Type of cadence**: Authentic cadence (perfect authentic cadence, as it moves from V to I in root position).

@@ -1,0 +1,21 @@
+[TextBlock(text='Let me help you with those chords:
+
+Mediant triad of E flat major in root position
+Key signature: B♭, E♭, A♭
+Notes: G, B♭, D
+
+Submediant triad of A sharp minor, harmonic form, in second inversion
+Key signature: F♯, C♯, G♯, D♯, A♯, E♯
+Notes: F♯, B♯, D♯
+
+Dominant triad of C sharp minor, harmonic form, in first inversion
+Key signature: F♯, C♯, G♯, D♯
+Notes: B♯, G♯, D♯
+
+Subdominant triad of G major in second inversion
+Key signature: F♯
+Notes: D, G, B
+
+Dominant 7th chord of B flat minor, harmonic form, in root position
+Key signature: B♭, E♭, A♭, D♭, G♭
+Notes: F, A♮, C, E♭', type='text')]

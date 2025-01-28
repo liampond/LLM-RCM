@@ -1,0 +1,6 @@
+* **Key:** Eb major
+* **Second to last chord (root/quality):**  Cmin (or C-)
+* **Last chord (root/quality):**  G-7 (G dominant 7, or G7 with added minor 7th interval)
+* **Second to last chord (functional):**  iv (submediant)
+* **Last chord (functional):** V7 (dominant 7)
+* **Cadence type:** Authentic cadence (V7 - I, where I is implied)

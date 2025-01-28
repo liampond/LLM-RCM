@@ -1,0 +1,74 @@
+### Step 1: Determine the Key
+
+#### 1. Check the Key Signature
+The key signature in the MusicXML file specifies **1 sharp** (`<fifths>1</fifths>`). According to the key signature table:
+- 1 sharp corresponds to **G Major** or **E Minor**.
+
+#### 2. Determine if the Key is Major or Minor
+To distinguish between G Major and E Minor, we look for the presence of a **raised seventh degree** (D♯ in E Minor) or other clues:
+- In Measure 2, there is a **D♯** (`<step>D</step><alter>1</alter>` with `<accidental>sharp</accidental>`), which is the raised seventh degree in E Minor.
+- This suggests the piece is in **E Minor**.
+
+#### 3. Look for Other Clues
+- The melodic content emphasizes notes from the E Minor scale (E, F♯, G, A, B, C, D♯).
+- The presence of D♯ strongly supports E Minor over G Major.
+
+**Key: E Minor**
+
+---
+
+### Step 2: Determine the Time Signature
+
+#### Step 1: Identify the Beat Groupings
+We analyze the rhythmic groupings in the measures:
+
+##### Measure 1:
+- The measure contains **16th notes** and a **16th rest**.
+- The notes are grouped into beams of **5 consecutive 16th notes** (G4, A4, B4, C5, A4).
+- Total rhythmic value:
+  - Each 16th note = 1/4 of a beat.
+  - 5 × 1/4 = **1.25 beats**.
+
+##### Measure 2:
+- The measure contains **16th notes** grouped into beams of **6 consecutive 16th notes** (B4, G4, F♯4, E4, D♯4, A4).
+- Total rhythmic value:
+  - Each 16th note = 1/4 of a beat.
+  - 6 × 1/4 = **1.5 beats**.
+
+##### Measure 3:
+- The measure contains a mix of **32nd notes**, **16th notes**, and **eighth notes**:
+  - G4 (32nd), F♯4 (32nd), E4 (16th), E5 (eighth), and an eighth rest.
+  - Total rhythmic value:
+    - 32nd notes = 1/8 of a beat each.
+    - 16th note = 1/4 of a beat.
+    - Eighth note = 1/2 of a beat.
+    - Rest = 1/2 of a beat.
+    - Total = 1/8 + 1/8 + 1/4 + 1/2 + 1/2 = **1.5 beats**.
+
+##### Measure 4:
+- The measure contains a mix of **32nd notes**, **16th notes**, **eighth notes**, and an eighth rest:
+  - D♯5 (32nd), C♯5 (32nd), B4 (16th), A5 (eighth), and an eighth rest.
+  - Total rhythmic value:
+    - 32nd notes = 1/8 of a beat each.
+    - 16th note = 1/4 of a beat.
+    - Eighth note = 1/2 of a beat.
+    - Rest = 1/2 of a beat.
+    - Total = 1/8 + 1/8 + 1/4 + 1/2 + 1/2 = **1.5 beats**.
+
+#### Step 2: Check the Total Value of the Beam Groupings
+- The rhythmic groupings suggest **compound time** because the notes are grouped into sets of **3 smaller beats** (e.g., 3 sixteenth notes = 1 beat in compound time).
+
+#### Step 3: Count the Total Beats in the Measure
+- Each measure contains **1.5 beats** in compound time, where each beat is divided into three smaller beats.
+
+#### Step 4: Write the Time Signature
+- In compound time, the bottom number represents the smallest beat value. Here, the smallest beat is a **16th note**, so the bottom number is **16**.
+- The top number represents the total number of smaller beats in the measure. Each measure contains **9 sixteenth notes** (3 groups of 3 sixteenth notes), so the top number is **9**.
+
+**Time Signature: 9/16**
+
+---
+
+### Final Answer:
+- **Key:** E Minor
+- **Time Signature:** 9/16

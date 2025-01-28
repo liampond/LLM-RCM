@@ -1,0 +1,13 @@
+Transposed up a minor sixth (E to C#):
+
+```abc
+X:1
+T:RCM6_August2024_Q4_transposed
+M:4/4
+L:1/16
+K:C#
+V:1 treble nm="Piano" snm="Pno."
+"C#"C#8 E4 G#4 | F#6 G#A F#4 z4 | A#8 G#4 c4 | G#4 F#2E#D# C#4 z4 ||
+```
+
+New key: C# major.

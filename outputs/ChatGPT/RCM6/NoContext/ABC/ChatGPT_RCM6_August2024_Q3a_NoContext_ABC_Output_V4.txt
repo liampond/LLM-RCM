@@ -1,0 +1,14 @@
+To write the D-flat major scale in the bass clef, ascending and descending, follow these steps:
+
+1. **Key Signature**: D-flat major has 5 flats: B♭, E♭, A♭, D♭, and G♭.
+2. **Scale Notes**: The notes of the D-flat major scale are: D♭, E♭, F, G♭, A♭, B♭, C, and D♭ (ascending), and the reverse order for descending.
+
+### Ascending:
+- Write the notes in the bass clef staff as whole notes: D♭, E♭, F, G♭, A♭, B♭, C, D♭.
+- Use the key signature to indicate the flats (B♭, E♭, A♭, D♭, G♭).
+
+### Descending:
+- Write the notes in reverse order as whole notes: D♭, C, B♭, A♭, G♭, F, E♭, D♭.
+- The key signature remains the same.
+
+Ensure the notes are spaced evenly and aligned properly on the staff.

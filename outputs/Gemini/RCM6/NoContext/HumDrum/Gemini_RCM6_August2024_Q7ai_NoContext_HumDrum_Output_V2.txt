@@ -1,0 +1,2 @@
+Key: G major (F# major would require a C#)
+Time signature: 4/4 (or C)

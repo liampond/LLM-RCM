@@ -1,0 +1,29 @@
+**Measure 1:**
+
+* **Analysis:**
+    * 4.f = quarter note = 1 beat
+    * 8f = eighth note = 0.5 beats
+    * 16fLL = two tied sixteenth notes = 0.5 beats
+    * 16fJ = sixteenth note = 0.25 beats
+    * 8fJ = eighth note = 0.5 beats
+    * 8fL = eighth note = 0.5 beats
+    * 8fJ = eighth note = 0.5 beats
+* **Total:** 1 + 0.5 + 0.5 + 0.25 + 0.5 + 0.5 + 0.5 = 3.75 beats
+* **Grouping:**  The beaming suggests a compound meter, with the sixteenth notes and following eighth grouped together (0.75 beats, equivalent to a dotted eighth).  The presence of a quarter note at the beginning suggests a compound time signature where the beat is a dotted quarter note.
+* **Time Signature:** 9/16
+
+**Measure 2:**
+
+* **Analysis:**
+    * 16fLL = two tied sixteenth notes = 0.5 beats
+    * 16f = sixteenth note = 0.25 beats
+    * 32fL = thirty-second note = 0.125 beats
+    * 32fJJJ = three tied thirty-second notes = 0.375 beats
+    * 16.fLL = dotted sixteenth note tied to another sixteenth = 0.5 beats
+    * 32fK = thirty-second note = 0.125 beats
+    * 16fJJ = two tied sixteenth notes = 0.5 beats
+    * 8fL = eighth note = 0.5 beats
+    * 16fJk = sixteenth note tied to a thirty-second = 0.375 beats
+* **Total:** 0.5 + 0.25 + 0.125 + 0.375 + 0.5 + 0.125 + 0.5 + 0.5 + 0.375 = 3 beats
+* **Grouping:** The beaming and rhythmic values clearly group into units of 0.75 (dotted eighth).
+* **Time Signature:** 9/16 

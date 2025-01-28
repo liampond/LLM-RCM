@@ -1,0 +1,25 @@
+[TextBlock(text='Let me help determine the time signature by adding up the rhythmic values in each measure.
+
+For Measure 1:
+- Dotted quarter note (12 ppq)
+- Eighth note (4 ppq)
+- Two sixteenth notes (2 ppq each = 4 ppq)
+- Eighth note (4 ppq)
+- Two eighth notes (4 ppq each = 8 ppq)
+
+Total for measure 1 = 32 ppq
+
+For Measure 2:
+- Two sixteenth notes (2 ppq each = 4 ppq)
+- Two thirty-second notes (1 ppq each = 2 ppq)
+- Dotted sixteenth note (3 ppq)
+- Thirty-second note (1 ppq)
+- Sixteenth note (2 ppq)
+- Eighth note (4 ppq)
+- Sixteenth note (2 ppq)
+
+Total for measure 2 = 18 ppq
+
+Since measure 1 has 32 ppq, and given that ppq (pulses per quarter note) is 8 in this score (as defined in the staffDef element), this means each measure contains 4 quarter notes (32÷8 = 4).
+
+Therefore, the time signature is 4/4 (common time).', type='text')]

@@ -1,0 +1,28 @@
+Let's analyze the intervals between the notes in each measure. The key signature is D major (F# and C# are sharp), and accidentals are applied as necessary. Here's the breakdown:
+
+### Measure 1:
+- Notes: **a** (A) and **gg** (G)
+- Interval: **minor 7th** (A to G is a minor 7th)
+
+### Measure 2:
+- Notes: **f#** (F#) and **b-X** (B double flat, enharmonically A)
+- Interval: **diminished 5th** (F# to B double flat)
+
+### Measure 3:
+- Notes: **e** (E) and **cc#** (C#)
+- Interval: **minor 6th** (E to C# is a minor 6th)
+
+### Measure 4:
+- Notes: **cc-X** (C double flat, enharmonically B flat) and **dd** (D)
+- Interval: **augmented 2nd** (C double flat to D)
+
+### Measure 5:
+- Notes: **b** (B) and **ff#** (F#)
+- Interval: **diminished 5th** (B to F#)
+
+### Summary of Intervals:
+1. Minor 7th  
+2. Diminished 5th  
+3. Minor 6th  
+4. Augmented 2nd  
+5. Diminished 5th

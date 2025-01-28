@@ -1,0 +1,11 @@
+### Key of the Melody:
+The key signature indicates **1 sharp**, which corresponds to either **G major** or **E minor**. Based on the melodic content, particularly the frequent use of **D**, **G**, and **B**, the melody is likely in **G major**.
+
+### Time Signature:
+The time signature is not explicitly stated, so we must infer it from the rhythmic structure. 
+
+- Measure 0 contains a single **16th note** (1/16 of a whole note).
+- Measure 1 contains **12 sixteenth notes**, grouped into four beams of three notes each.
+- Measure 2 contains **15 sixteenth notes** (three beams of three notes and one beam of two notes, plus an eighth note at the end).
+
+The grouping of notes into sets of **three sixteenth notes** suggests a **compound meter**. The most plausible time signature is **9/16**, where each measure contains **9 sixteenth notes** grouped into three beats of three sixteenth notes each. However, Measure 2 contains an irregular extension, which may indicate a cadenza-like or free rhythm at the end.

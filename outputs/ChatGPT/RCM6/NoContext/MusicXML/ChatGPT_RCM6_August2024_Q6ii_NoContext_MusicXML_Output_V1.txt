@@ -1,0 +1,11 @@
+1. **Key of the melody**: The key is **D major** (indicated by the key signature of two sharps).
+
+2. **Root/quality chord symbol of the last chord**: The last chord is **D major** (**D** as the root, with the notes D, F#, and A).
+
+3. **Root/quality chord symbol of the second last chord**: The second last chord is **A major** (**A** as the root, with the notes A, C#, and E).
+
+4. **Functional chord symbol for the last chord**: The last chord is the **tonic (I)** in D major.
+
+5. **Functional chord symbol for the second last chord**: The second last chord is the **dominant (V)** in D major.
+
+6. **Type of cadence**: The cadence is an **authentic cadence** (V to I).

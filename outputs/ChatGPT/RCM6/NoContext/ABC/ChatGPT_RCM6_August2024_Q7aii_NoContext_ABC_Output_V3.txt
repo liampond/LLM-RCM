@@ -1,0 +1,12 @@
+### Key of the Melody:
+The key of the melody is **D-flat major**. This is explicitly indicated by the `K:Db` in the ABC notation.
+
+### Time Signature of the Melody:
+The time signature is not explicitly stated (`M:?`), so we must infer it from the rhythms. Here's the breakdown:
+
+1. The melody uses a note length of `L:1/8`, meaning each written note corresponds to an eighth note.
+2. The first measure contains **dd ff**, which are four eighth notes, suggesting a grouping of four beats.
+3. The second measure contains **d2 AA**, where `d2` is a quarter note (two eighths) and `AA` are two eighth notes, again summing to four beats.
+4. The third measure contains **A>A e/d/c/B/**, where `A>A` is a dotted quarter note (three eighths) and `e/d/c/B/` is a group of four sixteenth notes (two eighths), summing to four beats.
+
+From this analysis, the melody consistently groups into measures of **four beats**, suggesting the time signature is **4/4** (common time).

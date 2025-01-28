@@ -1,0 +1,69 @@
+### Step 1: Determine the Key
+
+#### 1. Check the Key Signature
+The key signature in the file is `*k[f#]`, which indicates one sharp (F♯). According to the key signature table:
+- 1 sharp corresponds to **G Major** or **E Minor**.
+
+#### 2. Determine if the Key is Major or Minor
+To distinguish between G Major and E Minor, we look for the raised seventh degree (D♯) in E Minor. If present, this would indicate E Minor. If absent, the key is likely G Major.
+
+- The notes in the file include: `dd`, `gg`, `bb`, `ff#`, `ee`, and `cc`. There is no D♯ present, and the melodic and harmonic content does not emphasize E Minor.
+- The piece starts and ends on `gg` (G), which suggests G Major.
+
+**Key: G Major**
+
+---
+
+### Step 2: Determine the Time Signature
+
+#### 1. Identify the Beat Groupings
+The rhythmic values in the file are as follows:
+- Measure 1: `16dd`
+- Measure 2: `16ggLL 16bb 16ff#JJ 16ggLL 16bb 16ddJJ`
+- Measure 3: `16ggLL 16bb 16ff#JJ 16ggLL 16bb 16ddJJ`
+- Measure 4: `16eeLL 16cc 16gJJ 8ggL 16ccJk 16ddLL 16b 16gJJ 8gg`
+
+Let’s analyze the rhythmic groupings in each measure.
+
+#### Measure 1
+- `16dd`: A single sixteenth note (0.25 beats).
+- Total value = 0.25 beats.
+
+#### Measure 2
+- `16ggLL 16bb 16ff#JJ 16ggLL 16bb 16ddJJ`: Six sixteenth notes (each 0.25 beats).
+- Total value = 6 × 0.25 = 1.5 beats.
+
+#### Measure 3
+- `16ggLL 16bb 16ff#JJ 16ggLL 16bb 16ddJJ`: Six sixteenth notes (each 0.25 beats).
+- Total value = 6 × 0.25 = 1.5 beats.
+
+#### Measure 4
+- `16eeLL 16cc 16gJJ 8ggL 16ccJk 16ddLL 16b 16gJJ 8gg`:
+  - `16eeLL 16cc 16gJJ`: Three sixteenth notes (0.25 beats each) = 3 × 0.25 = 0.75 beats.
+  - `8ggL`: One eighth note (0.5 beats).
+  - `16ccJk 16ddLL 16b`: Three sixteenth notes (0.25 beats each) = 3 × 0.25 = 0.75 beats.
+  - `16gJJ 8gg`: One sixteenth note (0.25 beats) + one eighth note (0.5 beats) = 0.25 + 0.5 = 0.75 beats.
+  - Total value = 0.75 + 0.5 + 0.75 + 0.75 = 2.75 beats.
+
+#### 2. Check the Total Value of Each Measure
+The total rhythmic values for the measures are:
+- Measure 1: 0.25 beats.
+- Measure 2: 1.5 beats.
+- Measure 3: 1.5 beats.
+- Measure 4: 2.75 beats.
+
+The measures do not have consistent rhythmic totals, which suggests that the time signature is irregular or the file is incomplete. However, the most consistent grouping is 1.5 beats per measure (Measures 2 and 3).
+
+#### 3. Determine the Bottom Number
+The smallest rhythmic value is a sixteenth note (0.25 beats). This suggests that the bottom number of the time signature is 16.
+
+#### 4. Count the Total Beats in the Measure
+If each measure contains 1.5 beats, the top number of the time signature is 3 (1.5 × 2 = 3 sixteenth notes per measure).
+
+**Time Signature: 3/16**
+
+---
+
+### Summary
+- **Key**: G Major
+- **Time Signature**: 3/16

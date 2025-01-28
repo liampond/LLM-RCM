@@ -1,0 +1,40 @@
+### Step 1: Determine the Key of the Piece
+
+#### 1. Check the Key Signature
+The `<key>` element in the MusicXML file specifies `<fifths>1</fifths>`. This indicates one sharp in the key signature. Referring to the key signature table:
+- 1 sharp corresponds to **G Major** or **E Minor**.
+
+#### 2. Determine if the Key is Major or Minor
+To distinguish between G Major and E Minor, we look for the raised seventh degree in E Minor (D♯). If present, this would indicate E Minor. However:
+- The notes in the piece include G, B, D, and F♯, which strongly suggest the tonic triad of **G Major**.
+- There is no D♯ present in the piece, ruling out E Minor.
+
+Thus, the key is **G Major**.
+
+---
+
+### Step 2: Determine the Time Signature
+
+#### 1. Identify the Beat Groupings
+The piece contains primarily **16th notes**, grouped into sets of **4 beamed notes**. Each grouping of 4 sixteenth notes equals **1 beat**.
+
+#### 2. Check the Total Value of the Beam Groupings
+Each beam grouping of 4 sixteenth notes equals **1 quarter note (1 beat)**. This indicates **simple time**.
+
+#### 3. Count the Total Beats in the Measure
+- Measure 1 contains **16 sixteenth notes**, grouped into 4 sets of 4 sixteenth notes. This equals **4 beats**.
+- Measure 2 also contains **16 sixteenth notes**, grouped similarly into 4 beats.
+
+Thus, each measure contains **4 beats**.
+
+#### 4. Determine the Bottom Number
+Since each beat is a quarter note, the bottom number of the time signature is **4**.
+
+#### 5. Write the Time Signature
+The piece has **4 beats per measure**, with each beat represented by a quarter note. The time signature is **4/4**.
+
+---
+
+### Summary
+- **Key**: G Major
+- **Time Signature**: 4/4

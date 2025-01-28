@@ -1,0 +1,5 @@
+* **Perfect 4th above B♭₂:** E♭₃
+* **Major 3rd above D♯₃:** F𝄪₃ (F double sharp 3)
+* **Diminished 8ve above G♭₂:** G𝄫₃ (G double flat 3)
+* **Augmented 6th above C♭₃:** A₃
+* **Minor 2nd above E₂:** F₂

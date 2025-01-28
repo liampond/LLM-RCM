@@ -1,0 +1,9 @@
+The relative minor of B major is **G# minor**. In the melodic minor form, the scale ascends with raised 6th and 7th degrees, but descends in its natural minor form. Below are the notes for the **ascending** and **descending** G# melodic minor scale:
+
+### Ascending G# melodic minor:
+G#, A#, B, C#, D#, E#, F##, G#
+
+### Descending G# melodic minor (natural minor form):
+G#, F#, E, D#, C#, B, A#, G#
+
+In the treble clef, the key signature for G# minor includes **five sharps** (F#, C#, G#, D#, A#). Additional accidentals are used for the raised 6th (E#) and 7th (F##) in the ascending form.

@@ -1,0 +1,11 @@
+[TextBlock(text='Here are the musical terms for each description:
+
+-Homophony (or homophonic texture): A texture consisting of a single line of melody supported by a harmonic accompaniment
+
+-Concerto Grosso: A Baroque orchestral work, usually in three movements, in which a group of solo instruments (concertino) is contrasted with a full string orchestra (ripieno)
+
+-Recapitulation: The third section in sonata form, where the main themes return in the home key
+
+-Sequence: A motive or phrase that is repeated at a higher or lower pitch in the same voice
+
+-Classical Era (or Classical Period): The musical era that spans ca 1750-1825', type='text')]

@@ -1,0 +1,20 @@
+[TextBlock(text='Let me analyze this piece:
+
+1. Key: Based on the key signature of 3 flats (Bb, Eb, Ab), and examining the melodic content and final cadence, this piece is in C minor.
+
+2. Second last chord (measure before final bar):
+- Root/Quality: C minor (Cm)
+- Contains C, Eb, G
+
+3. Last chord:
+- Root/Quality: G major (G)
+- Contains G, B natural, D
+
+4. Functional chord symbols:
+- Second last chord: i (tonic in C minor)
+- Last chord: V (dominant in C minor)
+
+5. Cadence type:
+This is a Half Cadence (HC), as it moves from i to V and ends on the dominant chord (G major).
+
+The presence of the B natural (leading tone) in the final G major chord confirms this is functioning as a dominant chord in C minor, creating a clear half cadence.', type='text')]

@@ -1,0 +1,13 @@
+Here's the analysis of the melody:
+
+* **Key:** A major (F# C# in the key signature)
+
+* **Second to last chord:** A major
+
+* **Last chord:** D major
+
+* **Functional chord symbol (second to last):** IV (A is the subdominant of D in A major)
+
+* **Functional chord symbol (last):** I (D is the tonic when temporarily modulating to D major) It is important to note that the piece is in A major, but the final two chords suggest a modulation to D major.
+
+* **Cadence:** Authentic (IV-I in D major).  While it's not a V-I in A major, it functions as an authentic cadence in the temporary tonic of D major.

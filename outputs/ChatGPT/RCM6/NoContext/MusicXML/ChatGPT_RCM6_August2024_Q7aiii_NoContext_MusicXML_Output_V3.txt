@@ -1,0 +1,18 @@
+### Key of the Melody:
+The key signature indicates **1 sharp**, which corresponds to either **G major** or **E minor**. Based on the melodic content, the frequent use of **D#** (raised 7th scale degree in E minor) strongly suggests the melody is in **E minor**.
+
+### Time Signature:
+The time signature is hidden, so we must infer it from the rhythmic structure. 
+
+- The **divisions** value is 8, meaning each quarter note is divided into 8 parts (32nd notes).
+- In each measure:
+  - Measure 1 contains 16 sixteenth-note durations (16 × 1/16 = 1 whole note).
+  - Measure 2 also contains 16 sixteenth-note durations.
+  - Measure 3 contains 16 sixteenth-note durations.
+  - Measure 4 contains 16 sixteenth-note durations.
+
+This consistent grouping of 16 sixteenth notes per measure suggests a **4/4 (common time)** time signature. 
+
+### Final Answer:
+- **Key:** E minor  
+- **Time Signature:** 4/4

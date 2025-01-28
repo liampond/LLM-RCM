@@ -1,0 +1,12 @@
+### Key of the Melody:
+The key signature is **D-flat major** (indicated by `K:Db`), so the melody is in **D-flat major** unless there is evidence of modal or tonal ambiguity, which is not present here.
+
+### Time Signature:
+To infer the time signature, we analyze the rhythmic structure:
+
+1. **Bar 1**: `dd ff` - Each note is an eighth note (`L:1/8`), so this bar contains 4 eighth notes.
+2. **Bar 2**: `d2 AA` - `d2` is a quarter note (2 eighth notes), and `AA` are two eighth notes, totaling 4 eighth notes.
+3. **Bar 3**: `A>A e/d/c/B/` - `A>A` is a quarter note (2 eighth notes), and `e/d/c/B/` is a group of four sixteenth notes (equivalent to 2 eighth notes), totaling 4 eighth notes.
+4. **Bar 4**: `A2` - `A2` is a quarter note (2 eighth notes), but this bar is incomplete, suggesting it is a final bar or a pickup.
+
+Each full bar consistently contains 4 eighth notes, indicating the time signature is **4/8**.

@@ -1,0 +1,27 @@
+To transpose the melody up a minor sixth, we need to raise each note by the interval of a minor sixth. The original key is E major, and transposing up a minor sixth moves the key to **C minor**. The key signature for C minor includes three flats: B♭, E♭, and A♭.
+
+Here is the transposed melody in ABC format:
+
+```
+X:2
+T:RCM6_August2024_Q4_Transposed
+L:1/16
+M:4/4
+K:Cm
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ C8 E4 G4 | A6 B♭C A4 z4 | F8 E4 A4 | E4 D2ED C4 z4 || %4
+```
+
+### Explanation of the Transposition:
+1. **First measure**: 
+   - Original: `E8 G4 B4` → Transposed: `C8 E4 G4`
+2. **Second measure**: 
+   - Original: `D6 EF E4 z4` → Transposed: `A6 B♭C A4 z4`
+3. **Third measure**: 
+   - Original: `c8 B4 e4` → Transposed: `F8 E4 A4`
+4. **Fourth measure**: 
+   - Original: `B4 A2GA G4 z4` → Transposed: `E4 D2ED C4 z4`
+
+### New Key:
+The new key is **C minor**.

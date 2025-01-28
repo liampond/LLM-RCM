@@ -1,0 +1,5 @@
+### Key of the Melody:
+The key signature indicates **one sharp (F#)**, which suggests either **G major** or **E minor**. Examining the melody, the frequent use of **D (dominant of G)** and **G (tonic of G)**, along with the absence of strong E minor characteristics (e.g., D# leading tone), suggests the melody is in **G major**.
+
+### Time Signature:
+The melody's rhythm consists of consistent groupings of **16th notes and 8th notes**. Each measure contains **16 sixteenth-note beats**, which aligns with a **4/4 time signature** (common time). Therefore, the inferred time signature is **4/4**.

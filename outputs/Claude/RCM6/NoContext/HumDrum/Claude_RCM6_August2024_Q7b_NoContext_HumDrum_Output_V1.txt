@@ -1,0 +1,19 @@
+[TextBlock(text='Let me analyze this melody:
+
+1. Key: A major (based on the key signature of F#, C#, G#)
+
+2. Time Signature: 6/8 
+(Each bar contains 6 eighth notes worth of duration, grouped in a way typical of 6/8 time - a quarter note followed by two eighth notes)
+
+Chord symbols by bar:
+Bar 1: F#m 
+(The melody outlines F#-A-C# with the notes F#, C#, A, B, C#)
+
+Bar 2: B minor
+(The melody outlines B-D-F# with the notes D, B, F#, E, D)
+
+Bar 3: C# major
+(The melody uses C#, D#, E#, G#, F#, E# - suggesting C# major with raised third E#)
+
+Bar 4: F#m
+(The melody sustains F#, implying a return to the tonic F#m)', type='text')]

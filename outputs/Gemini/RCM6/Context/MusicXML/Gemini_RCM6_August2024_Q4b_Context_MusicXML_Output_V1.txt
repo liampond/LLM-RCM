@@ -1,0 +1,28 @@
+The original key is E major. The new key is A♭ major.  A♭ is a minor third below E. Therefore, the interval of transposition is a minor third up.
+
+The transposed melody in A♭ major is:
+
+**Measure 1:**
+* B♭4 (half note)
+* D♭5 (quarter note)
+* F5 (quarter note)
+
+**Measure 2:**
+* G♭4 (dotted quarter note)
+* A♭4 (16th note)
+* B♭4 (16th note)
+* A♭4 (quarter note)
+* Rest (quarter note)
+
+**Measure 3:**
+* E♭5 (half note)
+* D♭5 (quarter note)
+* G♭5 (quarter note)
+
+**Measure 4:**
+* D♭5 (quarter note)
+* C5 (eighth note)
+* D♭5 (16th note)
+* C5 (16th note)
+* D♭5 (quarter note)
+* Rest (quarter note) 

@@ -1,0 +1,7 @@
+Transposing the melody up a minor sixth (from E major) results in the key of C# major.
+
+The transposed melody is:
+
+C#8 E4 G#4 | F#6 G# A F#4 z4 | A#8 G#4 c#4 | G#4 F#2E#D# C#4 z4
+
+The new key signature is C# major (7 sharps).

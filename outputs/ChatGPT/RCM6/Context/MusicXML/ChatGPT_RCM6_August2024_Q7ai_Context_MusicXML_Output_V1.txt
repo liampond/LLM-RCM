@@ -1,0 +1,53 @@
+### Step 1: Determine the Key of the Piece
+
+#### 1. Check the Key Signature
+The `<key>` element in the MusicXML file specifies `<fifths>1</fifths>`. This indicates one sharp in the key signature. Referring to the key signature table:
+- 1 sharp corresponds to **G Major** or **E Minor**.
+
+#### 2. Determine if the Key is Major or Minor
+To distinguish between G Major and E Minor, we look for the presence of a raised seventh degree (D♯) in the melody, which would indicate E Minor. However, there are no D♯ accidentals in the provided notes. Instead, the melodic content emphasizes G, B, and D, which form the tonic triad of **G Major**.
+
+#### 3. Look for Other Clues
+The piece begins and ends with G5, further supporting that the key is **G Major**.
+
+**Key: G Major**
+
+---
+
+### Step 2: Determine the Time Signature
+
+#### 1. Identify the Beat Groupings
+The notes in the measures are primarily sixteenth notes (`<type>16th</type>`), grouped into beams. Let’s analyze the rhythmic groupings in each measure:
+
+- **Measure 1:**
+  - Group 1: G5, B5, F♯5 (3 sixteenth notes = 0.75 beats).
+  - Group 2: G5, B5, D5 (3 sixteenth notes = 0.75 beats).
+  - Group 3: G5, B5, F♯5 (3 sixteenth notes = 0.75 beats).
+  - Group 4: G5, B5, D5 (3 sixteenth notes = 0.75 beats).
+  - Total: 0.75 × 4 = **3 beats**.
+
+- **Measure 2:**
+  - Group 1: E5, C5, G4 (3 sixteenth notes = 0.75 beats).
+  - Group 2: G5 (eighth note = 0.5 beats) + C5 (sixteenth note = 0.25 beats) = 0.75 beats.
+  - Group 3: D5, B4, G4 (3 sixteenth notes = 0.75 beats).
+  - Group 4: G5 (eighth note = 0.5 beats).
+  - Total: 0.75 + 0.75 + 0.75 + 0.5 = **3 beats**.
+
+#### 2. Check the Total Value of the Beam Groupings
+Each beam grouping equals **0.75 beats**, which is characteristic of **compound time** (each beat is divided into three smaller beats).
+
+#### 3. Determine the Bottom Number
+The smallest note value in the piece is a sixteenth note, and each sixteenth note equals 0.25 beats. Since three sixteenth notes make up one beat, the bottom number of the time signature is **8** (eighth note as the beat unit).
+
+#### 4. Count the Total Beats in the Measure
+Each measure contains **3 beats** (each beat consisting of three sixteenth notes). The top number of the time signature is therefore **3**.
+
+#### 5. Write the Time Signature
+Combine the top number (3 beats) with the bottom number (8, representing an eighth note). The time signature is:
+**3/8**
+
+---
+
+### Final Answer:
+- **Key:** G Major
+- **Time Signature:** 3/8

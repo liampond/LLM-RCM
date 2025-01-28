@@ -1,0 +1,31 @@
+Here are the answers to the questions based on the provided HumDrum file and the guides:
+
+1. **Key of the piece**:  
+   The key signature indicates **B♭ minor** (5 flats: B♭, E♭, A♭, D♭, G♭). This is confirmed by the presence of accidentals like A♮ and G♮, which suggest the use of the harmonic minor scale.
+
+2. **Time signature**:  
+   The rhythmic groupings suggest **6/8** time. The eighth notes are grouped in sets of three, indicating compound duple meter.
+
+3. **Chord outlined by the first three eighth notes of the second bar (in both hands)**:  
+   The notes are **F, A♭, and D♭**. In the key of B♭ minor, these correspond to the **subdominant triad (iv)**.
+
+4. **Interval between the last eighth note in the left hand of bar 2 and the first note in the left hand of bar 3**:  
+   The notes are **D♭** (last eighth note of bar 2) and **E♭** (first note of bar 3). The interval is a **major second**.
+
+5. **Functional chord symbol for the chord outlined by the first three eighth notes of bar 5 (in both hands)**:  
+   The notes are **B♭, D♭, and F**. This is the tonic triad in B♭ minor. The functional chord symbol is **i**.
+
+6. **Chord outlined by the last three eighth notes of bar 7 (in both hands)**:  
+   The notes are **B♭, D♭, and G♭**. In the key of B♭ minor, this forms a **submediant triad (VI)**.
+
+7. **Interval between the second eighth note in the left hand of bar 8 and the third eighth note in the left hand of bar 8**:  
+   The notes are **A♭** (second eighth note) and **B♭** (third eighth note). The interval is a **major second**.
+
+8. **Rest at the end of bar 8 in the right hand**:  
+   After the F, the bar is incomplete. To complete the bar in 6/8 time, a **quarter rest** is needed.
+
+9. **Parallel or contrasting period**:  
+   The passage is a **parallel period**. Both phrases begin with similar melodic material, but the second phrase ends with a stronger cadence.
+
+10. **Meaning of "allegretto vivace"**:  
+    "Allegretto vivace" indicates a tempo that is moderately fast ("allegretto") with a lively and spirited character ("vivace").

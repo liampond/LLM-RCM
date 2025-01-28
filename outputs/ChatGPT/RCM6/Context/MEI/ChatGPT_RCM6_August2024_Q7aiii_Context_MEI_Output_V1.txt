@@ -1,0 +1,80 @@
+### Step 1: Determine the Key of the Piece
+
+#### 1. Check the Key Signature
+The `<keySig>` element in the MEI file specifies `sig="1s"`, meaning there is **1 sharp** in the key signature. Referring to the key signature table:
+- 1 sharp corresponds to **G Major** or **E Minor**.
+
+#### 2. Determine if the Key is Major or Minor
+To decide between G Major and E Minor, we look for accidentals that indicate a raised seventh degree (D♯ in E Minor) or other clues:
+- In Measure 2, there is a **D♯** (`<note pname="d" accid="s" />`), which is the raised seventh degree of E Minor.
+- This suggests the piece is in **E Minor**.
+
+#### 3. Look for Other Clues
+- The melodic content includes notes like E, G, and B, which form the tonic triad of E Minor.
+- There is no strong evidence of G Major (e.g., no emphasis on G-B-D triads or cadences in G Major).
+
+**Conclusion for Key**: The piece is in **E Minor**.
+
+---
+
+### Step 2: Determine the Time Signature
+
+#### Step 1: Identify the Beat Groupings
+We analyze the rhythmic groupings in each measure:
+
+##### Measure 1:
+- A sixteenth rest (`dur="16"`) followed by a beam of five sixteenth notes (`dur="16"` each).
+- Total rhythmic value:
+  - Sixteenth rest = 1/16.
+  - Five sixteenth notes = 5 × 1/16 = 5/16.
+  - Total = 1/16 + 5/16 = **6/16**.
+
+##### Measure 2:
+- A beam of six sixteenth notes (`dur="16"` each).
+- Total rhythmic value:
+  - Six sixteenth notes = 6 × 1/16 = **6/16**.
+
+##### Measure 3:
+- A beam of four notes:
+  - Two thirty-second notes (`dur="32"` each) = 2 × 1/32 = 1/16.
+  - One sixteenth note (`dur="16"`) = 1/16.
+  - One eighth note (`dur="8"`) = 2/16.
+  - Total = 1/16 + 1/16 + 2/16 = 4/16.
+- A sixteenth rest (`dur="16"`) and an eighth rest (`dur="8"`) follow:
+  - Sixteenth rest = 1/16.
+  - Eighth rest = 2/16.
+  - Total = 1/16 + 2/16 = 3/16.
+- Total for the measure = 4/16 + 3/16 = **7/16**.
+
+##### Measure 4:
+- A beam of four notes:
+  - Two thirty-second notes (`dur="32"` each) = 2 × 1/32 = 1/16.
+  - One sixteenth note (`dur="16"`) = 1/16.
+  - One eighth note (`dur="8"`) = 2/16.
+  - Total = 1/16 + 1/16 + 2/16 = 4/16.
+- A sixteenth rest (`dur="16"`) and an eighth rest (`dur="8"`) follow:
+  - Sixteenth rest = 1/16.
+  - Eighth rest = 2/16.
+  - Total = 1/16 + 2/16 = 3/16.
+- Total for the measure = 4/16 + 3/16 = **7/16**.
+
+#### Step 2: Check the Total Value of the Beam Groupings
+- Measures 1 and 2 consistently total **6/16**.
+- Measures 3 and 4 total **7/16**, suggesting irregularity or a possible change in meter.
+
+#### Step 3: Determine the Bottom Number
+- The smallest rhythmic value is a sixteenth note (`dur="16"`), so the bottom number of the time signature is **16**.
+
+#### Step 4: Count the Total Beats in the Measure
+- Measures 1 and 2 have 6 sixteenth notes, so the top number is **6**.
+- Measures 3 and 4 have 7 sixteenth notes, so the top number is **7**.
+
+#### Step 5: Write the Time Signature
+- The time signature for Measures 1 and 2 is **6/16**.
+- The time signature for Measures 3 and 4 is **7/16**.
+
+---
+
+### Final Answer:
+- **Key**: E Minor.
+- **Time Signature**: The piece alternates between **6/16** (Measures 1 and 2) and **7/16** (Measures 3 and 4).

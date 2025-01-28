@@ -1,0 +1,31 @@
+Here are the answers to the questions based on the provided MusicXML file and the guides:
+
+1. **Key of the piece**:  
+   The key signature has one flat (B♭), which corresponds to either F major or D minor. The piece emphasizes F as the tonic and does not prominently feature the raised seventh (C♯) of D minor. Therefore, the key is **F major**.
+
+2. **Time signature**:  
+   The rhythmic groupings suggest a compound meter. Each measure contains six eighth notes grouped into two sets of three eighth notes. This indicates a time signature of **6/8**.
+
+3. **Chord outlined by the first three eighth notes of bar 2 (in both hands)**:  
+   The notes in the right hand are D6, B♭5, and D6. The left hand contains F3, B♭3, and D4. Together, these notes form the chord B♭-D-F, which is a **B♭ major triad**. In the key of F major, this is the **subdominant triad**.
+
+4. **Interval between the last eighth note in the left hand of bar 2 and the first note in the left hand of bar 3**:  
+   The last eighth note in the left hand of bar 2 is D4, and the first note in the left hand of bar 3 is E3. Counting the letter names (D → E), this is a **seventh**. Since E3 is a whole step below D4, the interval is a **minor seventh**.
+
+5. **Functional chord symbol for the chord outlined by the first three eighth notes of bar 5 (in both hands)**:  
+   The notes in the right hand are F6, C6, and A5. The left hand contains F3, A3, and C4. Together, these notes form the chord F-A-C, which is an **F major triad**. In the key of F major, this is the **tonic chord (I)**.
+
+6. **Chord outlined by the last three eighth notes of bar 7 (in both hands)**:  
+   The notes in the right hand are B♭5, G5, and E5. The left hand contains G3, B♭3, and E4. Together, these notes form the chord G-B♭-E, which is an **E diminished triad**. In the key of F major, this is the **leading-tone diminished triad (vii°)**.
+
+7. **Interval between the second eighth note in the left hand of bar 8 and the third eighth note in the left hand of bar 8**:  
+   The second eighth note in the left hand of bar 8 is A3, and the third eighth note is C4. Counting the letter names (A → C), this is a **third**. Since C4 is a minor third above A3, the interval is a **minor third**.
+
+8. **Rest at the end of bar 8 in the right hand**:  
+   After the F5 quarter note in the right hand, there is one eighth note missing to complete the bar. Therefore, the rest should be an **eighth rest**.
+
+9. **Parallel or contrasting period**:  
+   The two phrases in the passage begin with similar melodic material, as the antecedent and consequent phrases share thematic content. This indicates a **parallel period**.
+
+10. **Meaning of "allegretto vivace"**:  
+    "Allegretto" indicates a moderately fast tempo, slightly slower than allegro. "Vivace" means lively or spirited. Together, "allegretto vivace" suggests a moderately fast and lively tempo.

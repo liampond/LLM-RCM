@@ -1,0 +1,32 @@
+[TextBlock(text="I'll help determine each interval using the steps provided. Let me analyze each note and find the requested intervals.
+
+1. Perfect 4th above the first note (B♭):
+- Starting note: B♭
+- Count up 4: B♭(1), C(2), D(3), E♭(4)
+- The P4 above B♭ is E♭
+
+2. Major 3rd above the second note (D♯):
+- Starting note: D♯
+- Count up 3: D♯(1), E♯(2), F𝄪(3)
+- The M3 above D♯ is F𝄪
+
+3. Diminished 8ve above the third note (G♭):
+- Starting note: G♭
+- Count up 8: G♭(1)...to G♭(8)
+- Lower by one semitone for diminished
+- The d8 above G♭ is G𝄫
+
+4. Augmented 6th above the fourth note (C♭):
+- Starting note: C♭
+- Count up 6: C♭(1), D♭(2), E♭(3), F♭(4), G♭(5), A♭(6)
+- Raise by one semitone for augmented
+- The A6 above C♭ is A♮
+
+5. Minor 2nd above the final note (E):
+- Starting note: E
+- Count up 2: E(1), F(2)
+- Lower by one semitone for minor
+- The m2 above E is F
+
+Therefore, the requested notes are:
+E♭, F𝄪, G𝄫, A♮, and F", type='text')]

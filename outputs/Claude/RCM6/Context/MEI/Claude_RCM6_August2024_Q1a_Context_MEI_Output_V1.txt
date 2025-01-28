@@ -1,0 +1,31 @@
+[TextBlock(text="I'll analyze each measure carefully following the provided steps.
+
+Measure 1:
+Notes: A4 to G5
+Step 2: A(1), B(2), C(3), D(4), E(5), F(6), G(7) = seventh
+Step 3: In A major scale (A,B,C♯,D,E,F♯,G♯), G natural is one semitone lower than G♯
+Therefore: Minor seventh
+
+Measure 2:
+Notes: F♯4 to B♭4
+Step 2: F(1), G(2), A(3), B(4) = fourth
+Step 3: In F♯ major scale (F♯,G♯,A♯,B,C♯,D♯,E♯), B♭ is two semitones lower than B
+Therefore: Diminished fourth
+
+Measure 3:
+Notes: E4 to C♯5
+Step 2: E(1), F(2), G(3), A(4), B(5), C(6) = sixth
+Step 3: In E major scale (E,F♯,G♯,A,B,C♯,D♯), C♯ matches the scale
+Therefore: Major sixth
+
+Measure 4:
+Notes: C♭5 to D5
+Step 2: C(1), D(2) = second
+Step 3: In C♭ major scale (C♭,D♭,E♭,F♭,G♭,A♭,B♭), D natural is two semitones higher than D♭
+Therefore: Augmented second
+
+Measure 5:
+Notes: B4 to F♯5
+Step 2: B(1), C(2), D(3), E(4), F(5) = fifth
+Step 3: In B major scale (B,C♯,D♯,E,F♯,G♯,A♯), F♯ matches the scale
+Therefore: Perfect fifth", type='text')]

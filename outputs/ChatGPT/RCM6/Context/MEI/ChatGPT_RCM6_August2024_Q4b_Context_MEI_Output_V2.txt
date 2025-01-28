@@ -1,0 +1,105 @@
+### Step 1: Determine the Interval of Transposition
+The original key signature is **E major** (4 sharps: F♯, C♯, G♯, D♯). The target key is **A♭ major** (4 flats: B♭, E♭, A♭, D♭).
+
+To find the interval of transposition:
+- Start on **E** and count up to **A♭**:
+  - E (1), F (2), G (3), A (4).
+  - This is a **fourth**.
+- Determine the quality:
+  - In the E major scale (E, F♯, G♯, A, B, C♯, D♯), **A** is a Perfect fourth.
+  - A♭ is one semitone lower than A, making the interval an **Augmented fourth** (also known as a tritone).
+
+### Step 2: Transpose the Key Signature
+The new key signature is **A♭ major** (4 flats: B♭, E♭, A♭, D♭).
+
+### Step 3: Transpose Each Note
+We will transpose each note in the melody up by an **Augmented fourth**. For each note, we will:
+1. Determine the interval from the original note to the transposed note.
+2. Adjust accidentals as needed to fit the new key signature.
+
+#### Measure 1
+1. **E4 (half note)** → Transpose up an Augmented fourth:
+   - E to A is a Perfect fourth; A♭ is an Augmented fourth.
+   - Result: **A♭4 (half note)**.
+
+2. **G♯4 (quarter note)** → Transpose up an Augmented fourth:
+   - G♯ to C is a Perfect fourth; C♯ is an Augmented fourth.
+   - Result: **C♯5 (quarter note)**.
+
+3. **B4 (quarter note)** → Transpose up an Augmented fourth:
+   - B to E is a Perfect fourth; E♭ is an Augmented fourth.
+   - Result: **E♭5 (quarter note)**.
+
+#### Measure 2
+1. **D♯4 (dotted quarter note)** → Transpose up an Augmented fourth:
+   - D♯ to G is a Perfect fourth; G♯ is an Augmented fourth.
+   - Result: **G♯4 (dotted quarter note)**.
+
+2. **E4 (16th note)** → Transpose up an Augmented fourth:
+   - E to A is a Perfect fourth; A♭ is an Augmented fourth.
+   - Result: **A♭4 (16th note)**.
+
+3. **F♯4 (16th note)** → Transpose up an Augmented fourth:
+   - F♯ to B is a Perfect fourth; B♭ is an Augmented fourth.
+   - Result: **B♭4 (16th note)**.
+
+4. **E4 (quarter note)** → Transpose up an Augmented fourth:
+   - E to A is a Perfect fourth; A♭ is an Augmented fourth.
+   - Result: **A♭4 (quarter note)**.
+
+5. **Rest (quarter note)** → No change.
+
+#### Measure 3
+1. **C♯5 (half note)** → Transpose up an Augmented fourth:
+   - C♯ to F is a Perfect fourth; F♯ is an Augmented fourth.
+   - Result: **F♯5 (half note)**.
+
+2. **B4 (quarter note)** → Transpose up an Augmented fourth:
+   - B to E is a Perfect fourth; E♭ is an Augmented fourth.
+   - Result: **E♭5 (quarter note)**.
+
+3. **E5 (quarter note)** → Transpose up an Augmented fourth:
+   - E to A is a Perfect fourth; A♭ is an Augmented fourth.
+   - Result: **A♭5 (quarter note)**.
+
+#### Measure 4
+1. **B4 (quarter note)** → Transpose up an Augmented fourth:
+   - B to E is a Perfect fourth; E♭ is an Augmented fourth.
+   - Result: **E♭5 (quarter note)**.
+
+2. **A4 (eighth note)** → Transpose up an Augmented fourth:
+   - A to D is a Perfect fourth; D♭ is an Augmented fourth.
+   - Result: **D♭5 (eighth note)**.
+
+3. **G♯4 (16th note)** → Transpose up an Augmented fourth:
+   - G♯ to C is a Perfect fourth; C♯ is an Augmented fourth.
+   - Result: **C♯5 (16th note)**.
+
+4. **A4 (16th note)** → Transpose up an Augmented fourth:
+   - A to D is a Perfect fourth; D♭ is an Augmented fourth.
+   - Result: **D♭5 (16th note)**.
+
+5. **G♯4 (quarter note)** → Transpose up an Augmented fourth:
+   - G♯ to C is a Perfect fourth; C♯ is an Augmented fourth.
+   - Result: **C♯5 (quarter note)**.
+
+6. **Rest (quarter note)** → No change.
+
+### Step 4: Final Transposed Melody
+The transposed melody in **A♭ major** is as follows:
+
+#### Measure 1
+- **A♭4 (half note)**, **C♯5 (quarter note)**, **E♭5 (quarter note)**.
+
+#### Measure 2
+- **G♯4 (dotted quarter note)**, **A♭4 (16th note)**, **B♭4 (16th note)**, **A♭4 (quarter note)**, **Rest (quarter note)**.
+
+#### Measure 3
+- **F♯5 (half note)**, **E♭5 (quarter note)**, **A♭5 (quarter note)**.
+
+#### Measure 4
+- **E♭5 (quarter note)**, **D♭5 (eighth note)**, **C♯5 (16th note)**, **D♭5 (16th note)**, **C♯5 (quarter note)**, **Rest (quarter note)**.
+
+### Final Answer
+- The interval of transposition is an **Augmented fourth**.
+- The melody has been transposed to **A♭ major** with the correct key signature and accidentals.

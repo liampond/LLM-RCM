@@ -1,0 +1,28 @@
+To determine the intervals between the notes in each measure, we compare the pitches of the two notes in each measure. Here is the analysis:
+
+### Measure 1:
+- Notes: A4 and G5
+- Interval: A4 to G5 is a **minor 7th** (m7).
+
+### Measure 2:
+- Notes: F#4 and Bb4
+- Interval: F#4 to Bb4 is a **diminished 5th** (d5).
+
+### Measure 3:
+- Notes: E4 and C#5
+- Interval: E4 to C#5 is a **major 6th** (M6).
+
+### Measure 4:
+- Notes: Cb5 and D5
+- Interval: Cb5 to D5 is an **augmented 2nd** (A2).
+
+### Measure 5:
+- Notes: B4 and F#5
+- Interval: B4 to F#5 is a **perfect 5th** (P5).
+
+### Summary of Intervals:
+1. Measure 1: Minor 7th (m7)
+2. Measure 2: Diminished 5th (d5)
+3. Measure 3: Major 6th (M6)
+4. Measure 4: Augmented 2nd (A2)
+5. Measure 5: Perfect 5th (P5)

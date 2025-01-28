@@ -1,0 +1,21 @@
+[TextBlock(text="Let me answer each question:
+
+1. Key: F major (one flat - Bb)
+
+2. Time Signature: 6/8 (analyzing the rhythmic groupings and beaming patterns shows consistent 6/8 meter throughout)
+
+3. Chord in first three eighth notes of bar 2: Subdominant triad (Bb-D-F outlining IV chord in F major)
+
+4. Interval between last eighth note of bar 2 and first note of bar 3: Perfect fifth (from C up to F)
+
+5. Functional chord symbol for first three eighth notes of bar 5: I (F major triad - F-A-C)
+
+6. Chord outlined by last three eighth notes of bar 7: C major triad (C-G-Bb - V7 without the 7th)
+
+7. Interval between second and third eighth notes in left hand of bar 8: Perfect fifth (from E up to Bb)
+
+8. Rest at end of bar 8: Eighth rest (to complete the 6/8 measure after the quarter note F)
+
+9. This is a parallel period (the melodic material in bars 5-8 closely mirrors the material from bars 1-4, with similar rhythmic and melodic contours but ending with a stronger cadence)
+
+10. Allegretto vivace means to play at a moderately fast tempo (allegretto) with a lively, spirited character (vivace). It's faster than allegretto alone but not as fast as vivace alone.", type='text')]

@@ -1,0 +1,73 @@
+To transpose the melody from the original key of E major to A♭ major, we first determine the interval of transposition.
+
+### Step 1: Determine the Interval of Transposition
+- The original key is **E major**.
+- The target key is **A♭ major**.
+- Count the letter names from E to A: E (1), F (2), G (3), A (4). This is a **fourth**.
+- Compare the accidentals: E major has 4 sharps (F♯, C♯, G♯, D♯), and A♭ major has 4 flats (B♭, E♭, A♭, D♭). Moving from E major to A♭ major involves **lowering each note by a diminished fourth** (a Perfect fourth lowered by one semitone).
+
+### Step 2: Transpose the Notes
+We will lower each note by a diminished fourth. The new key signature for A♭ major (4 flats: B♭, E♭, A♭, D♭) will replace the original key signature of E major.
+
+#### Measure-by-Measure Transposition:
+1. **Measure 1:**
+   - Original: 2e → Transposed: 2a♭
+   - Original: 4g# → Transposed: 4c
+   - Original: 4b → Transposed: 4e♭
+
+2. **Measure 2:**
+   - Original: 4.d# → Transposed: 4.f
+   - Original: 16eLL → Transposed: 16a♭LL
+   - Original: 16f#JJ → Transposed: 16b♭JJ
+   - Original: 4e → Transposed: 4a♭
+   - Original: 4r → Transposed: 4r (rests remain unchanged).
+
+3. **Measure 3:**
+   - Original: 2cc# → Transposed: 2f♭f
+   - Original: 4b → Transposed: 4e♭
+   - Original: 4ee → Transposed: 4a♭a♭
+
+4. **Measure 4:**
+   - Original: 4b → Transposed: 4e♭
+   - Original: 8aL → Transposed: 8d♭L
+   - Original: 16g#L → Transposed: 16cL
+   - Original: 16aJJ → Transposed: 16d♭JJ
+   - Original: 4g# → Transposed: 4c
+   - Original: 4r → Transposed: 4r.
+
+### Step 3: Transposed Score in HumDrum Format
+Here is the transposed melody in A♭ major:
+
+```
+**kern
+*clefG2
+*k[b-e-a-d-]
+*M4/4
+*met(c)
+=1
+2a♭
+4c
+4e♭
+=
+4.f
+16a♭LL
+16b♭JJ
+4a♭
+4r
+=
+2f♭f
+4e♭
+4a♭a♭
+=
+4e♭
+8d♭L
+16cL
+16d♭JJ
+4c
+4r
+=||
+*-
+```
+
+### Final Answer:
+The interval of transposition is a **diminished fourth** (E to A♭). The melody has been transposed accurately into A♭ major with the correct key signature and note adjustments.

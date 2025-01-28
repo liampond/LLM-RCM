@@ -1,0 +1,12 @@
+Transposing the melody up a minor sixth (8 semitones) from E major results in the following melody in C# major:
+
+```abc
+X:1
+T:RCM6_August2024_Q4_transposed
+L:1/16
+M:4/4
+K:C#
+V:1 treble nm="Piano" snm="Pno."
+"C#"C#8 E4 G#4 | A#6 C D#4 z4 | G8 F#4 c#4 | F#4 E2 C#A# A#4 z4 ||
+```
+The new key is C# major.

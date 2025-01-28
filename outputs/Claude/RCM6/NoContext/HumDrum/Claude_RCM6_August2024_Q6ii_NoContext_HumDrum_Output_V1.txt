@@ -1,0 +1,21 @@
+[TextBlock(text='Let me analyze this melody:
+
+1. Key: D major (based on the key signature of F# and C#)
+
+2. Last chord (measure 4):
+- Root/quality: D major (notes: F#, A, D)
+
+3. Second last chord (measure 3):
+- Root/quality: A major (notes: A, C#, E)
+
+4. Functional symbol for last chord:
+- I (tonic)
+
+5. Functional symbol for second last chord:
+- V (dominant)
+
+6. Type of cadence:
+- Perfect Authentic Cadence (PAC)
+- This is because it moves from V to I in root position, with the melody ending on the tonic note (D)
+
+The progression V - I with the melody ending on scale degree 1 creates a strong sense of resolution, making this a perfect authentic cadence in D major.', type='text')]

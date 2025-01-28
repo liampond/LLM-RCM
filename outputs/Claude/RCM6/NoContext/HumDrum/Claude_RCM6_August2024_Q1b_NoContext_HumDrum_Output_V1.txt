@@ -1,0 +1,23 @@
+[TextBlock(text='Let me help find these intervals from each note:
+
+1. First note is BB-X (B-flat): 
+- Perfect 4th above B-flat is E-flat
+
+2. Second note is D#X (D-sharp):
+- Major 3rd above D-sharp is F-double-sharp
+
+3. Third note is GG-X (G-flat):
+- Diminished 8ve above G-flat is G-double-flat
+
+4. Fourth note is C-X (C-flat):
+- Augmented 6th above C-flat is A-natural
+
+5. Fifth note is EE (E):
+- Minor 2nd above E is F
+
+So the answers are:
+1. E-flat
+2. F-double-sharp
+3. G-double-flat
+4. A-natural
+5. F', type='text')]

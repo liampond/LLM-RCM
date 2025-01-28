@@ -1,0 +1,6 @@
+- Key: A major
+- Time signature: 4/4
+- Bar 1: F# major
+- Bar 2: D major
+- Bar 3: C# half-diminished
+- Bar 4: F# major

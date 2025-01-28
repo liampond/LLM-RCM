@@ -1,0 +1,10 @@
+- Key: F major
+- Time Signature: 3/4
+- Chord: Subdominant triad (Bb major in first inversion)
+- Interval: Perfect fifth
+- Functional Chord: ii6 (G major in first inversion)
+- Chord: C major
+- Interval: Major third
+- Rest: Eighth rest
+- Period Type: Parallel period
+- Tempo Marking:  *Allegretto vivace* combines "allegretto" (moderately fast) with "vivace" (lively).  It indicates a tempo faster than allegretto but not quite as fast as allegro, with a spirited and energetic character.

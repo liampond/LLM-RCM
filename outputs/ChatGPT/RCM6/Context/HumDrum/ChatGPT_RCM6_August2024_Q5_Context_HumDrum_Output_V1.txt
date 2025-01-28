@@ -1,0 +1,116 @@
+Here are the answers to the questions, following the provided guide:
+
+---
+
+### 1. **The mediant triad of E-flat major in root position**
+- **Step 1: Identify the root note**
+  - Key: E-flat major.
+  - Scale: E♭, F, G, A♭, B♭, C, D, E♭.
+  - The mediant is the 3rd scale degree: G.
+
+- **Step 2: Write the notes of the chord**
+  - Root = G.
+  - Third = 3rd note from G in the scale: G, A♭, B♭ → Third = B♭.
+  - Fifth = 5th note from G in the scale: G, A♭, B♭, C, D → Fifth = D.
+  - Chord: G, B♭, D.
+
+- **Step 3: Determine the inversion**
+  - Root position: Root, third, fifth.
+  - Order: G, B♭, D.
+
+- **Final Answer**: **G, B♭, D**.
+
+- **Key signature**: B♭, E♭, A♭.
+
+---
+
+### 2. **The submediant triad of A-sharp minor, harmonic form, in second inversion**
+- **Step 1: Identify the root note**
+  - Key: A-sharp minor (harmonic).
+  - Scale: A♯, B♯, C♯, D♯, E♯, F♯, G𝄪, A♯.
+  - The submediant is the 6th scale degree: F♯.
+
+- **Step 2: Write the notes of the chord**
+  - Root = F♯.
+  - Third = 3rd note from F♯ in the scale: F♯, G𝄪, A♯ → Third = A♯.
+  - Fifth = 5th note from F♯ in the scale: F♯, G𝄪, A♯, B♯, C♯ → Fifth = C♯.
+  - Chord: F♯, A♯, C♯.
+
+- **Step 3: Determine the inversion**
+  - Second inversion: Fifth becomes the lowest note.
+  - Order: C♯ (5th), F♯ (root), A♯ (3rd).
+
+- **Final Answer**: **C♯, F♯, A♯**.
+
+- **Key signature**: F♯, C♯, G♯, D♯, A♯, E♯.
+
+---
+
+### 3. **The dominant triad of C-sharp minor, harmonic form, in first inversion**
+- **Step 1: Identify the root note**
+  - Key: C-sharp minor (harmonic).
+  - Scale: C♯, D♯, E, F♯, G♯, A, B♯, C♯.
+  - The dominant is the 5th scale degree: G♯.
+
+- **Step 2: Write the notes of the chord**
+  - Root = G♯.
+  - Third = 3rd note from G♯ in the scale: G♯, A, B♯ → Third = B♯.
+  - Fifth = 5th note from G♯ in the scale: G♯, A, B♯, C♯, D♯ → Fifth = D♯.
+  - Chord: G♯, B♯, D♯.
+
+- **Step 3: Determine the inversion**
+  - First inversion: Third becomes the lowest note.
+  - Order: B♯ (3rd), D♯ (5th), G♯ (root).
+
+- **Final Answer**: **B♯, D♯, G♯**.
+
+- **Key signature**: F♯, C♯, G♯, D♯.
+
+---
+
+### 4. **The subdominant triad of G major in second inversion**
+- **Step 1: Identify the root note**
+  - Key: G major.
+  - Scale: G, A, B, C, D, E, F♯, G.
+  - The subdominant is the 4th scale degree: C.
+
+- **Step 2: Write the notes of the chord**
+  - Root = C.
+  - Third = 3rd note from C in the scale: C, D, E → Third = E.
+  - Fifth = 5th note from C in the scale: C, D, E, F♯, G → Fifth = G.
+  - Chord: C, E, G.
+
+- **Step 3: Determine the inversion**
+  - Second inversion: Fifth becomes the lowest note.
+  - Order: G (5th), C (root), E (3rd).
+
+- **Final Answer**: **G, C, E**.
+
+- **Key signature**: F♯.
+
+---
+
+### 5. **The dominant 7th chord of B-flat minor, harmonic form, in root position**
+- **Step 1: Identify the root note**
+  - Key: B-flat minor (harmonic).
+  - Scale: B♭, C, D♭, E♭, F, G♭, A, B♭.
+  - The dominant is the 5th scale degree: F.
+
+- **Step 2: Write the notes of the chord**
+  - Root = F.
+  - Third = 3rd note from F in the scale: F, G♭, A → Third = A.
+  - Fifth = 5th note from F in the scale: F, G♭, A, B♭, C → Fifth = C.
+  - Seventh = 7th note from F in the scale: F, G♭, A, B♭, C, D♭, E♭ → Seventh = E♭.
+  - Chord: F, A, C, E♭.
+
+- **Step 3: Determine the inversion**
+  - Root position: Root, third, fifth, seventh.
+  - Order: F, A, C, E♭.
+
+- **Final Answer**: **F, A, C, E♭**.
+
+- **Key signature**: B♭, E♭, A♭, D♭, G♭.
+
+--- 
+
+Let me know if you need further clarification!

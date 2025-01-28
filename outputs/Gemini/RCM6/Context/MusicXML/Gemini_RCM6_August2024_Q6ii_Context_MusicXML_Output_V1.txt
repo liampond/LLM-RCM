@@ -1,0 +1,6 @@
+- **Key:** D major
+- **Second to last chord (root/quality):** A major
+- **Last chord (root/quality):** D major
+- **Second to last chord (functional):** V
+- **Last chord (functional):** I
+- **Cadence:** Authentic

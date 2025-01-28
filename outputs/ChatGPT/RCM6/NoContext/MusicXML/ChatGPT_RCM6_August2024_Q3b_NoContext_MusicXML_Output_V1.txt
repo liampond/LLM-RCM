@@ -1,0 +1,13 @@
+The relative minor of B major is **G# minor**. The melodic minor scale has different ascending and descending forms.
+
+### Ascending G# melodic minor:
+G# - A# - B - C# - D# - E# - F## - G#
+
+### Descending G# melodic minor:
+Typically, the descending form of the melodic minor scale is the same as the natural minor scale:
+G# - F# - E - D# - C# - B - A# - G#
+
+### Key Signature:
+The key signature for G# minor includes **five sharps** (F#, C#, G#, D#, A#). Additional accidentals are used as needed:
+- Ascending: E# and F## are added.
+- Descending: No additional accidentals are needed.

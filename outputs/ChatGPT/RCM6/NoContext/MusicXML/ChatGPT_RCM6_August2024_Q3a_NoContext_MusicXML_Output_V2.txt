@@ -1,0 +1,9 @@
+In the bass clef, the ascending and descending **D-flat major scale** includes the following notes, using the key signature of 5 flats (B♭, E♭, A♭, D♭, G♭):
+
+### Ascending:
+D♭, E♭, F, G♭, A♭, B♭, C, D♭
+
+### Descending:
+D♭, C, B♭, A♭, G♭, F, E♭, D♭
+
+The key signature should be applied, and no additional accidentals are necessary.

@@ -1,0 +1,107 @@
+### Step 1: Determine the Interval of Transposition
+The original key is **E major** (4 sharps: F♯, C♯, G♯, D♯). The target key is **A♭ major** (4 flats: B♭, E♭, A♭, D♭).
+
+To find the interval:
+- Count the letter names from E to A: E (1), F (2), G (3), A (4). This is a **fourth**.
+- Determine the quality: From E to A in the E major scale is a **Perfect fourth**. Therefore, the interval of transposition is a **Perfect fourth up**.
+
+### Step 2: Transpose the Key Signature
+The original key signature of E major (4 sharps) is transposed up a Perfect fourth to A♭ major (4 flats).
+
+### Step 3: Transpose Each Note
+We will transpose each note in the melody up a Perfect fourth. For each note, we will:
+1. Count the interval (Perfect fourth).
+2. Adjust for accidentals.
+3. Maintain the original rhythm.
+
+#### Measure 1:
+1. **E4 (half note)** → Transpose up a Perfect fourth:
+   - Count: E (1), F (2), G (3), A (4).
+   - Result: **A♭4** (half note).
+
+2. **G♯4 (quarter note)** → Transpose up a Perfect fourth:
+   - Count: G (1), A (2), B (3), C (4).
+   - G♯ becomes **C4**.
+   - Add the sharp: **C♯4** (quarter note).
+
+3. **B4 (quarter note)** → Transpose up a Perfect fourth:
+   - Count: B (1), C (2), D (3), E (4).
+   - Result: **E♭4** (quarter note).
+
+#### Measure 2:
+1. **D♯4 (dotted quarter note)** → Transpose up a Perfect fourth:
+   - Count: D (1), E (2), F (3), G (4).
+   - D♯ becomes **G4**.
+   - Add the sharp: **G♯4** (dotted quarter note).
+
+2. **E4 (16th note)** → Transpose up a Perfect fourth:
+   - Count: E (1), F (2), G (3), A (4).
+   - Result: **A♭4** (16th note).
+
+3. **F♯4 (16th note)** → Transpose up a Perfect fourth:
+   - Count: F (1), G (2), A (3), B (4).
+   - F♯ becomes **B♭4** (16th note).
+
+4. **E4 (quarter note)** → Transpose up a Perfect fourth:
+   - Count: E (1), F (2), G (3), A (4).
+   - Result: **A♭4** (quarter note).
+
+5. **Rest (quarter note)** → Remains unchanged.
+
+#### Measure 3:
+1. **C♯5 (half note)** → Transpose up a Perfect fourth:
+   - Count: C (1), D (2), E (3), F (4).
+   - C♯ becomes **F4**.
+   - Add the sharp: **F♯5** (half note).
+
+2. **B4 (quarter note)** → Transpose up a Perfect fourth:
+   - Count: B (1), C (2), D (3), E (4).
+   - Result: **E♭4** (quarter note).
+
+3. **E5 (quarter note)** → Transpose up a Perfect fourth:
+   - Count: E (1), F (2), G (3), A (4).
+   - Result: **A♭5** (quarter note).
+
+#### Measure 4:
+1. **B4 (quarter note)** → Transpose up a Perfect fourth:
+   - Count: B (1), C (2), D (3), E (4).
+   - Result: **E♭4** (quarter note).
+
+2. **A4 (eighth note)** → Transpose up a Perfect fourth:
+   - Count: A (1), B (2), C (3), D (4).
+   - Result: **D♭4** (eighth note).
+
+3. **G♯4 (16th note)** → Transpose up a Perfect fourth:
+   - Count: G (1), A (2), B (3), C (4).
+   - G♯ becomes **C4**.
+   - Add the sharp: **C♯4** (16th note).
+
+4. **A4 (16th note)** → Transpose up a Perfect fourth:
+   - Count: A (1), B (2), C (3), D (4).
+   - Result: **D♭4** (16th note).
+
+5. **G♯4 (quarter note)** → Transpose up a Perfect fourth:
+   - Count: G (1), A (2), B (3), C (4).
+   - G♯ becomes **C4**.
+   - Add the sharp: **C♯4** (quarter note).
+
+6. **Rest (quarter note)** → Remains unchanged.
+
+### Step 4: Final Transposed Melody
+The transposed melody in A♭ major is as follows:
+
+#### Measure 1:
+- **A♭4 (half note)**, **C♯4 (quarter note)**, **E♭4 (quarter note)**.
+
+#### Measure 2:
+- **G♯4 (dotted quarter note)**, **A♭4 (16th note)**, **B♭4 (16th note)**, **A♭4 (quarter note)**, **Rest (quarter note)**.
+
+#### Measure 3:
+- **F♯5 (half note)**, **E♭4 (quarter note)**, **A♭5 (quarter note)**.
+
+#### Measure 4:
+- **E♭4 (quarter note)**, **D♭4 (eighth note)**, **C♯4 (16th note)**, **D♭4 (16th note)**, **C♯4 (quarter note)**, **Rest (quarter note)**.
+
+### Step 5: Summary
+- **Interval of transposition**: Perfect fourth up.
+- **Key signature**: A♭ major (4 flats: B♭, E♭, A♭, D♭).

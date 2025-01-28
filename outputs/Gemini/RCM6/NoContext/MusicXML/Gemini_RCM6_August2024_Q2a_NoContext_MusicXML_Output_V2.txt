@@ -1,0 +1,15 @@
+* **Measure 1:** The time signature is 4/2.  The existing notes account for 1.5 half notes (dotted quarter = 3/8 of a half note, plus one half note, totaling 9/8 of a half note). This leaves 7/8 of a half note remaining.  This should be filled with a half rest and an eighth rest.
+
+* **Measure 2:** The time signature is still 4/2. The given notes total 3/8 of a half note.  This leaves 13/8 of a half note remaining. This should be filled with a whole rest and a dotted eighth rest.
+
+* **Measure 3:** The time signature is 6/4. The existing notes account for 1.75 quarter notes. This leaves 4.25 quarter notes remaining. This should be filled with a whole rest and a sixteenth rest.
+
+* **Measure 4:** The time signature is 6/4. The existing notes account for 2 quarter notes and two eighth notes. This leaves 1.5 quarter notes remaining. This should be filled with a quarter rest and an eighth rest.
+
+* **Measure 5:** The time signature is 9/8. The existing notes account for 3 eighth notes. This leaves 6 eighth notes remaining. This should be filled with a dotted half rest.
+
+* **Measure 6:** The time signature is 9/8. The existing notes account for 4 eighth notes and two sixteenth notes (or 5 eighth notes total). This leaves 4 eighth notes remaining. This should be filled with a half rest.
+
+* **Measure 7:** The time signature is 3/4. The existing notes account for 1 quarter note. This leaves 2 quarter notes remaining. This should be filled with a half rest.
+
+* **Measure 8:** The time signature is 3/4. The existing notes account for 3/16 of a quarter note and 1 quarter note. This leaves 13/16 of a quarter note remaining. This should be filled with an eighth rest and a dotted eighth rest.

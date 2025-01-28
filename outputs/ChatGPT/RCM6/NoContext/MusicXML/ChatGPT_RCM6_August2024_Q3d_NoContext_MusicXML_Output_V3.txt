@@ -1,0 +1,6 @@
+The A major scale consists of the notes A, B, C#, D, E, F#, and G#. Using the key signature of A major (three sharps: F#, C#, and G#), the notes in the **ascending** and **descending** A major scale in the treble clef are as follows:
+
+**Ascending:** A, B, C#, D, E, F#, G#, A  
+**Descending:** A, G#, F#, E, D, C#, B, A  
+
+No additional accidentals are needed, as the key signature accounts for the sharps.

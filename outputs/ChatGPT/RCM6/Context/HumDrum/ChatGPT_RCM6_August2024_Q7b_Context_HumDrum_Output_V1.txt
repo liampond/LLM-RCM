@@ -1,0 +1,91 @@
+### Step 1: Determine the Key of the Piece
+#### 1. Check the Key Signature
+The key signature is `*k[f#c#g#]`, which indicates three sharps. According to the key signature table:
+- Three sharps correspond to **A Major** or **F♯ Minor**.
+
+#### 2. Determine if the Key is Major or Minor
+To decide between A Major and F♯ Minor, we look for accidentals or melodic/harmonic clues:
+- The melody contains a **G♯** (raised seventh degree of F♯ Minor) in bar 3, which strongly suggests **F♯ Minor**.
+- Additionally, the melodic content emphasizes F♯ as a tonic note (e.g., the repeated F♯s in bars 1 and 4).
+
+**Key: F♯ Minor**
+
+---
+
+### Step 2: Determine the Time Signature
+#### 1. Analyze the Rhythmic Groupings
+Each bar contains the following rhythmic values:
+- **Bar 1:** 4th note + 8th note + 8th note + 8th note + 8th note = 4 beats.
+- **Bar 2:** 4th note + 8th note + 8th note + 8th note + 8th note = 4 beats.
+- **Bar 3:** 8th note + 8th note + 8th note + 8th note + 8th note + 8th note = 4 beats.
+- **Bar 4:** 2nd dotted note = 3 beats (but this is an exception due to phrasing).
+
+#### 2. Determine the Beat Value
+- The smallest rhythmic unit is the **8th note** (0.5 beats).
+- Each bar (except the last) adds up to **4 beats**, with each beat represented by a **quarter note**.
+
+#### 3. Write the Time Signature
+The time signature is **4/4** (common time).
+
+**Time Signature: 4/4**
+
+---
+
+### Step 3: Determine the Root/Quality Chord Symbols for Each Bar
+#### Bar 1: Notes = F♯, C♯, A, B, C♯
+1. **Identify Notes and Metric Placement:**
+   - Strong beats: F♯ (beat 1), A (beat 3).
+   - Weak beats: C♯ (beat 2), B (beat 4), C♯ (beat 4.5).
+
+2. **Differentiate Chord Tones and Non-Chord Tones:**
+   - F♯, A, and C♯ form an **F♯ Minor triad** (root: F♯, minor third: A, perfect fifth: C♯).
+   - B is a passing tone.
+
+**Chord: F♯ Minor (F♯m)**
+
+---
+
+#### Bar 2: Notes = D, B, F♯, E, D
+1. **Identify Notes and Metric Placement:**
+   - Strong beats: D (beat 1), F♯ (beat 3).
+   - Weak beats: B (beat 2), E (beat 4), D (beat 4.5).
+
+2. **Differentiate Chord Tones and Non-Chord Tones:**
+   - D, F♯, and B form a **B Minor triad** (root: B, minor third: D, perfect fifth: F♯).
+   - E is a passing tone.
+
+**Chord: B Minor (Bm)**
+
+---
+
+#### Bar 3: Notes = C♯, D♯, E♯, G♯, F♯, E♯
+1. **Identify Notes and Metric Placement:**
+   - Strong beats: C♯ (beat 1), E♯ (beat 3).
+   - Weak beats: D♯ (beat 2), G♯ (beat 4), F♯ (beat 4.5), E♯ (beat 4.75).
+
+2. **Differentiate Chord Tones and Non-Chord Tones:**
+   - C♯, E♯, and G♯ form a **C♯ Major triad** (root: C♯, major third: E♯, perfect fifth: G♯).
+   - D♯ and F♯ are passing tones.
+
+**Chord: C♯ Major (C♯)**
+
+---
+
+#### Bar 4: Notes = F♯
+1. **Identify Notes and Metric Placement:**
+   - The only note is F♯, sustained as a dotted half note.
+
+2. **Differentiate Chord Tones and Non-Chord Tones:**
+   - The sustained F♯ strongly implies an **F♯ Minor chord** (root: F♯).
+
+**Chord: F♯ Minor (F♯m)**
+
+---
+
+### Final Answers
+- **Key:** F♯ Minor
+- **Time Signature:** 4/4
+- **Bar 1 Chord:** F♯ Minor (F♯m)
+- **Bar 2 Chord:** B Minor (Bm)
+- **Bar 3 Chord:** C♯ Major (C♯)
+- **Bar 4 Chord:** F♯ Minor (F♯m)

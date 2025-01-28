@@ -1,0 +1,7 @@
+Measure 1: 4/4
+Measure 2: 4/4
+
+
+The first measure contains a dotted quarter note (12/8), an eighth note (4/8), two sixteenth notes (4/8), an eighth note (4/8), and two eighth notes (8/8).  This totals 32/8, equivalent to 4/4.
+
+The second measure contains two sixteenth notes (4/8), two 32nd notes (2/8), a dotted sixteenth note and a 32nd note (4/8), a sixteenth note (2/8), an eighth note (4/8), and a sixteenth note (2/8). This also totals 32/8, equivalent to 4/4.

@@ -1,0 +1,93 @@
+Let’s analyze the intervals between the notes in each measure of the provided ABC file. The file specifies pairs of notes in brackets (e.g., `[Ag]`), and we will determine the interval between the two notes in each measure.
+
+### Measure 1: `[Ag]`
+- **Step 1: Identify the Notes**  
+  The notes are A (lower note) and G (higher note).
+
+- **Step 2: Determine the Interval Number**  
+  Count the letter names: A (1), B (2), C (3), D (4), E (5), F (6), G (7).  
+  The interval is a seventh.
+
+- **Step 3: Determine the Quality of the Interval**  
+  The A major scale is: A, B, C♯, D, E, F♯, G♯.  
+  In this scale, G♯ is the 7th note. G (natural) is one semitone lower than G♯.  
+  Lowering a Major seventh by one semitone makes it a **Minor seventh**.
+
+- **Final Answer for Measure 1**: Minor seventh.
+
+---
+
+### Measure 2: `[F_B]`
+- **Step 1: Identify the Notes**  
+  The notes are F (lower note) and B (higher note).
+
+- **Step 2: Determine the Interval Number**  
+  Count the letter names: F (1), G (2), A (3), B (4).  
+  The interval is a fourth.
+
+- **Step 3: Determine the Quality of the Interval**  
+  The F major scale is: F, G, A, B♭, C, D, E.  
+  In this scale, B♭ is the 4th note. B (natural) is one semitone higher than B♭.  
+  Raising a Perfect fourth by one semitone makes it an **Augmented fourth**.
+
+- **Final Answer for Measure 2**: Augmented fourth.
+
+---
+
+### Measure 3: `[Ec]`
+- **Step 1: Identify the Notes**  
+  The notes are E (lower note) and C (higher note).
+
+- **Step 2: Determine the Interval Number**  
+  Count the letter names: E (1), F (2), G (3), A (4), B (5), C (6).  
+  The interval is a sixth.
+
+- **Step 3: Determine the Quality of the Interval**  
+  The E major scale is: E, F♯, G♯, A, B, C♯, D♯.  
+  In this scale, C♯ is the 6th note. C (natural) is one semitone lower than C♯.  
+  Lowering a Major sixth by one semitone makes it a **Minor sixth**.
+
+- **Final Answer for Measure 3**: Minor sixth.
+
+---
+
+### Measure 4: `[_cd]`
+- **Step 1: Identify the Notes**  
+  The notes are C♭ (lower note) and D (higher note).
+
+- **Step 2: Determine the Interval Number**  
+  Count the letter names: C (1), D (2).  
+  The interval is a second.
+
+- **Step 3: Determine the Quality of the Interval**  
+  The C♭ major scale is: C♭, D♭, E♭, F♭, G♭, A♭, B♭.  
+  In this scale, D♭ is the 2nd note. D (natural) is two semitones higher than D♭.  
+  Raising a Minor second by one semitone makes it a **Major second**.
+
+- **Final Answer for Measure 4**: Major second.
+
+---
+
+### Measure 5: `[Bf]`
+- **Step 1: Identify the Notes**  
+  The notes are B (lower note) and F (higher note).
+
+- **Step 2: Determine the Interval Number**  
+  Count the letter names: B (1), C (2), D (3), E (4), F (5).  
+  The interval is a fifth.
+
+- **Step 3: Determine the Quality of the Interval**  
+  The B major scale is: B, C♯, D♯, E, F♯, G♯, A♯.  
+  In this scale, F♯ is the 5th note. F (natural) is one semitone lower than F♯.  
+  Lowering a Perfect fifth by one semitone makes it a **Diminished fifth**.
+
+- **Final Answer for Measure 5**: Diminished fifth.
+
+---
+
+### Summary of Intervals:
+1. Measure 1 (`[Ag]`): Minor seventh.  
+2. Measure 2 (`[F_B]`): Augmented fourth.  
+3. Measure 3 (`[Ec]`): Minor sixth.  
+4. Measure 4 (`[_cd]`): Major second.  
+5. Measure 5 (`[Bf]`): Diminished fifth.

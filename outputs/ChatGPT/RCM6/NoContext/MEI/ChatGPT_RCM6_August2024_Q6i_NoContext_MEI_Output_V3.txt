@@ -1,0 +1,11 @@
+1. **Key of the melody**: The key signature indicates 3 flats (B♭, E♭, A♭), and the melody centers around C minor. Therefore, the key is **C minor**.
+
+2. **Root/quality chord symbol of the second last chord**: The second last chord (measure 4, staff 1) is a **G minor chord** (G-B♭-D). The chord symbol is **Gm**.
+
+3. **Root/quality chord symbol of the last chord**: The last chord (measure 4, staff 1) is a **G major chord** (G-B♮-D). The chord symbol is **G**.
+
+4. **Functional chord symbol for the second last chord**: In the key of C minor, the G minor chord is the minor dominant. Its functional symbol is **v**.
+
+5. **Functional chord symbol for the last chord**: In the key of C minor, the G major chord is the major dominant. Its functional symbol is **V**.
+
+6. **Type of cadence**: The progression from the second last chord (v) to the last chord (V) does not resolve to the tonic (C minor). This is a **half cadence**.

@@ -1,0 +1,114 @@
+To replace the placeholder rhythms (quarter notes with x-shaped noteheads) with appropriate rests, we must ensure that each measure adheres to the specified time signature. Here's the analysis and solution for each measure:
+
+---
+
+### Measure 1: **Time Signature: 4/2**
+- Notes: `4.f`, `4f`, `16f`
+- Total duration so far:  
+  - Dotted half note (`4.f`) = 3 beats  
+  - Quarter note (`4f`) = 1 beat  
+  - Sixteenth note (`16f`) = 0.25 beats  
+  - Total = 4.25 beats
+- The measure exceeds the time signature (4 beats). **This measure is overfilled and needs correction.**
+
+---
+
+### Measure 2: **Time Signature: 4/2**
+- Notes: `12fL`, `12f`, `12fJ`, `4f`
+- Total duration so far:  
+  - Twelfth note (`12fL`) = 1/3 beat  
+  - Twelfth note (`12f`) = 1/3 beat  
+  - Twelfth note (`12fJ`) = 1/3 beat  
+  - Quarter note (`4f`) = 1 beat  
+  - Total = 2 beats
+- Missing duration: 4 - 2 = **2 beats**
+- Solution: Add a **half rest** to complete the measure.
+
+---
+
+### Measure 3: **Time Signature: 6/4**
+- Notes: `16fKL`, `8.fJ`, `4f`, `4.f`
+- Total duration so far:  
+  - Sixteenth note (`16fKL`) = 0.25 beats  
+  - Dotted eighth note (`8.fJ`) = 0.75 beats  
+  - Quarter note (`4f`) = 1 beat  
+  - Dotted half note (`4.f`) = 3 beats  
+  - Total = 5 beats
+- Missing duration: 6 - 5 = **1 beat**
+- Solution: Add a **quarter rest** to complete the measure.
+
+---
+
+### Measure 4: **Time Signature: 6/4**
+- Notes: `4f`, `8f`, `8fL`, `8fJ`, `4f`
+- Total duration so far:  
+  - Quarter note (`4f`) = 1 beat  
+  - Eighth note (`8f`) = 0.5 beats  
+  - Eighth note (`8fL`) = 0.5 beats  
+  - Eighth note (`8fJ`) = 0.5 beats  
+  - Quarter note (`4f`) = 1 beat  
+  - Total = 3.5 beats
+- Missing duration: 6 - 3.5 = **2.5 beats**
+- Solution: Add a **dotted half rest** to complete the measure.
+
+---
+
+### Measure 5: **Time Signature: 9/8**
+- Notes: `16fKL`, `8f`, `16fJk`, `4f`
+- Total duration so far:  
+  - Sixteenth note (`16fKL`) = 0.5 beats  
+  - Eighth note (`8f`) = 1 beat  
+  - Sixteenth note (`16fJk`) = 0.5 beats  
+  - Quarter note (`4f`) = 2 beats  
+  - Total = 4 beats
+- Missing duration: 9 - 4 = **5 beats**
+- Solution: Add a **dotted quarter rest** (3 beats) and a **quarter rest** (2 beats) to complete the measure.
+
+---
+
+### Measure 6: **Time Signature: 9/8**
+- Notes: `16f`, `4f`, `8f`, `16fLL`, `16f`, `16f`, `16fJ`, `8fJ`
+- Total duration so far:  
+  - Sixteenth note (`16f`) = 0.5 beats  
+  - Quarter note (`4f`) = 2 beats  
+  - Eighth note (`8f`) = 1 beat  
+  - Sixteenth note (`16fLL`) = 0.5 beats  
+  - Sixteenth note (`16f`) = 0.5 beats  
+  - Sixteenth note (`16f`) = 0.5 beats  
+  - Sixteenth note (`16fJ`) = 0.5 beats  
+  - Eighth note (`8fJ`) = 1 beat  
+  - Total = 7 beats
+- Missing duration: 9 - 7 = **2 beats**
+- Solution: Add a **quarter rest** to complete the measure.
+
+---
+
+### Measure 7: **Time Signature: 3/4**
+- Notes: `4f`
+- Total duration so far:  
+  - Quarter note (`4f`) = 1 beat  
+  - Total = 1 beat
+- Missing duration: 3 - 1 = **2 beats**
+- Solution: Add a **half rest** to complete the measure.
+
+---
+
+### Measure 8: **Time Signature: 3/4**
+- Notes: `16.f`, `4f`
+- Total duration so far:  
+  - Dotted sixteenth note (`16.f`) = 0.375 beats  
+  - Quarter note (`4f`) = 1 beat  
+  - Total = 1.375 beats
+- Missing duration: 3 - 1.375 = **1.625 beats**
+- Solution: Add a **dotted quarter rest** (1.5 beats) and a **sixteenth rest** (0.125 beats) to complete the measure.
+
+---
+
+### Summary of Rests Added:
+1. Measure 2: Half rest  
+2. Measure 3: Quarter rest  
+3. Measure 4: Dotted half rest  
+4. Measure 5: Dotted quarter rest + quarter rest  
+5. Measure 6: Quarter rest  
+6. Measure 7: Half rest  
+7. Measure 8: Dotted quarter rest + sixteenth rest

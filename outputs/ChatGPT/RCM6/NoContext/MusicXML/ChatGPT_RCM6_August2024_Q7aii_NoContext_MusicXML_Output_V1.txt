@@ -1,0 +1,20 @@
+### Key of the Melody:
+The key signature indicates **5 flats**, which corresponds to either **D-flat major** or **B-flat minor**. Since the melody prominently features **A-flat** (A♭4 and A♭5) and **D-flat** (D♭5), it is consistent with the **B-flat minor** scale. Therefore, the melody is in **B-flat minor**.
+
+---
+
+### Time Signature of the Melody:
+The time signature is hidden, so we must infer it from the rhythmic structure:
+
+1. **Measure 1**: Contains 4 eighth notes (D♭5, D♭5, F5, F5).
+2. **Measure 2**: Contains 1 quarter note (D♭5) and 2 eighth notes (A♭4, A♭4), totaling 4 eighth-note beats.
+3. **Measure 3**: Contains a dotted eighth note (A♭4), a sixteenth note (A♭4), and 4 sixteenth notes (E♭5, D♭5, C5, B♭4), totaling 4 eighth-note beats.
+4. **Measure 4**: Contains 1 quarter note (A♭4), equivalent to 2 eighth-note beats.
+
+Each measure consistently adds up to **4 eighth-note beats**, which corresponds to a **2/4 time signature**.
+
+---
+
+### Final Answer:
+- **Key**: B-flat minor  
+- **Time Signature**: 2/4

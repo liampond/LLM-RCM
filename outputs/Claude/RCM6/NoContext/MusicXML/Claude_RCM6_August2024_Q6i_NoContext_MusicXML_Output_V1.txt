@@ -1,0 +1,21 @@
+[TextBlock(text='Let me analyze this for you:
+
+1. Key of the melody: E-flat major (3 flats: B♭, E♭, A♭)
+
+2. Second last chord (measure 3, last beat):
+- Root/quality: C minor (Cm)
+- Notes present: C, E♭, G
+
+3. Last chord (measure 4):
+- Root/quality: G major (G)
+- Notes present: G, B♮, D
+
+4. Functional chord symbol for second last chord:
+- vi (six minor) in E♭ major
+
+5. Functional chord symbol for last chord:
+- III (three major) in E♭ major
+[Note: The B♮ makes this a major chord, creating a chromatic mediant relationship]
+
+6. Type of cadence:
+- Half cadence (ending on III, which functions like a dominant in this context)', type='text')]

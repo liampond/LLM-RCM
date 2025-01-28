@@ -1,0 +1,15 @@
+[TextBlock(text='Let me analyze the melody:
+
+-Key: E♭ major (3 flats: B♭, E♭, A♭)
+
+-Second last chord (measure 3): C-E♭-G = C minor (Cm)
+
+-Last chord (measure 4): G-Bn-D = G major (G)
+
+-Functional chord symbol for second last chord: vi (submediant in E♭ major)
+
+-Functional chord symbol for last chord: III (mediant in E♭ major, with raised third creating a major chord)
+
+-Type of cadence: Half cadence (ends on III, which functions like a dominant in this context, creating tension rather than resolution)
+
+The presence of the raised third (B natural) in the final G major chord suggests a secondary dominant function, making this a clear half cadence in the key of E♭ major.', type='text')]

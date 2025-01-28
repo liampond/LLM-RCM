@@ -1,0 +1,86 @@
+### Step 1: Determine the Key of the Piece
+#### 1. Check the Key Signature
+The key signature in the MusicXML file indicates **3 sharps**. According to the key signature table:
+- 3 sharps correspond to either **A Major** or **F♯ Minor**.
+
+#### 2. Determine if the Key is Major or Minor
+To decide between A Major and F♯ Minor, we look for accidentals or melodic/harmonic clues:
+- In bar 3, there is a **D♯** (altered seventh degree of F♯ Minor), which strongly suggests the use of the harmonic minor scale.
+- The melody also emphasizes F♯ as a tonic note (e.g., F♯ appears prominently in bar 3 and bar 4).
+
+Thus, the key is **F♯ Minor**.
+
+---
+
+### Step 2: Determine the Time Signature
+#### 1. Analyze the Rhythmic Groupings
+- **Bar 1**:
+  - Quarter note (1 beat) + 3 eighth notes (1.5 beats) = 2.5 beats.
+  - Total rhythmic value = 3 beats.
+- **Bar 2**:
+  - Quarter note (1 beat) + 3 eighth notes (1.5 beats) = 2.5 beats.
+  - Total rhythmic value = 3 beats.
+- **Bar 3**:
+  - 6 eighth notes (3 beats).
+  - Total rhythmic value = 3 beats.
+- **Bar 4**:
+  - Dotted half note (3 beats).
+  - Total rhythmic value = 3 beats.
+
+#### 2. Determine the Beat Grouping
+- Each measure consistently adds up to **3 beats**.
+- The smallest rhythmic unit is the **eighth note**, so the bottom number of the time signature is **8**.
+
+#### 3. Write the Time Signature
+The time signature is **3/8** (compound meter with 3 beats per measure, each beat being an eighth note).
+
+---
+
+### Step 3: Determine the Root/Quality Chord Symbols for Each Bar
+#### Bar 1:
+- Notes: F♯, C♯, A, B.
+- Strong beats: F♯ (beat 1), A (beat 3).
+- Chord tones: F♯, A, C♯ (F♯ Minor triad).
+- Non-chord tone: B (passing tone between A and C♯).
+
+**Chord Symbol: F♯m (F♯ Minor)**.
+
+---
+
+#### Bar 2:
+- Notes: D, B, F♯, E.
+- Strong beats: D (beat 1), F♯ (beat 3).
+- Chord tones: D, F♯, B (B Minor triad in first inversion: B-D-F♯).
+- Non-chord tone: E (passing tone between F♯ and D).
+
+**Chord Symbol: Bm (B Minor)**.
+
+---
+
+#### Bar 3:
+- Notes: C♯, D♯, E♯, G♯, F♯.
+- Strong beats: C♯ (beat 1), G♯ (beat 4).
+- Chord tones: C♯, E♯, G♯ (C♯ Major triad).
+- Non-chord tones: D♯ (passing tone between C♯ and E♯), F♯ (passing tone between G♯ and E♯).
+
+**Chord Symbol: C♯ (C♯ Major)**.
+
+---
+
+#### Bar 4:
+- Notes: F♯ (sustained).
+- Strong beat: F♯ (beat 1).
+- Chord tones: F♯ (root of F♯ Minor triad).
+
+**Chord Symbol: F♯m (F♯ Minor)**.
+
+---
+
+### Final Answer:
+- **Key**: F♯ Minor.
+- **Time Signature**: 3/8.
+- **Chord Symbols**:
+  - Bar 1: **F♯m**.
+  - Bar 2: **Bm**.
+  - Bar 3: **C♯**.
+  - Bar 4: **F♯m**.

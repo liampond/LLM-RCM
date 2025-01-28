@@ -1,0 +1,48 @@
+### Answers:
+
+1. **Key of the Piece**  
+   The key signature indicates **B♭ minor** (5 flats: B♭, E♭, A♭, D♭, G♭). There are no accidentals suggesting a raised 7th (A♮), so the piece is in **B♭ minor** rather than its relative major (D♭ major).
+
+2. **Time Signature**  
+   The rhythmic groupings suggest **6/8** time. The eighth notes are grouped in sets of three, indicating compound duple meter.
+
+3. **Chord Outlined by the First Three Eighth Notes of Bar 2 (Both Hands)**  
+   - Left hand: F, A♭, C.  
+   - Right hand: F, A♭, C.  
+   These notes form an **F minor triad**, which is the **subdominant triad** (iv) in B♭ minor.
+
+4. **Interval Between the Last Eighth Note in the Left Hand of Bar 2 and the First Note in the Left Hand of Bar 3**  
+   - Last note of bar 2: **F**.  
+   - First note of bar 3: **E♭**.  
+   From F to E♭ is a **minor seventh**.
+
+5. **Functional Chord Symbol for the First Three Eighth Notes of Bar 5 (Both Hands)**  
+   - Left hand: G, B♭, D♭.  
+   - Right hand: G, B♭, D♭.  
+   These notes form a **G diminished triad**. In B♭ minor, this is the **supertonic diminished triad (ii°)**.
+
+6. **Chord Outlined by the Last Three Eighth Notes of Bar 7 (Both Hands)**  
+   - Left hand: B♭, D♭, F.  
+   - Right hand: B♭, D♭, F.  
+   These notes form a **B♭ minor triad**, which is the **tonic triad (i)** in B♭ minor.
+
+7. **Interval Between the Second Eighth Note in the Left Hand of Bar 8 and the Third Eighth Note in the Left Hand of Bar 8**  
+   - Second note: **A♭**.  
+   - Third note: **B♭**.  
+   From A♭ to B♭ is a **major second**.
+
+8. **Rest to Complete Bar 8 in the Right Hand**  
+   After the F in the right hand, there is a missing eighth note to complete the bar. The rest should be an **eighth rest**.
+
+9. **Parallel or Contrasting Period**  
+   The two phrases begin with similar melodic material, making this a **parallel period**. The antecedent ends with a weaker cadence, and the consequent ends with a stronger cadence.
+
+10. **Meaning of Allegretto Vivace**  
+    - **Allegretto**: A moderately fast tempo, slightly slower than Allegro.  
+    - **Vivace**: Lively and spirited.  
+    Together, "Allegretto vivace" suggests a moderately fast tempo with a lively and energetic character.
+
+---
+
+### Summary:
+The piece is in **B♭ minor** and written in **6/8 time**. The harmonic analysis reveals the use of subdominant, supertonic diminished, and tonic triads, with intervals such as a **minor seventh** and a **major second**. The passage is a **parallel period**, and the tempo marking "Allegretto vivace" indicates a moderately fast and lively character.

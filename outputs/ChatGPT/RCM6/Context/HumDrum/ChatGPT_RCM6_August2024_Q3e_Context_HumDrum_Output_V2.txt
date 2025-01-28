@@ -1,0 +1,9 @@
+The **E-flat minor harmonic scale** in the **bass clef** uses a key signature of six flats (B♭, E♭, A♭, D♭, G♭, and C♭). The harmonic form raises the 7th degree (D♭) by a semitone to D♮. Below are the notes in ascending and descending order:
+
+### Ascending:
+E♭, F, G♭, A♭, B♭, C♭, D♮, E♭
+
+### Descending:
+E♭, D♮, C♭, B♭, A♭, G♭, F, E♭
+
+The key signature includes the six flats, and the D♮ is marked as an accidental.

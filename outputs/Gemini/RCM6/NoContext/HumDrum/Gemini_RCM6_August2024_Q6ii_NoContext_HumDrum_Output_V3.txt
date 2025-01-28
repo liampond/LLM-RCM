@@ -1,0 +1,6 @@
+- Key: D# minor
+- Last chord: A major
+- Second last chord: D# minor
+- Last chord function: V/V (Dominant of the dominant)
+- Second last chord function: i (Tonic)
+- Cadence type: Half cadence

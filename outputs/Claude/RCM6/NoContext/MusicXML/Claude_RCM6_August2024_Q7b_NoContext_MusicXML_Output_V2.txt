@@ -1,0 +1,19 @@
+[TextBlock(text='Let me analyze this melody:
+
+-Key: A major (3 sharps: F#, C#, G#)
+
+-Time Signature: 6/8 
+(This can be determined by observing the grouping of eighth notes in groups of 3 and the total duration of 6 eighth notes per measure)
+
+Chord symbols by bar:
+-Bar 1: F#m 
+(The melody outlines F#-C#-A-B-C#, which implies F# minor)
+
+-Bar 2: D major
+(The melody outlines D-B-F#-E-D, which implies D major)
+
+-Bar 3: C#m → E#dim 
+(The melody moves chromatically up C#-D#-E# and then G#-F#-E#, suggesting a harmonic progression from C#m to E#dim)
+
+-Bar 4: F#m
+(The melody sustains F#, the root of F#m)', type='text')]

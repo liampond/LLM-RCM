@@ -1,0 +1,11 @@
+1. **Key of the melody**: D major (indicated by the key signature of two sharps).
+
+2. **Root/quality chord symbol of the last chord**: **D major** (D).
+
+3. **Root/quality chord symbol of the second last chord**: **A7** (A dominant seventh).
+
+4. **Functional chord symbol for the last chord**: **I** (tonic).
+
+5. **Functional chord symbol for the second last chord**: **V7** (dominant seventh).
+
+6. **Type of cadence**: **Authentic cadence** (specifically a perfect authentic cadence, as the progression moves from V7 to I in root position).

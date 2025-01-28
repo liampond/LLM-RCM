@@ -1,0 +1,23 @@
+[TextBlock(text='Let me help determine the time signature by adding up the note durations in each measure.
+
+For Measure 1:
+- Dotted quarter note (12/8)
+- Eighth note (4/8)
+- Two sixteenth notes (2/8 + 2/8)
+- Eighth note (4/8)
+- Two eighth notes (4/8 + 4/8)
+
+Total for measure 1: 32/8 = 4/4 time
+
+For Measure 2:
+- Two sixteenth notes (2/8 + 2/8)
+- Two thirty-second notes (1/8 + 1/8)
+- Dotted sixteenth note (3/8)
+- Thirty-second note (1/8)
+- Sixteenth note (2/8)
+- Eighth note (4/8)
+- Sixteenth note (2/8)
+
+Total for measure 2: 32/8 = 4/4 time
+
+Based on these calculations, this piece is in 4/4 time signature (common time).', type='text')]

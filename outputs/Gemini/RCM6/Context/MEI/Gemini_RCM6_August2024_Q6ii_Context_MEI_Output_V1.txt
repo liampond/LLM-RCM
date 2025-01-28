@@ -1,0 +1,7 @@
+- **Key:** D major
+- **Second to last chord (root/quality):** A7
+- **Last chord (root/quality):** D
+- **Second to last chord (functional):** V7
+- **Last chord (functional):** I
+- **Cadence:** Authentic
+

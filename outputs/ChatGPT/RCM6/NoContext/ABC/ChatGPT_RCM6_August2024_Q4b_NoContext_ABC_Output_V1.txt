@@ -1,0 +1,27 @@
+To transpose the melody from E major to A-flat major, we need to transpose it up by a **minor 6th** (E to A-flat is a minor 6th). The key signature of A-flat major has **four flats (B♭, E♭, A♭, D♭)**. Below is the transposed melody:
+
+### Transposed ABC Notation:
+```
+X:1
+T:RCM6_August2024_Q4_Transposed
+L:1/16
+M:4/4
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ Ab8 C4 Eb4 | F6 GAb F4 z4 | d8 C4 f4 | C4 Bb2CBb Ab4 z4 ||
+```
+
+### Explanation of Transposition:
+1. **E8 → Ab8**: E transposes up a minor 6th to A♭.
+2. **G4 → C4**: G transposes up a minor 6th to C.
+3. **B4 → Eb4**: B transposes up a minor 6th to E♭.
+4. **D6 → F6**: D transposes up a minor 6th to F.
+5. **EF → GAb**: E to G and F to A♭.
+6. **c8 → d8**: c transposes up a minor 6th to d.
+7. **B4 → C4**: B transposes up a minor 6th to C.
+8. **e4 → f4**: e transposes up a minor 6th to f.
+9. **B4 → C4**: B transposes up a minor 6th to C.
+10. **A2GA → Bb2CBb**: A to B♭, G to C, and A to B♭.
+
+The interval of transposition is a **minor 6th upward**.

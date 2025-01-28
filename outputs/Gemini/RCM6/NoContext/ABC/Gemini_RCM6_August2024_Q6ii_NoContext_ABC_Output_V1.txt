@@ -1,0 +1,6 @@
+- Key: D major
+- Last chord: F major
+- Second last chord: E minor
+- Last chord function: IV
+- Second last chord function: iii
+- Cadence type: Half cadence

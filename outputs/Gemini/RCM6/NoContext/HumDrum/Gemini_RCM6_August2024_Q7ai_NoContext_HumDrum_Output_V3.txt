@@ -1,0 +1,2 @@
+Key: G major (F# major would require a C#)
+Time signature: 4/4 (or C) -  The beaming and measure total duration support this. The total duration adds up to 16 sixteenth notes per measure.

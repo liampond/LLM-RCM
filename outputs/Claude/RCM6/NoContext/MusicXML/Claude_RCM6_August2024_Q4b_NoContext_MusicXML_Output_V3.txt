@@ -1,0 +1,29 @@
+[TextBlock(text="Let me help you transpose this melody from E major (4 sharps) to A flat major (4 flats).
+
+The interval of transposition is up a minor fourth (or augmented third).
+
+Here's the melody transposed to A flat major:
+
+Original (E major) -> Transposed (A flat major)
+E4 -> Ab4 (half note)
+G#4 -> C5 (quarter note)
+B4 -> Eb5 (quarter note)
+
+D#4 -> G4 (dotted quarter note)
+E4 -> Ab4 (sixteenth note)
+F#4 -> Bb4 (sixteenth note)
+E4 -> Ab4 (quarter note)
+[quarter rest]
+
+C#5 -> F5 (half note)
+B4 -> Eb5 (quarter note)
+E5 -> Ab5 (quarter note)
+
+B4 -> Eb5 (quarter note)
+A4 -> Db5 (eighth note)
+G#4 -> C5 (sixteenth note)
+A4 -> Db5 (sixteenth note)
+G#4 -> C5 (quarter note)
+[quarter rest]
+
+The rhythm pattern remains exactly the same as the original. The key signature changes from 4 sharps (E major) to 4 flats (Ab major: Bb, Eb, Ab, Db).", type='text')]

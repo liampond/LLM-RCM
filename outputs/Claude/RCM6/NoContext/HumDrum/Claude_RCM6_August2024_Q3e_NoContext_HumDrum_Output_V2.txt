@@ -1,0 +1,7 @@
+[TextBlock(text="Here are the notes for the E flat minor harmonic scale in ascending and descending form, in bass clef:
+
+Ascending: E♭ - F - G♭ - A♭ - B♭ - C♭ - D♮ - E♭
+Descending: E♭ - D♮ - C♭ - B♭ - A♭ - G♭ - F - E♭
+
+The key signature for E♭ minor has 6 flats: B♭, E♭, A♭, D♭, G♭, C♭
+The D♮ in both directions requires a natural sign as an accidental since it's raised by a half step in the harmonic minor form.", type='text')]

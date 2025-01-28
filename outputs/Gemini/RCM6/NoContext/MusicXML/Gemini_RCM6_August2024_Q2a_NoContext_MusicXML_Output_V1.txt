@@ -1,0 +1,15 @@
+* **Measure 1:** The time signature is 4/2.  A dotted quarter note (36 divisions) and a regular quarter note (24 divisions) are present, totaling 60 divisions. A whole note in this time signature gets 96 divisions (4 beats x 24 divisions/beat).  Therefore, the x notehead needs to be replaced with a rest worth 36 divisions, which is another dotted quarter note rest.
+
+* **Measure 2:** The time signature is still 4/2. The existing rhythms total 24 divisions (three triplet eighths and a quarter note).  The missing rest should be worth 72 divisions (96 - 24). This can be represented as a dotted half rest.
+
+* **Measure 3:** The time signature is 6/4.  The existing rhythms total 66 divisions. A whole note here is worth 144 divisions (6 beats x 24 divisions/beat). The missing rest should be worth 78 divisions (144 - 66). This can be represented as a half rest (48 divisions) and a dotted quarter rest (30 divisions).
+
+* **Measure 4:** The time signature is 6/4. The existing rhythms total 72 divisions. The missing rest should be worth 72 divisions. This can be represented as a dotted half rest.
+
+* **Measure 5:** The time signature is 9/8. The existing rhythms total 42 divisions. A whole note here is worth 72 divisions (9 beats x 8 divisions/beat, since a quarter note gets 24 divisions, an eighth note gets 12, and a 9/8 bar has 9 eighth notes). The missing rest should be worth 30 divisions (72 - 42). This can be represented as a quarter rest (24 divisions) and a sixteenth rest (6 divisions).
+
+* **Measure 6:** The time signature is 9/8. The existing rhythms total 66 divisions. The missing rest should be worth 6 divisions. This is a sixteenth rest.
+
+* **Measure 7:** The time signature is 3/4. The existing rhythm is a quarter note (24 divisions). A whole note here is worth 72 divisions. The missing rest should be worth 48 divisions. This is a half rest.
+
+* **Measure 8:** The time signature is 3/4. The existing rhythms total 33 divisions. The missing rest should be worth 39 divisions. This can be represented as a quarter rest (24 divisions) and a dotted eighth rest (15 divisions).

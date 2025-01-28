@@ -1,0 +1,13 @@
+[TextBlock(text='Let me analyze this piece:
+
+-Key: Eb major (given by key signature)
+
+-Second last chord [Gce]: C minor (Cm)
+-Last chord [G=Bd]: G major (G)
+
+-Second last chord functional symbol: vi (C minor is the submediant in Eb major)
+-Last chord functional symbol: III (G major is the mediant in Eb major)
+
+-Cadence type: This is a half cadence, as it moves to III which acts as the dominant of vi, creating a deceptive motion rather than resolving to the tonic Eb.
+
+The presence of the =B (natural B) in the final chord confirms the G major quality of the last chord, while the combination of G, C, and E in the second-to-last chord forms a C minor triad.', type='text')]

@@ -1,0 +1,9 @@
+**Measure 1:** G to G is a Perfect unison.
+
+**Measure 2:** F# to B is an Augmented fourth.
+
+**Measure 3:** E to C# is a Minor sixth.
+
+**Measure 4:** C to D is a Major second.
+
+**Measure 5:** B to F# is a Perfect fifth.

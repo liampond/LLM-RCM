@@ -1,0 +1,6 @@
+* **Key:** Eb major
+* **Second to last chord (root/quality):** Cmin7 (or C-7)
+* **Last chord (root/quality):** Gbmaj7 (or Gb+7)
+* **Second to last chord (functional):**  iv6
+* **Last chord (functional):** I
+* **Cadence type:** Authentic (specifically, an imperfect authentic cadence because the tonic chord is in root position, but the preceding chord is not a dominant chord in root position).

@@ -1,0 +1,36 @@
+[TextBlock(text="I'll help determine each interval using the steps provided. Let me analyze each note in sequence:
+
+1. First note is B♭2
+- For Perfect 4th:
+- Count up 4: B♭(1), C(2), D(3), E♭(4)
+- The Perfect 4th above B♭ is E♭
+
+2. Second note is D♯3
+- For Major 3rd:
+- Count up 3: D♯(1), E♯(2), F𝄪(3)
+- The Major 3rd above D♯ is F𝄪
+
+3. Third note is G♭2
+- For Diminished 8ve:
+- Count up 8: G♭(1), A♭(2), B♭(3), C♭(4), D♭(5), E♭(6), F(7), G♭(8)
+- Lower G♭ by one semitone to make it diminished
+- The Diminished 8ve above G♭ is G𝄫
+
+4. Fourth note is C♭3
+- For Augmented 6th:
+- Count up 6: C♭(1), D♭(2), E♭(3), F♭(4), G♭(5), A♭(6)
+- Raise A♭ by one semitone to make it augmented
+- The Augmented 6th above C♭ is A♮
+
+5. Final note is E2
+- For Minor 2nd:
+- Count up 2: E(1), F(2)
+- Lower F by one semitone to make it minor
+- The Minor 2nd above E is F
+
+Therefore, the requested notes in order are:
+1. E♭
+2. F𝄪
+3. G𝄫
+4. A
+5. F", type='text')]

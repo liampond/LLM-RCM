@@ -1,0 +1,15 @@
+* **Measure 1:** The dotted quarter note (f4) accounts for 3 quarter note beats.  A quarter rest should replace the x notehead to complete the bar.
+
+* **Measure 2:** The triplet adds up to 2 quarter note beats. A half rest should replace the x notehead.
+
+* **Measure 3:** The sixteenth and dotted eighth equal a quarter note beat.  A half rest should replace the x notehead.
+
+* **Measure 4:** The first x notehead should be a quarter rest. The two eighth notes add up to a quarter note beat. The final x notehead should be a dotted half rest.
+
+* **Measure 5:** The sixteenth, eighth, and sixteenth notes add up to a quarter note beat. The x notehead should be a dotted half rest.
+
+* **Measure 6:** The first x notehead should be a dotted half rest. The final x notehead should be a quarter rest.
+
+* **Measure 7:** The x notehead should be a half rest.
+
+* **Measure 8:** The dotted sixteenth note takes up 3/16 of a beat. The x notehead should be a dotted eighth rest followed by a quarter rest.

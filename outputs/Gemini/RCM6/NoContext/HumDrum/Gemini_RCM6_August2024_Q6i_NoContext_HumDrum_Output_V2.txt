@@ -1,0 +1,6 @@
+- Key: C minor
+- Second last chord: G major
+- Last chord: C minor
+- Function of second last chord: V
+- Function of last chord: i
+- Cadence type: Authentic

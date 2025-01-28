@@ -1,0 +1,59 @@
+Here are the answers to the requested chords, following the guide provided:
+
+---
+
+### 1. **The mediant triad of E-flat major in root position**
+- **Key signature of E-flat major**: B♭, E♭, A♭.
+- **Scale of E-flat major**: E♭, F, G, A♭, B♭, C, D, E♭.
+- **Mediant**: The 3rd scale degree = G.
+- **Triad notes**: Root = G, Third = B♭, Fifth = D.
+- **Final answer**: **G, B♭, D**.
+
+---
+
+### 2. **The submediant triad of A-sharp minor, harmonic form, in second inversion**
+- **Key signature of A-sharp minor**: F#, C#, G#, D#, A# (same as B major).
+- **Harmonic minor scale of A-sharp minor**: A#, B#, C#, D#, E#, F#, G##, A# (raised 7th = G##).
+- **Submediant**: The 6th scale degree = F#.
+- **Triad notes**: Root = F#, Third = A#, Fifth = C#.
+- **Second inversion**: Fifth becomes the lowest note → C#, F#, A#.
+- **Final answer**: **C#, F#, A#**.
+
+---
+
+### 3. **The dominant triad of C-sharp minor, harmonic form, in first inversion**
+- **Key signature of C-sharp minor**: F#, C#, G#, D# (same as E major).
+- **Harmonic minor scale of C-sharp minor**: C#, D#, E, F#, G#, A, B#, C# (raised 7th = B#).
+- **Dominant**: The 5th scale degree = G#.
+- **Triad notes**: Root = G#, Third = B#, Fifth = D#.
+- **First inversion**: Third becomes the lowest note → B#, D#, G#.
+- **Final answer**: **B#, D#, G#**.
+
+---
+
+### 4. **The subdominant triad of G major in second inversion**
+- **Key signature of G major**: F#.
+- **Scale of G major**: G, A, B, C, D, E, F#, G.
+- **Subdominant**: The 4th scale degree = C.
+- **Triad notes**: Root = C, Third = E, Fifth = G.
+- **Second inversion**: Fifth becomes the lowest note → G, C, E.
+- **Final answer**: **G, C, E**.
+
+---
+
+### 5. **The dominant 7th chord of B-flat minor, harmonic form, in root position**
+- **Key signature of B-flat minor**: B♭, E♭, A♭, D♭, G♭.
+- **Harmonic minor scale of B-flat minor**: B♭, C, D♭, E♭, F, G♭, A, B♭ (raised 7th = A).
+- **Dominant**: The 5th scale degree = F.
+- **7th chord notes**: Root = F, Third = A, Fifth = C, Seventh = E♭.
+- **Root position**: Root is the lowest note → F, A, C, E♭.
+- **Final answer**: **F, A, C, E♭**.
+
+--- 
+
+### Summary of Final Answers:
+1. **G, B♭, D**  
+2. **C#, F#, A#**  
+3. **B#, D#, G#**  
+4. **G, C, E**  
+5. **F, A, C, E♭**

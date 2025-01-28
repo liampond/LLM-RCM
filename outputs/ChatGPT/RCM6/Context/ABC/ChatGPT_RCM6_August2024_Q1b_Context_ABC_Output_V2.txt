@@ -1,0 +1,136 @@
+Let’s analyze the file step by step and determine the requested intervals.
+
+### File Notes:
+The notes in the file are:
+1. _B,, (B double flat in the sub-contra octave)
+2. ^D, (D sharp in the contra octave)
+3. _G,, (G double flat in the sub-contra octave)
+4. _C, (C flat in the contra octave)
+5. E,, (E double flat in the sub-contra octave)
+
+---
+
+### 1. A Perfect 4th Above the First Note (_B,,)
+- **Step 1: Identify the lower note and interval.**
+  Lower note: _B,, (B double flat)
+  Interval: Perfect 4th.
+
+- **Step 2: Determine the interval number.**
+  Count the letter names starting from B:
+  B (1), C (2), D (3), E (4).
+  The letter name of the upper note is E.
+
+- **Step 3: Use the major scale of the lower note.**
+  The B𝄫 major scale is:
+  B𝄫, C♭, D♭, E𝄫, F♭, G♭, A♭.
+  The 4th note in the scale is E𝄫, which forms a Perfect 4th.
+
+- **Step 4: Adjust the quality of the interval.**
+  A Perfect 4th remains unchanged.
+
+- **Final Answer:**
+  A Perfect 4th above _B,, is **E𝄫,,**.
+
+---
+
+### 2. A Major 3rd Above the Second Note (^D,)
+- **Step 1: Identify the lower note and interval.**
+  Lower note: ^D, (D sharp)
+  Interval: Major 3rd.
+
+- **Step 2: Determine the interval number.**
+  Count the letter names starting from D:
+  D (1), E (2), F (3).
+  The letter name of the upper note is F.
+
+- **Step 3: Use the major scale of the lower note.**
+  The D♯ major scale is:
+  D♯, E♯, F♯, G♯, A♯, B♯, C𝄪.
+  The 3rd note in the scale is F♯, which forms a Major 3rd.
+
+- **Step 4: Adjust the quality of the interval.**
+  A Major 3rd remains unchanged.
+
+- **Final Answer:**
+  A Major 3rd above ^D, is **F♯,**.
+
+---
+
+### 3. A Diminished Octave Above the Third Note (_G,,)
+- **Step 1: Identify the lower note and interval.**
+  Lower note: _G,, (G double flat)
+  Interval: Diminished Octave.
+
+- **Step 2: Determine the interval number.**
+  Count the letter names starting from G:
+  G (1), G (8).
+  The letter name of the upper note is G.
+
+- **Step 3: Use the major scale of the lower note.**
+  The G𝄫 major scale is:
+  G𝄫, A𝄫, B𝄫, C𝄫, D𝄫, E𝄫, F𝄫, G𝄫.
+  The 8th note in the scale is G𝄫, which forms a Perfect Octave.
+
+- **Step 4: Adjust the quality of the interval.**
+  A Diminished Octave is one semitone lower than a Perfect Octave.
+  Lower G𝄫 by one semitone → G𝄫𝄫.
+
+- **Final Answer:**
+  A Diminished Octave above _G,, is **G𝄫𝄫,,**.
+
+---
+
+### 4. An Augmented 6th Above the Fourth Note (_C,)
+- **Step 1: Identify the lower note and interval.**
+  Lower note: _C, (C flat)
+  Interval: Augmented 6th.
+
+- **Step 2: Determine the interval number.**
+  Count the letter names starting from C:
+  C (1), D (2), E (3), F (4), G (5), A (6).
+  The letter name of the upper note is A.
+
+- **Step 3: Use the major scale of the lower note.**
+  The C♭ major scale is:
+  C♭, D♭, E♭, F♭, G♭, A♭, B♭.
+  The 6th note in the scale is A♭, which forms a Major 6th.
+
+- **Step 4: Adjust the quality of the interval.**
+  An Augmented 6th is one semitone higher than a Major 6th.
+  Raise A♭ by one semitone → A.
+
+- **Final Answer:**
+  An Augmented 6th above _C, is **A,**.
+
+---
+
+### 5. A Minor 2nd Above the Final Note (E,,)
+- **Step 1: Identify the lower note and interval.**
+  Lower note: E,, (E double flat)
+  Interval: Minor 2nd.
+
+- **Step 2: Determine the interval number.**
+  Count the letter names starting from E:
+  E (1), F (2).
+  The letter name of the upper note is F.
+
+- **Step 3: Use the major scale of the lower note.**
+  The E𝄫 major scale is:
+  E𝄫, F𝄫, G𝄫, A𝄫, B𝄫, C𝄫, D𝄫.
+  The 2nd note in the scale is F𝄫, which forms a Major 2nd.
+
+- **Step 4: Adjust the quality of the interval.**
+  A Minor 2nd is one semitone lower than a Major 2nd.
+  Lower F𝄫 by one semitone → F𝄫𝄫.
+
+- **Final Answer:**
+  A Minor 2nd above E,, is **F𝄫𝄫,,**.
+
+---
+
+### Final Results:
+1. Perfect 4th above _B,, → **E𝄫,,**
+2. Major 3rd above ^D, → **F♯,**
+3. Diminished Octave above _G,, → **G𝄫𝄫,,**
+4. Augmented 6th above _C, → **A,**
+5. Minor 2nd above E,, → **F𝄫𝄫,,**

@@ -1,0 +1,13 @@
+Here's the analysis of the melody:
+
+* **Key:** E-flat major
+
+* **Root/Quality Chord Symbol of the Second Last Chord:**  C minor (Cm)
+
+* **Root/Quality Chord Symbol of the Last Chord:** G major (G) with an added B natural resulting in a G major seventh chord.
+
+* **Functional Chord Symbol for the Second Last Chord:** iv
+
+* **Functional Chord Symbol for the Last Chord:** I7 (added B natural makes it a major seventh chord)
+
+* **Type of Cadence:** Authentic (iv-I7 in a major key is an authentic cadence, even with the seventh added to the tonic chord.)

@@ -1,0 +1,17 @@
+[TextBlock(text="Let me analyze the melody:
+
+-Key: E♭ major (3 flats: B♭, E♭, A♭)
+
+-Second last chord (measure 3): C minor (Cm)
+Looking at the notes: C, E♭, G
+
+-Last chord (measure 4): G major (G)
+Looking at the notes: G, B♮, D
+
+-Functional chord symbol for second last chord: vi (submediant)
+
+-Functional chord symbol for last chord: III (mediant)
+The G major chord is built on the third scale degree of E♭ major
+
+-Type of cadence: Half cadence
+This is a half cadence because it ends on III, which functions like a dominant in this context, creating tension rather than resolution. It doesn't conclude on the tonic (E♭), which would be needed for an authentic cadence.", type='text')]

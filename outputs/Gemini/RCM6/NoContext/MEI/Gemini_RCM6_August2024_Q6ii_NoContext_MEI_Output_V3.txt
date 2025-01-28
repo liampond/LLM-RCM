@@ -1,0 +1,6 @@
+* **Key:** D major
+* **Last chord:** D major
+* **Second to last chord:** A major
+* **Functional chord symbol (last):** Tonic (I)
+* **Functional chord symbol (second to last):** Dominant (V)
+* **Cadence type:** Authentic cadence

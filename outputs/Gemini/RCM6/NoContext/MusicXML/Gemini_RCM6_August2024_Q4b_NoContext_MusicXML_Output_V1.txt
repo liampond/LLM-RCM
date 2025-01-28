@@ -1,0 +1,11 @@
+The interval of transposition is a major second up.
+
+Here's the transposed melody in A♭ Major:
+
+* **Measure 1:** A♭4 (half note), C5 (quarter note), E♭5 (quarter note)
+* **Measure 2:** F4 (dotted quarter note), G♭4 (16th note), A♭4 (16th note), G♭4 (quarter note), *rest* (quarter note)
+* **Measure 3:** E♭5 (half note), D♭5 (quarter note), G♭5 (quarter note)
+* **Measure 4:** D♭5 (quarter note), C5 (eighth note), B♭4 (16th note), C5 (16th note), B♭4 (quarter note), *rest* (quarter note)
+
+
+The key signature would have four flats (B♭, E♭, A♭, D♭).  All other accidentals would be removed as they are now part of the key signature.

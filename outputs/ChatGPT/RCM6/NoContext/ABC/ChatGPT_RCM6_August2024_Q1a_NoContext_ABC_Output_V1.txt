@@ -1,0 +1,28 @@
+To determine the intervals between the notes in each measure, we will analyze the pitch content of the chords in each measure. The notes are encoded as pairs (e.g., `[Ag]`), and we will calculate the interval between the two notes in each pair.
+
+### Measure 1: `[Ag]`
+- Notes: A and G
+- Interval: A to G is a **minor 7th (descending)** or **major 2nd (ascending)**.
+
+### Measure 2: `[F_B]`
+- Notes: F and B♭
+- Interval: F to B♭ is a **perfect 4th (ascending)**.
+
+### Measure 3: `[Ec]`
+- Notes: E and C
+- Interval: E to C is a **minor 6th (descending)** or **major 3rd (ascending)**.
+
+### Measure 4: `[_cd]`
+- Notes: C♭ and D
+- Interval: C♭ to D is an **augmented 2nd (ascending)**.
+
+### Measure 5: `[Bf]`
+- Notes: B and F
+- Interval: B to F is a **diminished 5th (ascending)**.
+
+### Summary of Intervals:
+1. Measure 1: Minor 7th (descending) or Major 2nd (ascending)
+2. Measure 2: Perfect 4th (ascending)
+3. Measure 3: Minor 6th (descending) or Major 3rd (ascending)
+4. Measure 4: Augmented 2nd (ascending)
+5. Measure 5: Diminished 5th (ascending)

@@ -1,0 +1,6 @@
+[TextBlock(text='Here are the notes for the A major scale in ascending and descending order:
+
+Ascending: A B C♯ D E F♯ G♯ A
+Descending: A G♯ F♯ E D C♯ B A
+
+The key signature for A major has three sharps: F♯, C♯, and G♯.', type='text')]

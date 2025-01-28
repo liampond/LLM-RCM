@@ -1,0 +1,36 @@
+[TextBlock(text="I'll solve each chord following the guide:
+
+1. Mediant triad of E flat major in root position
+Key signature: B♭, E♭, A♭
+Scale: E♭, F, G, A♭, B♭, C, D, E♭
+Mediant (3rd degree) = G
+Chord notes (root, 3rd, 5th from G): G, B♭, D
+Answer: G, B♭, D
+
+2. Submediant triad of A# minor (harmonic) in second inversion
+Key signature: F#, C#, G#, D#, A#
+Scale: A#, B#, C#, D#, E#, F#, G##, A#
+Submediant (6th degree) = F#
+Chord notes in second inversion (5th, root, 3rd from F#): C#, F#, A#
+Answer: C#, F#, A#
+
+3. Dominant triad of C# minor (harmonic) in first inversion
+Key signature: F#, C#, G#
+Scale: C#, D#, E, F#, G#, A, B#, C#
+Dominant (5th degree) = G#
+Chord notes in first inversion (3rd, 5th, root from G#): B#, D#, G#
+Answer: B#, D#, G#
+
+4. Subdominant triad of G major in second inversion
+Key signature: F#
+Scale: G, A, B, C, D, E, F#, G
+Subdominant (4th degree) = C
+Chord notes in second inversion (5th, root, 3rd from C): G, C, E
+Answer: G, C, E
+
+5. Dominant 7th chord of B♭ minor (harmonic) in root position
+Key signature: B♭, E♭, A♭, D♭, G♭
+Scale: B♭, C, D♭, E♭, F, G♭, A, B♭
+Dominant (5th degree) = F
+Chord notes in root position (root, 3rd, 5th, 7th from F): F, A, C, E♭
+Answer: F, A, C, E♭", type='text')]

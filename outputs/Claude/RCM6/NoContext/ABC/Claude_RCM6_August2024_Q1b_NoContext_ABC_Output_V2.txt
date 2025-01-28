@@ -1,0 +1,16 @@
+[TextBlock(text='Let me help find these intervals from each note:
+
+1. First note is B♭,, (double flat B)
+- Perfect 4th above B♭,, would be E♭,
+
+2. Second note is D♯, (sharp D)
+- Major 3rd above D♯, would be F𝄪, (double sharp F)
+
+3. Third note is G♭,, (double flat G)
+- Diminished 8ve above G♭,, would be G𝄫, (double flat G)
+
+4. Fourth note is C♭, (flat C)
+- Augmented 6th above C♭, would be A♮
+
+5. Fifth note is E,, (natural E)
+- Minor 2nd above E,, would be F,', type='text')]

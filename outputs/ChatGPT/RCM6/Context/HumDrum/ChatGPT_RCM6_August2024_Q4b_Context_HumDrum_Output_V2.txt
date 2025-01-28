@@ -1,0 +1,113 @@
+To transpose the melody from the original key of E major to A♭ major, we first determine the interval of transposition.
+
+### Step 1: Determine the Interval of Transposition
+- The original key is **E major**.
+- The target key is **A♭ major**.
+- Count the letter names from E to A: E (1), F (2), G (3), A (4). This is a **fourth**.
+- E to A♭ involves a semitone adjustment. A♭ is one semitone lower than A natural, so the interval is a **diminished fourth**.
+
+Thus, the interval of transposition is a **diminished fourth upward**.
+
+---
+
+### Step 2: Transpose the Key Signature
+The original key signature is **E major** (4 sharps: F♯, C♯, G♯, D♯).  
+The new key signature is **A♭ major** (4 flats: B♭, E♭, A♭, D♭).
+
+---
+
+### Step 3: Transpose Each Note
+We now transpose each note in the melody up by a diminished fourth. Below is the transposed melody with the correct notes and rhythms.
+
+#### Original Melody (E major):
+```
+**kern
+*clefG2
+*k[f#c#g#d#]
+*M4/4
+*met(c)
+=1
+2e
+4g#
+4b
+=
+4.d#
+16eLL
+16f#JJ
+4e
+4r
+=
+2cc#
+4b
+4ee
+=
+4b
+8aL
+16g#L
+16aJJ
+4g#
+4r
+=||
+*-
+```
+
+#### Transposed Melody (A♭ major):
+```
+**kern
+*clefG2
+*k[b-e-a-d-]
+*M4/4
+*met(c)
+=1
+2a♭
+4c
+4e♭
+=
+4.f
+16gLL
+16a♭JJ
+4f
+4r
+=
+2d
+4e♭
+4f
+=
+4e♭
+8dL
+16cL
+16dJJ
+4c
+4r
+=||
+*-
+```
+
+---
+
+### Step 4: Explanation of Transposition
+Here is how each note was transposed up by a diminished fourth:
+
+1. **E → A♭**  
+   E to A is a perfect fourth. Lowering A to A♭ makes it a diminished fourth.
+
+2. **G♯ → C**  
+   G♯ to C is a perfect fourth. No adjustment is needed.
+
+3. **B → E♭**  
+   B to E is a perfect fourth. Lowering E to E♭ makes it a diminished fourth.
+
+4. **D♯ → F**  
+   D♯ to G is a perfect fourth. Lowering G to F makes it a diminished fourth.
+
+5. **F♯ → A♭**  
+   F♯ to B is a perfect fourth. Lowering B to A♭ makes it a diminished fourth.
+
+6. **C♯ → D**  
+   C♯ to F is a perfect fourth. Lowering F to D makes it a diminished fourth.
+
+---
+
+### Final Answer:
+- The interval of transposition is a **diminished fourth upward**.
+- The transposed melody is provided above in A♭ major with the correct key signature, notes, and rhythms.

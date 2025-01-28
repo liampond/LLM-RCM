@@ -1,0 +1,47 @@
+Let’s analyze the encoded HumDrum file step by step and determine the requested intervals.
+
+### File Analysis:
+1. **First note**: `BB-X` (B double flat)
+2. **Second note**: `D#X` (D double sharp)
+3. **Third note**: `GG-X` (G double flat)
+4. **Fourth note**: `C-X` (C double flat)
+5. **Fifth note**: `EE` (E natural)
+
+### Requested Intervals:
+#### 1. A Perfect 4th above the first note (`BB-X`):
+- **Step 1**: Interval number = 4th → Count letter names: B (1), C (2), D (3), E (4). The letter name is E.
+- **Step 2**: B♭♭ major scale: B♭♭, C♭, D♭, E♭♭, F♭, G♭, A♭. The 4th note is E♭♭.
+- **Step 3**: A Perfect 4th is unaltered in quality, so the note remains E♭♭.
+- **Answer**: E♭♭ (E double flat).
+
+#### 2. A Major 3rd above the second note (`D#X`):
+- **Step 1**: Interval number = 3rd → Count letter names: D (1), E (2), F (3). The letter name is F.
+- **Step 2**: D♯ major scale: D♯, E♯, F♯, G♯, A♯, B♯, C♯♯. The 3rd note is F♯.
+- **Step 3**: A Major 3rd is unaltered in quality, so the note remains F♯.
+- **Step 4**: Adjust for the double sharp on D: F♯ becomes F♯♯.
+- **Answer**: F♯♯ (F double sharp).
+
+#### 3. A Diminished Octave above the third note (`GG-X`):
+- **Step 1**: Interval number = Octave → Count letter names: G (1), G (8). The letter name is G.
+- **Step 2**: G♭♭ major scale: G♭♭, A♭♭, B♭♭, C♭♭, D♭♭, E♭♭, F♭♭, G♭♭. The 8th note is G♭♭.
+- **Step 3**: A diminished octave is one semitone lower than a Perfect octave. Lower G♭♭ by one semitone → G♭♭♭.
+- **Answer**: G♭♭♭ (G triple flat).
+
+#### 4. An Augmented 6th above the fourth note (`C-X`):
+- **Step 1**: Interval number = 6th → Count letter names: C (1), D (2), E (3), F (4), G (5), A (6). The letter name is A.
+- **Step 2**: C♭♭ major scale: C♭♭, D♭♭, E♭♭, F♭♭, G♭♭, A♭♭, B♭♭. The 6th note is A♭♭.
+- **Step 3**: An augmented 6th is one semitone higher than a Major 6th. Raise A♭♭ by one semitone → A♭.
+- **Answer**: A♭ (A flat).
+
+#### 5. A Minor 2nd above the fifth note (`EE`):
+- **Step 1**: Interval number = 2nd → Count letter names: E (1), F (2). The letter name is F.
+- **Step 2**: E major scale: E, F♯, G♯, A, B, C♯, D♯. The 2nd note is F♯.
+- **Step 3**: A minor 2nd is one semitone lower than a Major 2nd. Lower F♯ by one semitone → F.
+- **Answer**: F (F natural).
+
+### Final Answers:
+1. Perfect 4th above `BB-X`: **E♭♭**
+2. Major 3rd above `D#X`: **F♯♯**
+3. Diminished Octave above `GG-X`: **G♭♭♭**
+4. Augmented 6th above `C-X`: **A♭**
+5. Minor 2nd above `EE`: **F**

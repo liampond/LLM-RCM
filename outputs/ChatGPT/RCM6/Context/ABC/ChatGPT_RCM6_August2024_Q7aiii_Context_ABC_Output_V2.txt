@@ -1,0 +1,67 @@
+### Step 1: Determine the Key
+
+#### 1. Check the Key Signature
+The key signature in the ABC file is `K:G`, which indicates either **G Major** or **E Minor** (1 sharp: F♯).
+
+#### 2. Determine if the Key is Major or Minor
+- Look for accidentals that suggest a raised seventh degree, which would indicate a minor key.
+- In the provided music, there is a `^D` (D♯) in the second measure. D♯ is the raised seventh degree in E Minor (E-F♯-G-A-B-C-D♯-E).
+- This suggests the piece is in **E Minor**.
+
+#### 3. Look for Other Clues
+- The melodic content includes descending motion (BGFE) and the raised seventh (D♯), which are characteristic of E Minor.
+- There is no strong evidence to suggest G Major, as the raised seventh (D♯) points clearly to E Minor.
+
+**Key: E Minor**
+
+---
+
+### Step 2: Determine the Time Signature
+
+#### 1. Identify the Beat Groupings
+The rhythm in the ABC file is as follows:
+- Measure 1: `z GABcA`
+  - Rest (`z`) = 1/16
+  - GABcA = 1/16 + 1/16 + 1/16 + 1/16 + 1/16 = 5/16
+  - Total = 1/16 (rest) + 5/16 = **6/16**.
+
+- Measure 2: `BGFE^DA`
+  - B = 1/16
+  - G = 1/16
+  - F = 1/16
+  - E = 1/16
+  - ^D = 1/16
+  - A = 1/16
+  - Total = **6/16**.
+
+- Measure 3: `G/F/Ee2 z2`
+  - G/F/E = 1/16 + 1/16 + 1/16 = 3/16
+  - `e2` = 2/16
+  - `z2` = 2/16
+  - Total = 3/16 + 2/16 + 2/16 = **7/16**.
+
+- Measure 4: `^d/^c/Ba2 z2`
+  - ^d = 1/16
+  - ^c = 1/16
+  - B = 1/16
+  - `a2` = 2/16
+  - `z2` = 2/16
+  - Total = 1/16 + 1/16 + 1/16 + 2/16 + 2/16 = **7/16**.
+
+#### 2. Check the Total Value of the Beam Groupings
+- The rhythmic groupings suggest **compound time** because the measures are grouped into values divisible by 3 (e.g., 6/16, 7/16).
+- The smallest rhythmic value is a sixteenth note, so the bottom number of the time signature is **16**.
+
+#### 3. Count the Total Beats in the Measure
+- Measures 1 and 2 have 6/16 each, suggesting **6/16** time.
+- Measures 3 and 4 have 7/16 each, suggesting **7/16** time.
+
+#### 4. Write the Time Signature
+- The piece alternates between **6/16** and **7/16**, indicating **irregular meter**.
+
+---
+
+### Summary
+
+- **Key**: E Minor (1 sharp, with a raised seventh degree D♯).
+- **Time Signature**: The piece alternates between **6/16** and **7/16**, indicating an irregular meter.

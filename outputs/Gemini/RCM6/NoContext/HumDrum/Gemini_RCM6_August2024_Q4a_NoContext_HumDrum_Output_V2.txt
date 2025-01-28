@@ -1,0 +1,22 @@
+Transposed Melody:
+
+* **2d#:** Half note D-sharp
+* **4l:** Quarter note L
+* **4c##:** Quarter note C-double-sharp
+* **4.f##:** Dotted quarter note F-double-sharp
+* **16aLL:** Two sixteenth notes tied, A
+* **16bJJ:** Two sixteenth notes tied, B
+* **4a:** Quarter note A
+* **4r:** Quarter rest
+* **2f##:** Half note F-double-sharp
+* **4c##:** Quarter note C-double-sharp
+* **4dd:** Quarter note D-double-flat (enharmonically equivalent to C)
+* **4c##:** Quarter note C-double-sharp
+* **8d#L:** Eighth note tied to D-sharp
+* **16lL:** Eighth note tied to L
+* **16bJJ:** Two sixteenth notes tied, B
+* **4l:** Quarter note L
+* **4r:** Quarter rest
+
+
+New Key:  B-sharp major.  Key signature: f-sharp, c-sharp, g-sharp, d-sharp, a-sharp, e-sharp.

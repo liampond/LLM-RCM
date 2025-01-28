@@ -1,0 +1,10 @@
+- Key: F major
+- Time signature: 6/8
+- Chord: Subdominant triad (IV)
+- Interval: Diminished fifth
+- Functional chord symbol: IV
+- Chord: Submediant triad (vi)
+- Interval: Augmented fourth
+- Rest: Eighth rest
+- Period: Parallel period
+- Allegretto vivace: Moderately fast and lively tempo.  *Allegretto* indicates a moderately fast tempo, while *vivace* adds a sense of liveliness and energy.

@@ -1,0 +1,35 @@
+The original key is E major (four sharps). The new key is A♭ major (four flats).  The interval of transposition is a minor third down.
+
+Here's the transposed melody:
+
+```humdrum
+!!!OTL: RCM6_August2024_Q4_transposed
+**kern
+*clefG2
+*k[bbbbeb]
+*M4/4
+*met(c)
+=1
+2c
+4f
+4g
+=
+4.bb
+16cL
+16dbJJ
+4c
+4r
+=
+2ff
+4g
+4cc
+=
+4g
+8fL
+16eL
+16fJJ
+4e
+4r
+=||
+*-
+```

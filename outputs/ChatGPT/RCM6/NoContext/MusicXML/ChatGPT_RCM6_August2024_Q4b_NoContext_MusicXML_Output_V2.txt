@@ -1,0 +1,35 @@
+The original key of the melody is **E major** (4 sharps: F#, C#, G#, D#). To transpose it to **A-flat major** (4 flats: B♭, E♭, A♭, D♭), we need to transpose the melody **up a minor third** (E to G# is a major third, and G# to A♭ is an enharmonic minor third). Below is the transposed melody with the correct notes, rhythms, and accidentals:
+
+---
+
+### Key Signature: A-flat major (4 flats)
+
+#### Measure 1:
+1. **G (natural)** (half note, stem up)  
+2. **B♭** (quarter note, stem up)  
+3. **D♭** (quarter note, stem down)
+
+#### Measure 2:
+1. **F (natural)** (dotted quarter note, stem up)  
+2. **G (natural)** (16th note, stem up, beamed)  
+3. **A♭** (16th note, stem up, beamed)  
+4. **G (natural)** (quarter note, stem up)  
+5. **Rest** (quarter note)
+
+#### Measure 3:
+1. **E♭** (half note, stem down)  
+2. **D♭** (quarter note, stem down)  
+3. **G (natural)** (quarter note, stem down)
+
+#### Measure 4:
+1. **D♭** (quarter note, stem down)  
+2. **C (natural)** (eighth note, stem up, beamed)  
+3. **B♭** (16th note, stem up, beamed)  
+4. **C (natural)** (16th note, stem up, beamed)  
+5. **B♭** (quarter note, stem up)  
+6. **Rest** (quarter note)
+
+---
+
+### Interval of Transposition:
+The interval of transposition is **a minor third up**.

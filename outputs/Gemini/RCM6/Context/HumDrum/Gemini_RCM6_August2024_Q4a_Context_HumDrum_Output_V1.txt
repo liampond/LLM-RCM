@@ -1,0 +1,32 @@
+Transposed up a minor sixth (adding 9 semitones):
+
+```
+*clefG2
+*k[g#d#a#e#b#]
+*M4/4
+*met(c)
+=1
+2a#
+4d#
+4f##
+=
+4.g##
+16a#LL
+16bJJ
+4a#
+4r
+=
+2f###
+4f##
+4a##
+=
+4f##
+8e#L
+16d#L
+16e#JJ
+4d#
+4r
+=||
+```
+
+New key:  B# major.  (B# is enharmonically equivalent to C, but the supplied key signature is B# major, not C major).

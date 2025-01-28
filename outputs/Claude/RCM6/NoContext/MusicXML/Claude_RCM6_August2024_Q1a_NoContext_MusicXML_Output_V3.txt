@@ -1,0 +1,9 @@
+[TextBlock(text="I'll analyze the intervals between the two notes in each measure, going from bottom to top:
+
+Measure 1: A4 to G5 = Major 7th
+Measure 2: F#4 to Bb4 = Diminished 4th
+Measure 3: E4 to C#5 = Augmented 6th
+Measure 4: D5 to Cb5 = Diminished 7th
+Measure 5: B4 to F#5 = Perfect 5th
+
+Each measure contains two notes played simultaneously (as chords), and I've calculated the interval from the lower note to the higher note in each case, taking into account all accidentals and the key signature of D major (2 sharps: F# and C#).", type='text')]

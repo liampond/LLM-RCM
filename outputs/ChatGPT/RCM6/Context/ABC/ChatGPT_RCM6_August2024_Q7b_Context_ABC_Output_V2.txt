@@ -1,0 +1,68 @@
+### Step 1: Determine the Key of the Piece
+#### 1. Check the Key Signature
+The key signature is **A major** (three sharps: F♯, C♯, G♯). This suggests the key could be either **A major** or its relative minor, **F♯ minor**.
+
+#### 2. Determine if the Key is Major or Minor
+- In bar 3, the melody includes the notes **C♯, D♯, E♯ (enharmonic F)**. The **D♯** and **E♯** suggest the raised 7th and raised 6th degrees of the **F♯ minor** scale, which are characteristic of the melodic minor scale.
+- Therefore, the key is **F♯ minor**.
+
+---
+
+### Step 2: Determine the Time Signature
+#### Analyze the Rhythmic Groupings
+Each bar contains the following rhythmic values:
+1. **Bar 1**: f2 (quarter note tied to quarter note), c (eighth note), ABc (three eighth notes).
+   - Total: 2 (quarter) + 0.5 (eighth) + 1.5 (three eighths) = **4 beats**.
+2. **Bar 2**: d2 (quarter note tied to quarter note), B (eighth note), fed (three eighth notes).
+   - Total: 2 (quarter) + 0.5 (eighth) + 1.5 (three eighths) = **4 beats**.
+3. **Bar 3**: c (eighth note), ^d (eighth note), ^e (eighth note), g (eighth note), f (eighth note), e (eighth note).
+   - Total: 6 eighth notes = **4 beats** (grouped as 2 beats of 3 eighth notes each).
+4. **Bar 4**: f6 (dotted whole note).
+   - Total: 6 eighth notes = **4 beats**.
+
+#### Determine the Beat Grouping
+- Each bar consistently adds up to **4 beats**.
+- The smallest rhythmic unit is the **eighth note**, so the bottom number of the time signature is **8**.
+- The time signature is **4/8** (simple quadruple time).
+
+---
+
+### Step 3: Determine the Root/Quality Chord Symbols
+#### Bar 1: Notes = f, c, A, B, c
+- Strong beats: **f** (beat 1), **A** (beat 3).
+- Weak beats: **c, B, c**.
+- Chord tones: **F, A, C** form an **F major** triad.
+- Non-chord tone: **B** (passing tone).
+- **Chord Symbol**: **F major (F)**.
+
+#### Bar 2: Notes = d, B, f, e, d
+- Strong beats: **d** (beat 1), **f** (beat 3).
+- Weak beats: **B, e, d**.
+- Chord tones: **D, F, B** form a **B diminished** triad.
+- Non-chord tone: **e** (passing tone).
+- **Chord Symbol**: **B diminished (B°)**.
+
+#### Bar 3: Notes = c, ^d, ^e, g, f, e
+- Strong beats: **c** (beat 1), **g** (beat 3).
+- Weak beats: **^d, ^e, f, e**.
+- Chord tones: **C, E♯ (enharmonic F), G** form a **C augmented** triad.
+- Non-chord tones: **^d, f** (passing tones).
+- **Chord Symbol**: **C augmented (C⁺)**.
+
+#### Bar 4: Notes = f
+- The only note is **f**, sustained for the entire bar.
+- This implies an **F major** chord.
+- **Chord Symbol**: **F major (F)**.
+
+---
+
+### Summary
+- **Key**: F♯ minor
+- **Time Signature**: 4/8
+- **Chord Symbols**:
+  - Bar 1: **F**
+  - Bar 2: **B°**
+  - Bar 3: **C⁺**
+  - Bar 4: **F**
+
+The piece is in **F♯ minor** and written in **4/8 time**. The harmonic progression moves from **F major** to **B diminished**, then to **C augmented**, and resolves back to **F major**.

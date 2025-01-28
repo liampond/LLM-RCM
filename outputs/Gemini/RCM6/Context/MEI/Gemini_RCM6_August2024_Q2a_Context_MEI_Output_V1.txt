@@ -1,0 +1,58 @@
+**Measure 1:**
+
+* **Time Signature:** 4/4
+* **Beat Pattern:** S-w-M-w
+* **Given:** Dotted half note (beats 1-3), Sixteenth note (beat 4)
+* **Solution:** No rests needed. The dotted half note and sixteenth note fill the entire measure.
+
+**Measure 2:**
+
+* **Time Signature:** 4/4
+* **Beat Pattern:** S-w-M-w
+* **Given:** Triplet of eighth notes (beat 1), Quarter rest (beats 2-3), Sixteenth rest (start of beat 4)
+* **Solution:** Add a dotted eighth rest to complete beat 4.
+
+**Measure 3:**
+
+* **Time Signature:** 6/4
+* **Beat Pattern:** S-w-w-M-w-w
+* **Given:** Sixteenth rest, dotted eighth note, quarter rest, dotted half note.
+* **Solution:** No rests needed.  The given notes and rests fill the entire measure.
+
+**Measure 4:**
+
+* **Time Signature:** 6/4
+* **Beat Pattern:** S-w-w-M-w-w
+* **Given:** Quarter rest, eighth note, eighth note, quarter rest, half note.
+* **Solution:** No rests needed. The given notes and rests fill the entire measure.
+
+**Measure 5:**
+
+* **Time Signature:** 9/8
+* **Beat Pattern:** S-w-w-M-w-w-M-w-w
+* **Given:** Sixteenth note, eighth note, sixteenth note, quarter rest.
+* **Solution:** Add a dotted half rest to complete the measure.
+
+**Measure 6:**
+
+* **Time Signature:** 9/8
+* **Beat Pattern:** S-w-w-M-w-w-M-w-w
+* **Given:** Sixteenth note, quarter rest, eighth note, sixteenth note, sixteenth note, sixteenth note, eighth note, eighth note.
+* **Solution:** No rests needed. The given notes and rests fill the entire measure.
+
+**Measure 7:**
+
+* **Time Signature:** 3/4
+* **Beat Pattern:** S-w-w
+* **Given:** Quarter rest.
+* **Solution:** Add a half rest to complete the measure.
+
+**Measure 8:**
+
+* **Time Signature:** 3/4
+* **Beat Pattern:** S-w-w
+* **Given:** Dotted eighth note, quarter rest.
+* **Solution:** Add an eighth rest to complete the measure.
+
+
+**Summary:**  This exercise focuses on completing measures with the correct combination of rests, given a starting set of notes and/or rests.  It reinforces understanding of time signatures, beat patterns (simple and compound), and the rules for combining rests within a measure.  The x-notes were replaced with rests of appropriate durations to complete each measure according to the given time signature and pre-existing rhythmic content.

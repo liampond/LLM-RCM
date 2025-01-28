@@ -1,0 +1,8 @@
+* **Measure 1:**  The dotted quarter note accounts for 3 eighth notes.  A quarter rest is needed to complete the bar.
+* **Measure 2:** The triplet accounts for 2 eighth notes. A half rest is needed.
+* **Measure 3:** The sixteenth and dotted eighth account for 3 eighth notes.  A dotted quarter rest is needed.
+* **Measure 4:** The eighth rest and two eighth notes account for 3 eighth notes. A dotted quarter rest is needed.
+* **Measure 5:** The sixteenth, eighth, and sixteenth notes account for a half note (or 3 eighth notes). A dotted quarter rest is needed.
+* **Measure 6:** The sixteenth note and quarter rest account for 5 sixteenth notes. A series of rests totaling 7 sixteenth notes are needed (e.g., an eighth rest, a sixteenth rest, and an eighth rest).
+* **Measure 7:** In 3/4 time, two quarter rests are needed.
+* **Measure 8:** The dotted sixteenth note accounts for 1 and a half sixteenth notes. A quarter rest and a sixteenth rest are needed.

@@ -1,0 +1,54 @@
+### Step 1: Determine the Key of the Piece
+
+#### 1. Check the Key Signature
+The `<keySig>` element in the MEI file specifies `sig="1s"`, indicating one sharp in the key signature. Referring to the key signature table:
+- 1 sharp corresponds to **G Major** or **E Minor**.
+
+#### 2. Determine if the Key is Major or Minor
+To distinguish between G Major and E Minor, we look for the presence of a raised seventh degree (D♯) in the melody, which would indicate E Minor. Examining the notes:
+- Measure 0: Contains a D5.
+- Measure 1: Contains G5, B5, F♯5, and D5, but no D♯.
+- Measure 2: Contains E5, C5, G4, and B4, but no D♯.
+
+There is no raised seventh (D♯) present in the melody, so the key is **G Major**.
+
+#### 3. Look for Other Clues
+The melodic content emphasizes G, B, and D (the tonic triad of G Major), further supporting the conclusion that the key is **G Major**.
+
+### Step 2: Determine the Time Signature
+
+#### Step 1: Identify the Beat Groupings
+We analyze the rhythmic groupings in each measure:
+
+- **Measure 0**:
+  - Contains a single note: D5 with a duration of 16th note (`dur="16"`). This suggests a pickup measure (anacrusis).
+
+- **Measure 1**:
+  - Contains four beams, each grouping three 16th notes:
+    - Beam 1: G5, B5, F♯5 (total = 3 × 16th notes = 0.75 beats).
+    - Beam 2: G5, B5, D5 (total = 3 × 16th notes = 0.75 beats).
+    - Beam 3: G5, B5, F♯5 (total = 3 × 16th notes = 0.75 beats).
+    - Beam 4: G5, B5, D5 (total = 3 × 16th notes = 0.75 beats).
+  - Total rhythmic value = 4 × 0.75 = 3 beats.
+
+- **Measure 2**:
+  - Contains four beams and one standalone note:
+    - Beam 1: E5, C5, G4 (total = 3 × 16th notes = 0.75 beats).
+    - Beam 2: G5, C5 (total = 8th note + 16th note = 0.5 + 0.25 = 0.75 beats).
+    - Beam 3: D5, B4, G4 (total = 3 × 16th notes = 0.75 beats).
+    - Standalone note: G5 (total = 8th note = 0.5 beats).
+  - Total rhythmic value = 0.75 + 0.75 + 0.75 + 0.5 = 3 beats.
+
+#### Step 2: Check the Total Value of the Beam Groupings
+- Each beam grouping equals 0.75 beats, which is consistent with **compound time** (each beat is divided into three smaller beats).
+
+#### Step 3: Count the Total Beats in the Measure
+- Measure 1 and Measure 2 each contain **3 beats** (each beat = 0.75 beats × 3 = 1 beat).
+
+#### Step 4: Write the Time Signature
+- The piece is in **compound time** with 3 beats per measure, and each beat is a dotted quarter note (equivalent to three 16th notes).
+- The time signature is **9/8**.
+
+### Final Answer:
+- **Key**: G Major
+- **Time Signature**: 9/8

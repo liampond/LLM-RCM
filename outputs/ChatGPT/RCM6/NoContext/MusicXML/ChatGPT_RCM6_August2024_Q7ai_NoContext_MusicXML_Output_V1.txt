@@ -1,0 +1,9 @@
+### Key of the Melody:
+The key signature indicates **one sharp**, which corresponds to either **G major** or **E minor**. Based on the melodic content, particularly the frequent use of **G**, **B**, and **D** (the tonic triad of G major), the melody is in **G major**.
+
+---
+
+### Time Signature of the Melody:
+The time signature is hidden, so we must infer it from the rhythmic structure. Each measure contains **16 sixteenth-note durations** (e.g., 16 sixteenth notes or equivalent combinations like eighth notes and sixteenth notes). This suggests a **4/4 (common time)** time signature, as 16 sixteenth notes equal 4 beats in 4/4 time. 
+
+Thus, the time signature is **4/4**.
