@@ -26,6 +26,3 @@ EXTENSION_MAP = {
     "HumDrum": ".krn",
     "ABC": ".abc"
 }
-
-# List of questions without encoded files
-QUESTIONS_WITHOUT_ENCODED_FILES = ["Q3a", "Q3b", "Q3c", "Q3d", "Q3e", "Q5", "Q9"]

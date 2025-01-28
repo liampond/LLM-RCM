@@ -22,6 +22,10 @@ def chatgpt_build_conversation(exam, context, datatype, question, examdate):
     system_prompt_path = os.path.join(base_prompt_path, all_prompts, "AllPromptsSystem.txt")
     system_prompt = load_prompt(system_prompt_path)
 
+    # Build datatype-specific prompt path
+    datatype_prompt_path = os.path.join(base_prompt_path, all_prompts, f"AllPromptsUser_{datatype}.txt")
+    datatype_prompt = load_prompt(datatype_prompt_path)
+
     # Build question prompt path
     question_prompt_path = os.path.join("prompts", exam, context, f"{exam}_{examdate}_{question}_{context}Prompt.txt")
     question_prompt = load_prompt(question_prompt_path)
@@ -30,13 +34,10 @@ def chatgpt_build_conversation(exam, context, datatype, question, examdate):
     if question in QUESTIONS_WITHOUT_ENCODED_FILES:
         conversation = [
             {"role": "system", "content": system_prompt},
+            {"role": "user", "content": datatype_prompt},
             {"role": "user", "content": question_prompt}
         ]
     else:
-        # Build datatype-specific prompt path
-        datatype_prompt_path = os.path.join(base_prompt_path, all_prompts, f"AllPromptsUser_{datatype}.txt")
-        datatype_prompt = load_prompt(datatype_prompt_path)
-
         # Build encoded file path
         file_extension = settings.EXTENSION_MAP[datatype]
         encoded_file_path = os.path.join(encoded_files, exam, datatype, f"{exam}_{examdate}_{question}{file_extension}")
@@ -65,17 +66,18 @@ def deepseek_build_conversation(exam, context, datatype, question, examdate):
     question_prompt_path = os.path.join("prompts", exam, context, f"{exam}_{examdate}_{question}_{context}Prompt.txt")
     question_prompt = load_prompt(question_prompt_path)
 
+    # Build datatype-specific prompt path
+    datatype_prompt_path = os.path.join(base_prompt_path, all_prompts, f"AllPromptsUser_{datatype}.txt")
+    datatype_prompt = load_prompt(datatype_prompt_path)
+    
     # If no encoded file is required
     if question in QUESTIONS_WITHOUT_ENCODED_FILES:
         conversation = [
             {"role": "system", "content": system_prompt},
+            {"role": "user", "content": datatype_prompt},
             {"role": "user", "content": question_prompt}
         ]
     else:
-        # Build datatype-specific prompt path
-        datatype_prompt_path = os.path.join(base_prompt_path, all_prompts, f"AllPromptsUser_{datatype}.txt")
-        datatype_prompt = load_prompt(datatype_prompt_path)
-
         # Build encoded file path
         file_extension = settings.EXTENSION_MAP[datatype]
         encoded_file_path = os.path.join(encoded_files, exam, datatype, f"{exam}_{examdate}_{question}{file_extension}")
@@ -98,15 +100,18 @@ def gemini_build_conversation(exam, context, datatype, question, examdate):
     question_prompt_path = os.path.join("prompts", exam, context, f"{exam}_{examdate}_{question}_{context}Prompt.txt")
     question_prompt = load_prompt(question_prompt_path)
 
-    conversation = question_prompt
-    history = ""
+    # Build datatype-specific prompt path
+    datatype_prompt_path = os.path.join(base_prompt_path, all_prompts, f"AllPromptsUser_{datatype}.txt")
+    datatype_prompt = load_prompt(datatype_prompt_path)
+
+    conversation = f"{datatype_prompt} \n---\n {question_prompt}"
+    history = [
+        {"role": "user", "parts": datatype_prompt}
+    ]
 
     # If no encoded file is required
     if question not in QUESTIONS_WITHOUT_ENCODED_FILES:
-        # Build datatype-specific prompt path
-        datatype_prompt_path = os.path.join(base_prompt_path, all_prompts, f"AllPromptsUser_{datatype}.txt")
-        datatype_prompt = load_prompt(datatype_prompt_path)
-
+        
         # Build encoded file path
         file_extension = settings.EXTENSION_MAP[datatype]
         encoded_file_path = os.path.join(encoded_files, exam, datatype, f"{exam}_{examdate}_{question}{file_extension}")
@@ -130,16 +135,19 @@ def claude_build_conversation(exam, context, datatype, question, examdate):
     question_prompt_path = os.path.join("prompts", exam, context, f"{exam}_{examdate}_{question}_{context}Prompt.txt")
     question_prompt = load_prompt(question_prompt_path)
 
+    # Build datatype-specific prompt path
+    datatype_prompt_path = os.path.join(base_prompt_path, all_prompts, f"AllPromptsUser_{datatype}.txt")
+    datatype_prompt = load_prompt(datatype_prompt_path)
+
     # If no encoded file is required
     if question in QUESTIONS_WITHOUT_ENCODED_FILES:
+
+        content = f"{datatype_prompt} \n---\n {question_prompt}"
+
         conversation = [
-            {"role": "user", "content": question_prompt}
+            {"role": "user", "content": content}
         ]
     else:
-        # Build datatype-specific prompt path
-        datatype_prompt_path = os.path.join(base_prompt_path, all_prompts, f"AllPromptsUser_{datatype}.txt")
-        datatype_prompt = load_prompt(datatype_prompt_path)
-
         # Build encoded file path
         file_extension = settings.EXTENSION_MAP[datatype]
         encoded_file_path = os.path.join(encoded_files, exam, datatype, f"{exam}_{examdate}_{question}{file_extension}")
@@ -189,15 +197,16 @@ def main(exam, context, datatype, question, model, examdate):
     output_dir = os.path.join("outputs", model, exam, context, datatype)
     os.makedirs(output_dir, exist_ok=True)
 
-    output_filename = f"{model}_{exam}_{examdate}_{question}_{context}_{datatype}_Output.txt"
+    file_extension = settings.EXTENSION_MAP[datatype]
+    output_filename = f"{model}_{exam}_{examdate}_{question}_{context}_Output{file_extension}"
     output_path = os.path.join(output_dir, output_filename)
 
     save_response(output_path, response, model)
 
-    print(f"✅ {model} response for {question}, {model}, {exam}_{examdate}, {datatype}, {context} saved to {output_path}")
+    print(f"✅ {output_filename} saved to {output_path}")
 
 if __name__ == "__main__":
-    # Example Call: python main.py --exam RCM6 --context NoContext --datatype ABC --question Q3a --model ChatGPT --examdate August2024
+    # Example Call: python main.py --exam RCM6 --context NoContext --datatype HumDrum --question Q3a --model Gemini --examdate August2024
     parser = argparse.ArgumentParser(description="Run prompt generation and model API call.")
     parser.add_argument('--exam', type=str, required=True, help='Exam level (RCM5 or RCM6)')
     parser.add_argument('--context', type=str, required=True, help='Context (Context or NoContext)')
