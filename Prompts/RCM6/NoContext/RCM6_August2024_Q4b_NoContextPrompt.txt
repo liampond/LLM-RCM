@@ -1,1 +1,1 @@
-Transpose the melody in the score up to A flat major using the correct key signature. Be precise about the notes and the rhythms. Name the interval of transposition.
+The given melody is in the key of E major. Return a file in the specified format that transposes the given melody up to A flat major using the correct key signature. Name the interval of transposition.

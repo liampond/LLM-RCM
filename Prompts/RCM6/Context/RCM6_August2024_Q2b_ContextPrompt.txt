@@ -1,3 +1,7 @@
+Modify the file to add the hidden time signature. The time signature is explicitly hidden so you must infer its value from the rhythms of the notes.
+
+First, I will give you a step-by-step guide to help you understand how to do this question.
+
 How to Determine an Unknown Time Signature: A Step-by-Step Guide
 When you’re working with an unknown time signature, analyzing the rhythmic values and beat groupings is key. Follow these steps to determine the time signature:
 
@@ -170,4 +174,4 @@ Combine the top number (6 beats) with the bottom number (quarter note as the bea
 6/4
 —-
 
-Now, read the file provided above and determine the time signature for each of the measures provided. The time signature is explicitly hidden so you must infer its value from the rhythms of the notes.
+Now, Modify the file to add the hidden time signature. The time signature is explicitly hidden so you must infer its value from the rhythms of the notes.

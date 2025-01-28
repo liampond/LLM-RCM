@@ -1,3 +1,6 @@
+Each of the quarter notes with x-shaped noteheads in the file represents an unknown placeholder rhythm. Please modify the provided file to add the appropriate rests that would replace the placeholders and complete the bar according to the time signature.
+First, I will give you a guide to help you understand which rests to add.
+
 1. Understand the Time Signature
 Identify:
 The number of beats per measure.
@@ -160,4 +163,4 @@ One sixteenth rest for the first subdivision of beat 3.
 
 ----
 
-Each of the quarter notes with x-shaped noteheads represents an unknown placeholder rhythm. Please provide the appropriate rests to replace them and complete the bar according to the time signature. Add a summary at the end.
+Each of the quarter notes with x-shaped noteheads in the file represents an unknown placeholder rhythm. Please modify the provided file to add the appropriate rests that would replace the placeholders and complete the bar according to the time signature.

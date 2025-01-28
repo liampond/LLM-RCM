@@ -1,6 +1,6 @@
-Return the notes present in the following chords using a key signature and any necessary accidentals for each. Only use accidentals when they are not covered by the key signature. Return the accidentals in the key signature in the order that they would be printed in a score.
--The mediant triad of E flat major in root position
--The submediant triad of A sharp minor, harmonic form, in second inversion
--The dominant triad of C sharp minor, harmonic form, in first inversion
--The subdominant triad of G major, in second inversion
--The dominant 7th chord of B flat minor, harmonic form, in root position
+Return a file in the specified format that contains the following chords in the bass clef using a key signautre and any necessary accidentals for each.
+a. the mediant triad of E flat major in root position
+b. the submediant triad of A sharp minor, harmonic form, in second inversion
+c. the dominant triad of C sharp minor, harmonic form, in first inversion
+d. the subdominant triad of G major, in second inversion
+e. the dominant 7th chord of B flat minor, harmonic form, in root position

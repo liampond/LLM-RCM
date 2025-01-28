@@ -1,1 +1,1 @@
-Please determine the time signature for each of the measures. The time signature is explicitly hidden so you must infer its value from the rhythms of the notes.
+Modify the file to add the hidden time signature. The time signature is explicitly hidden so you must infer its value from the rhythms of the notes.

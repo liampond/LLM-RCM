@@ -1,4 +1,6 @@
-I am going to ask you to determine the intervals between the notes in each measure of the file. However, I will first provide a step-by-step guide on how to determine the intervals.
+I am going to ask you to modify the notes in the file based on provided intervals. All new notes should occur at the same time as the given ones.
+
+However, I will first provide a step-by-step guide on how to determine what the new notes should be based on the intervals.
 
 Step 1: Identify the Lower Note and Interval
 Start by noting the lower note and the specified interval. For example:
@@ -130,7 +132,7 @@ Major scale of G: A is a Major 2nd above G.
 Adjust for Augmented quality: Raise A to A♯.
 Final answer: Augmented 2nd.
 —-
-Now, read the file and return the notes that would be:
+Now, read the file and return a new file. All notes should occur at the same time as the original ones. Add the notes that would be:
 -A perfect 4th above the first note
 -A major 3rd above the second note
 -A diminished 8ve above the third note

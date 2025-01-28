@@ -1,1 +1,1 @@
-Transpose the melody in the score up a minor sixth and state the correct key signature. Be precise about the notes and the rhythms. Name the new key.
+The given melody is in the key of E major. Return a file in the specified format that transposes the given melody up a minor sixth using the correct key signature. Name the new key.
