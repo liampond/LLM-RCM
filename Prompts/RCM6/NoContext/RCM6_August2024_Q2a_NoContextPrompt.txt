@@ -1,1 +1,1 @@
-Each of the quarter notes with x-shaped noteheads represents an unknown placeholder rhythm. Please provide the appropriate rests to replace them and complete the bar according to the time signature.
+Each of the quarter notes with x-shaped noteheads represents an unknown placeholder rhythm. Please provide the appropriate rests to replace them and complete the bar according to the time signature. Add a summary at the end.

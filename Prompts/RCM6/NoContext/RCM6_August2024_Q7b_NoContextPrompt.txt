@@ -5,3 +5,5 @@ Please return the following regarding the melody provided:
 -Write the root/quality chord symbol implied by the melody in bar 2
 -Write the root/quality chord symbol implied by the melody in bar 3
 -Write the root/quality chord symbol implied by the melody in bar 4
+
+Add a summary at the end.

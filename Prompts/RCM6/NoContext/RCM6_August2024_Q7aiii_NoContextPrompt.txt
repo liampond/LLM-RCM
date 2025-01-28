@@ -1,3 +1,5 @@
 Please return the following regarding the melody provided:
 -Name the key of the melody
 -Return the time signature of the melody. The time signature is explicitly hidden so you must infer its value from the rhythms of the notes.
+
+Add a summary at the end.

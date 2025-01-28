@@ -209,3 +209,5 @@ Combine the top number (6 beats) with the bottom number (quarter note as the bea
 —-
 
 Now, read the file provided above and determine the key and the time signature by following the two guides provided above step by step.  The time signature is explicitly hidden so you must infer its value from the rhythms of the notes.
+
+Add a summary at the end.

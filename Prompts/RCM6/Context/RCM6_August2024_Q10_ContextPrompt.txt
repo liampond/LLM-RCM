@@ -8,6 +8,7 @@ For the piece above:
 -What is the functional chord symbol for the chord outlined by the first three eighth notes of bar 5 (in both hands)? Use guide 5.
 -What chord is outlined by the last three eighth notes of bar 7 (in both hands)? Use guide 3.
 -What is the interval between the second eighth note in the left hand of bar 8 and the third eighth note in the left hand of bar 8? Use guide 4.
+-What kind of rest should go at the end of bar 8 in the right hand, after the F to complete the bar? Use guide 2.
 -Is the given passage an example of a parallel period or a contrasting period? Use guide 6.
 -Explain the meaning of allegretto vivace
 
@@ -545,5 +546,8 @@ For the piece above:
 -What is the functional chord symbol for the chord outlined by the first three eighth notes of bar 5 (in both hands)? Use guide 5.
 -What chord is outlined by the last three eighth notes of bar 7 (in both hands)? Use guide 3.
 -What is the interval between the second eighth note in the left hand of bar 8 and the third eighth note in the left hand of bar 8? Use guide 4.
+-What kind of rest should go at the end of bar 8 in the right hand, after the F to complete the bar? Use guide 2.
 -Is the given passage an example of a parallel period or a contrasting period? Use guide 6.
 -Explain the meaning of allegretto vivace
+
+Add a summary at the end.
