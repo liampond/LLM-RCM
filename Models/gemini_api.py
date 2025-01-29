@@ -21,7 +21,7 @@ def gemini_request(conversation, history, api_key):
         candidate_count=NUM_RESPONSES
         )  
     )
-
+    print(conversation)
     output = response.text
     
     return output
