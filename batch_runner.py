@@ -3,7 +3,7 @@ import argparse
 
 # List of all questions to iterate through
 RCM5_QUESTIONS = [] # TODO
-RCM6_QUESTIONS = ["Q6i", "Q6ii", "Q7ai", "Q7aii", "Q7aiii", "Q7b", "Q10"]
+RCM6_QUESTIONS = ["Q10"]
 
 #ALL_QUESTIONS = ["Q1a", "Q1b", "Q2a", "Q2b", "Q3a", "Q3b", "Q3c", "Q3d", "Q3e", "Q4a", "Q4b", "Q5",
 #              "Q6i", "Q6ii", "Q7ai", "Q7aii", "Q7aiii", "Q7b", "Q9a", "Q9b", "Q10"]
