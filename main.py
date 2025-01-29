@@ -11,9 +11,11 @@ from config import settings
 
 # Questions without encoded files
 QUESTIONS_WITHOUT_ENCODED_FILES = ["Q3a", "Q3b", "Q3c", "Q3d", "Q3e", "Q5", "Q6", "Q9a", "Q9b"]
+GUIDE_QUESTIONS = ["Q1b", "Q2a", "Q2b", "Q3a", "Q3b", "Q3c", "Q3d", "Q3e", "Q5", "Q4a", "Q4b"]
 
 # Prompt Pathing
 base_prompt_path = "prompts"
+guide_path = "guides"
 all_prompts = "AllPrompts"
 encoded_files = "EncodedFiles"
 
@@ -27,7 +29,10 @@ def chatgpt_build_conversation(exam, context, datatype, question, examdate):
     datatype_prompt = load_prompt(datatype_prompt_path)
 
     # Build question prompt path
-    question_prompt_path = os.path.join("prompts", exam, context, f"{exam}_{examdate}_{question}_{context}Prompt.txt")
+    if question in GUIDE_QUESTIONS and context == "Context":
+        question_prompt_path = os.path.join(guide_path, exam, datatype, f"{datatype}_{exam}_{examdate}_{question}_{context}Prompt.txt")
+    else:
+        question_prompt_path = os.path.join(base_prompt_path, exam, context, f"{exam}_{examdate}_{question}_{context}Prompt.txt")
     question_prompt = load_prompt(question_prompt_path)
 
     # If no encoded file is required

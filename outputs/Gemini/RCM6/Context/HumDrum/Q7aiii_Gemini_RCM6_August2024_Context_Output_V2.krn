@@ -1,0 +1,31 @@
+**Key Determination:**
+
+1. **Key Signature:** The key signature is `*k[f#]`, indicating one sharp.  According to the table, one sharp corresponds to G major or E minor.
+
+2. **Major or Minor:** The music contains a d# (specifically, a d#X which is a double sharp). Since the key signature already has an f#, the d# is not part of the key signature and is an accidental.  A d# (enharmonically equivalent to an e) is the leading tone of E minor. This strongly suggests E minor.
+
+**Time Signature Determination:**
+
+1. **Identify Beat Groupings:** The music contains the following rhythmic groupings:
+
+* Group 1: 16r, 16gLL, 16a, 16b, 16cc, 16aJJ
+* Group 2: 16bLL, 16g, 16f#, 16e, 16d#X, 16aJJ
+* Group 3: 32gLLL, 32f#J, 16eJ, 8eeJ, 8r
+* Group 4: 32dd#XLLL, 32cc#XJ, 16bJ, 8aaJ, 8r
+
+2. **Check Total Value and Bottom Number:**
+
+* Group 1: Six sixteenth notes total 0.25 * 6 = 1.5 or three eighth notes.
+* Group 2: Six sixteenth notes total 0.25 * 6 = 1.5 or three eighth notes.
+* Group 3: Three thirty-second notes (equal to a dotted sixteenth note = 3/32), a thirty-second note, a sixteenth note, two eighth notes, and an eighth rest.  In total, this is 3/32 + 1/32 + 2/32 + 8/32 + 4/32 = 18/32 = 9/16 = 1.5 or three eighth notes.
+* Group 4: Three thirty-second notes, a thirty-second note, a sixteenth note, two eighth notes, and an eighth rest. In total, this is 3/32 + 1/32 + 2/32 + 8/32 + 4/32 = 18/32 = 9/16 = 1.5 or three eighth notes.
+
+Since the total value of each group is 1.5 or three eighth notes, this suggests a compound meter. The smallest note value within these groups is a sixteenth note (1/16), and each group contains the equivalent of three eighth notes.  Therefore, the bottom number of the time signature will be 8, representing an eighth note as one beat.
+
+3. **Count Total Beats:** Each group equals three eighth notes. There are four such groups, totaling 3 * 4 = 12 eighth notes per measure.
+
+4. **Write Time Signature:** The time signature is 12/8.
+
+**Summary:**
+
+The key of the given piece is E minor, and the time signature is 12/8.

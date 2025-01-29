@@ -100,37 +100,32 @@ Final answer: A𝄫.
 —-
 And one last example:
 
-Example: Determine the Interval Between G and A♯
+Example: Determine the Upper note for an augmented 2nd above G
 
 Step 1: Identify the Lower Note and Interval
 Lower note: G
-Specified interval: Interval between G and A♯
+Specified interval: Augmented 2nd
 
 Step 2: Determine the Interval Number
-Count the letter names, starting with G as 1:
-G (1), A (2).
-The interval number is a second.
+Count the letter names, starting with G as 1 and counting up to the 2nd:
+G (1), A (2)
+The letter name of the upper note is A.
 
 Step 3: Use the Major Scale of the Lower Note
 The G major scale is:
-G, A, B, C, D, E, F♯.
-In the G major scale, the note A is the 2nd note, forming a Major 2nd above G.
+G, A, B, C, D, E, F♯, G
+In the G major scale, the 2nd note is A, which forms a Major 2nd above G.
 
 Step 4: Adjust the Quality of the Interval
-A♯ is one semitone higher than A.
-Raising a Major 2nd by one semitone makes the interval an Augmented 2nd.
+An augmented 2nd is one semitone larger than a Major 2nd
+Raise A by one semitone: A♯
 
 Step 5: Write the Upper Note
-The upper note is A♯, and the interval is an Augmented 2nd.
+
+The upper note is A♯
 
 Final Answer
-The interval between G and A♯ is an Augmented 2nd.
-
-Recap of Steps
-Interval number: 2nd → A.
-Major scale of G: A is a Major 2nd above G.
-Adjust for Augmented quality: Raise A to A♯.
-Final answer: Augmented 2nd.
+The note that is an augmented 2hd above G is A♯.
 —-
 Now, read the file and return a new file. All notes should occur at the same time as the original ones. Add the notes that would be:
 -A perfect 4th above the first note

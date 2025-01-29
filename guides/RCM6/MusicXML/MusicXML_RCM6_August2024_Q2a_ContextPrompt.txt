@@ -80,6 +80,7 @@ Beats 7–9: Dotted eighth rest.
 Beats 10–11: Eighth rest.
 Beat 12: Sixteenth note.
 —
+6/8 Time
 Provided Notes:
 Three triplet eighth notes (beat 1).
 Blank space (beats 2–4 and the first half of beat 5).

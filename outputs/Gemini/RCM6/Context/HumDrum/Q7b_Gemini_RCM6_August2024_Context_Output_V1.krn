@@ -1,0 +1,26 @@
+**Key and Time Signature Analysis:**
+
+1. **Key Signature:** The key signature is *k[f#c#g#], indicating three sharps.  According to the table, this suggests either A major or F# minor.
+
+2. **Major or Minor:**  There are no accidentals present that suggest a raised 7th degree in the melody. This points towards A major.
+
+3. **Time Signature:** Each bar consistently groups notes into a total duration equivalent to two dotted quarter notes.  A dotted quarter note has a duration of 1.5 beats (where a quarter note equals one beat). Two dotted quarter notes equal 3 beats. Since the smallest note value used to express these beats is an eighth note (0.5), the bottom number of the time signature will be 8. The top number will be 6 (representing the six eighth notes that make up the bar). Therefore, the time signature is 6/8.
+
+**Chord Analysis:**
+
+* **Bar 1:** The notes F#, C#, and A are emphasized on the strong beats. These form an A major chord. *Chord Symbol: A*
+
+* **Bar 2:** The notes D, B, and F# are emphasized. These form a D major chord. *Chord Symbol: D*
+
+* **Bar 3:** The notes C#, E#, and G# are emphasized. These form a C# minor chord. *Chord Symbol: C#m*
+
+* **Bar 4:** The note F# is sustained for a whole bar.  While not a triad on its own, in the context of the A major key and the preceding chords, it strongly implies an F# major chord (the dominant chord in A major leading to a likely resolution back to A). *Chord Symbol: F#*
+
+**Summary:**
+
+* Key: A major
+* Time Signature: 6/8
+* Bar 1 Chord: A
+* Bar 2 Chord: D
+* Bar 3 Chord: C#m
+* Bar 4 Chord: F#

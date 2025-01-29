@@ -1,1 +1,14 @@
+I am going to ask you to write a scale in the format specified above. To help you understand, I will first give you three other examples of scales using a key signature and any necessary accidentals. Using whole notes.
+
+Note that the harmonic minor is the natural minor but with a raised 7th (leading tone). The melodic minor raises the 6th and 7th on the way up and is the natural minor on the way down. Remember to add necessary accidentals for these notes.
+Be careful that the notes are in the correct octave, there should be no leaps.
+The relative minor of a major scale is the scale with the same key signature. The tonic (starting note) will be three semitones lower than that of the major scale.
+
+Example 1: The relative minor of B major in the treble clef, melodic form.
+
+Example 2: G flat major in the bass clef.
+
+Example 3: D harmonic minor in the bass clef.
+
+----
 Please return the notes present in an ascending and descending scale that is the relative minor, melodic form, of B major in the treble clef using a key signature and any necessary accidentals.

@@ -1,2 +1,18 @@
+I am going to ask you to transpose the melody given above up a minor sixth with the correct key signature.
+
+First, here are two correct examples of how to do this.
+
+Original:
+
+Transposed up a perfect fourth:
+
+----
+Example 2
+
+Original:
+
+Transposed down a major third:
+
+----
 Transpose the melody in the score up a minor sixth and state the correct key signature. Be precise about the notes and the rhythms. Name the new key.
 Give the entire melody, do not leave out notes. The file is readable, please parse it.
