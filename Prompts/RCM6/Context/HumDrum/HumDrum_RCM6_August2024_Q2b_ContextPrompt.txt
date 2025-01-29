@@ -90,6 +90,26 @@ Combine the top number (total number of 16ths in the measure) with the bottom nu
 
 Final Answer
 The time signature for the rhythm provided is 9/16, indicating a compound meter with three beats per measure, each divided into three 16th notes.
+
+!!!OTL: RCM6_December2023_Q1
+**kern
+*clefG2
+*k[]
+*M9/16
+=1
+16fLL
+16.f
+32fJJk
+8fL
+16fJk
+16fLL
+16f
+16fJJ
+==
+*-
+
+
+
 —--
 Example 2:
 
@@ -130,6 +150,23 @@ Combine the top number (2 beats) with the bottom number (4, representing a quart
 
 Final Answer
 The time signature for the rhythm provided is 2/4, indicating 2 beats per measure, with each beat represented by a quarter note.
+
+!!!OTL: RCM6_December2023_Q1
+**kern
+*clefG2
+*k[]
+*M2/4
+=1
+16.fLL
+32fJK
+8fJ
+8.fL
+16fJk
+==
+*-
+
+
+
 —--
 Last example:
 
@@ -172,6 +209,27 @@ Since the measure contains 6 beats, the top number of the time signature is 6.
 Step 5: Write the Time Signature
 Combine the top number (6 beats) with the bottom number (quarter note as the beat unit). The time signature is:
 6/4
+
+!!!OTL: RCM6_December2023_Q1
+**kern
+*clefG2
+*k[]
+*M6/4
+=1
+4f
+4.f
+8f
+16fLL
+16fJ
+8fJ
+4f
+8fL
+8fJ
+==
+*-
+
+
+
 —-
 
 Now, Modify the file to add the hidden time signature. The time signature is explicitly hidden so you must infer its value from the rhythms of the notes.

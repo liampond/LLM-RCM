@@ -1,4 +1,5 @@
 Transpose the melody in the score up to A flat major using the correct key signature. Be precise about the notes and the rhythms. Name the interval of transposition.
+Return a the new transposed music in the specified format.
 
 To determine the interval of transposition, you must find the interval between the original key and the new key. For example, if the original key is C, and you are transposing to F, you need to find the interval from C to F.
 Here is a guide on how to find an interval:
@@ -140,8 +141,372 @@ Step 4: Combine the Number and Quality
 The interval is a Sixth (from Step 2).
 The quality is Minor (from Step 3).
 Final Answer: The interval between G♯ and E is a Minor sixth.
-—
+—------
+
+Here are some examples like the test question:
+
+Example 1: Transpose the given melody up to G major using the correct key signature. Name the interval of transposition.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Guide1_RCM6_August2024_Q4a</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-29T14:59:17" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">Guide1.1_RCM6_August2024_Q4a</rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" keysig="2s" meter.sym="common">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="G" line="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <measure xml:id="m15p0j5q" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <note xml:id="n1y7mpcb" dur="2" pname="f" oct="4">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note xml:id="nujt95z" dots="1" dur="4" pname="a" oct="4" />
+                           <note xml:id="n1qoaf13" dur="8" pname="a" oct="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mmblyj7" n="2">
+                     <staff xml:id="m2s1" n="1">
+                        <layer xml:id="m2s1l1" n="1">
+                           <note xml:id="n1v3lsgq" dots="1" dur="2" pname="d" oct="4" />
+                           <note xml:id="n1atlxrk" dur="4" pname="e" oct="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mcno9up" n="3">
+                     <staff xml:id="m3s1" n="1">
+                        <layer xml:id="m3s1l1" n="1">
+                           <note xml:id="n1v4of7m" dur="4" pname="f" oct="4">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note xml:id="n1a4eupe" dur="4" pname="g" oct="4" />
+                           <note xml:id="n1kcx783" dur="4" pname="a" oct="4" />
+                           <note xml:id="njkiynn" dur="4" pname="b" oct="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mvt7ygt" right="end" n="4">
+                     <staff xml:id="m4s1" n="1">
+                        <layer xml:id="m4s1l1" n="1">
+                           <note xml:id="nk5pnxf" dur="1" pname="e" oct="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
+
+
+
+ will become:
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Guide1_RCM6_August2024_Q4a</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-29T14:59:45" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">Guide1.2_RCM6_August2024_Q4a</rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" keysig="1s" meter.sym="common">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="G" line="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <measure xml:id="m1yeuno3" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <note xml:id="nhxr2po" dur="2" pname="b" oct="4" />
+                           <note xml:id="n13a41ff" dots="1" dur="4" pname="d" oct="5" />
+                           <note xml:id="n1m7dbwo" dur="8" pname="d" oct="5" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m6xnbia" n="2">
+                     <staff xml:id="m2s1" n="1">
+                        <layer xml:id="m2s1l1" n="1">
+                           <note xml:id="n15pah9j" dots="1" dur="2" pname="g" oct="4" />
+                           <note xml:id="nqvf4vf" dur="4" pname="a" oct="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1h2owbw" n="3">
+                     <staff xml:id="m3s1" n="1">
+                        <layer xml:id="m3s1l1" n="1">
+                           <note xml:id="n1paup4w" dur="4" pname="b" oct="4" />
+                           <note xml:id="n1tpkoxv" dur="4" pname="c" oct="5" />
+                           <note xml:id="n1peu5sf" dur="4" pname="d" oct="5" />
+                           <note xml:id="n54wp1r" dur="4" pname="e" oct="5" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m16sc1yo" right="end" n="4">
+                     <staff xml:id="m4s1" n="1">
+                        <layer xml:id="m4s1l1" n="1">
+                           <note xml:id="nlp4v81" dur="1" pname="a" oct="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
+
+
+
+The interval of transposition is up a perfect fourth.
+
+---
+
+Example 2: Transpose the given melody down to C major using the correct key signature. Name the interval of transposition.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Guide1_RCM6_August2024_Q4a</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-29T15:01:02" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">Guide2.1_RCM6_August2024_Q4a</rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" keysig="3f" meter.count="6" meter.unit="8">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="F" line="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <measure xml:id="mcykhcl" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <note xml:id="nasdtcr" dur="4" pname="b" oct="3">
+                              <accid accid.ges="f" />
+                           </note>
+                           <note xml:id="no7yzih" dur="8" pname="c" oct="4" />
+                           <note xml:id="n8vlbmj" dur="4" pname="b" oct="3">
+                              <accid accid.ges="f" />
+                           </note>
+                           <note xml:id="n1ba7kou" dur="8" pname="g" oct="3" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m12h9tkn" n="2">
+                     <staff xml:id="m2s1" n="1">
+                        <layer xml:id="m2s1l1" n="1">
+                           <beam>
+                              <note xml:id="n1ta9d3a" dur="8" pname="a" oct="3">
+                                 <accid accid.ges="f" />
+                              </note>
+                              <note xml:id="nqxur9n" dur="8" pname="g" oct="3" />
+                              <note xml:id="nxfclvp" dur="8" pname="f" oct="3" />
+                           </beam>
+                           <beam>
+                              <note xml:id="ncvr2fc" dur="8" pname="d" oct="3" />
+                              <note xml:id="nr7gv3x" dur="8" pname="c" oct="3" />
+                              <note xml:id="n12e5s4b" dur="8" pname="b" oct="2">
+                                 <accid accid.ges="f" />
+                              </note>
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mrzl9kz" n="3">
+                     <staff xml:id="m3s1" n="1">
+                        <layer xml:id="m3s1l1" n="1">
+                           <note xml:id="nkj9rq9" dur="4" pname="e" oct="3">
+                              <accid accid.ges="f" />
+                           </note>
+                           <note xml:id="n18a7jq0" dur="8" pname="f" oct="3" />
+                           <beam>
+                              <note xml:id="n9fupmo" dur="8" pname="g" oct="3" />
+                              <note xml:id="n3wox8r" dur="8" pname="e" oct="3">
+                                 <accid accid.ges="f" />
+                              </note>
+                              <note xml:id="n1pfo6k6" dur="8" pname="c" oct="4" />
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1ym2f3u" right="end" n="4">
+                     <staff xml:id="m4s1" n="1">
+                        <layer xml:id="m4s1l1" n="1">
+                           <note xml:id="n1st0aub" dots="1" dur="2" pname="b" oct="3">
+                              <accid accid.ges="f" />
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
+
+
+
+ will become:
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Guide1_RCM6_August2024_Q4a</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-29T15:01:19" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">Guide2.2_RCM6_August2024_Q4a</rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" meter.count="6" meter.unit="8">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="F" line="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <measure xml:id="m9kuabv" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <note xml:id="n1vgrnke" dur="4" pname="g" oct="3" />
+                           <note xml:id="nvlehtd" dur="8" pname="a" oct="3" />
+                           <note xml:id="n1as25yj" dur="4" pname="g" oct="3" />
+                           <note xml:id="nd065x5" dur="8" pname="e" oct="3" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mexsold" n="2">
+                     <staff xml:id="m2s1" n="1">
+                        <layer xml:id="m2s1l1" n="1">
+                           <beam>
+                              <note xml:id="n71nes5" dur="8" pname="f" oct="3" />
+                              <note xml:id="nn3jepx" dur="8" pname="e" oct="3" />
+                              <note xml:id="nzb9n9k" dur="8" pname="d" oct="3" />
+                           </beam>
+                           <beam>
+                              <note xml:id="n1w10cdk" dur="8" pname="b" oct="2" />
+                              <note xml:id="n1vwrdsi" dur="8" pname="a" oct="2" />
+                              <note xml:id="nm2m09x" dur="8" pname="g" oct="2" />
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m15876wk" n="3">
+                     <staff xml:id="m3s1" n="1">
+                        <layer xml:id="m3s1l1" n="1">
+                           <note xml:id="nrm4s9l" dur="4" pname="c" oct="3" />
+                           <note xml:id="n2rhyie" dur="8" pname="d" oct="3" />
+                           <beam>
+                              <note xml:id="n1jai0h5" dur="8" pname="e" oct="3" />
+                              <note xml:id="n1b3h5v1" dur="8" pname="c" oct="3" />
+                              <note xml:id="nz2emuw" dur="8" pname="a" oct="3" />
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mr507wi" right="end" n="4">
+                     <staff xml:id="m4s1" n="1">
+                        <layer xml:id="m4s1l1" n="1">
+                           <note xml:id="naglgua" dots="1" dur="2" pname="g" oct="3" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
+
+
+
+The interval of transposition is down a minor third.
+
+------
 
 In order to transpose the melody, you need to adjust all of the original notes by the interval of transposition.
 
-As a reminder, transpose the melody in the score up to A flat major using the correct key signature. Be precise about the notes and the rhythms. Name the interval of transposition.
+As a reminder, transpose the melody in the score up to A flat major using the correct key signature. Be precise about the notes and the rhythms. Name the interval of transposition. Return a new transposed score in the specified format.

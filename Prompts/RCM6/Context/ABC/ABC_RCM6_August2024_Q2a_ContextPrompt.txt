@@ -79,6 +79,16 @@ Beat 6: Sixteenth rest.
 Beats 7–9: Dotted eighth rest.
 Beats 10–11: Eighth rest.
 Beat 12: Sixteenth note.
+
+X:1
+T:RCM6_December2023_Q1
+L:1/16
+M:12/16
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ F3 F z z z3 z2 F |] %1
 —
 Provided Notes:
 Three triplet eighth notes (beat 1).
@@ -113,6 +123,16 @@ Final Rest Placement:
 Quarter rest for beat 2.
 Quarter rest for beat 3.
 Dotted quarter rest for beat 4 and the first half of beat 5.
+
+X:1
+T:RCM6_December2023_Q1
+L:1/8
+M:6/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ (3FFF z2 z2 z3 F3 |] %1
 —
 One last example:
 Question Summary:
@@ -160,6 +180,16 @@ Total = 3 beats, fulfilling the 3/4 time signature.
 Final Rest Placement:
 Half rest for beats 1–2.
 One sixteenth rest for the first subdivision of beat 3.
+
+X:1
+T:RCM6_December2023_Q1
+L:1/16
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z8 z FF2 |] %1
 
 ----
 

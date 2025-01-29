@@ -1,3 +1,95 @@
 Write the following scale in the format specified above, ascending and descending using a key signature and any necessary accidentals. Use whole notes.
 
-D flat major in the bass clef
+D flat major in the bass clef.
+
+Please write the scale in the specified format.
+
+Make sure there are no leaps in the music, each note should only be a step away from the previous and subsequent notes.
+Remember that a harmonic minor scale is the same as the natural minor, but with a raised 7th. The melodic minor has a raised 6th and 7th, and is natural on the way down. You will need to use accidentals for these.
+The relative minor of a major key has the same key signature as the major key and the first note of the relative minor is three semitones (minor 3) below the first note of the major
+To help you, I will give you some examples.
+
+Example 1: G sharp melodic minor scale.
+
+!!!OTL: Guide1_RCM6_August2024_Q3
+**kern
+*clefG2
+*k[f#c#g#d#a#]
+*M15/1
+=1
+1g#
+1a#
+1b
+1cc#
+1dd#
+1ee#X
+1ff##X
+1gg#
+1ff#X
+1een
+1dd#
+1cc#
+1b
+1a#
+1g#
+==
+*-
+
+
+Example 2: G flat major scale.
+
+!!!OTL: Guide1_RCM6_August2024_Q3
+**kern
+*clefF4
+*k[b-e-a-d-g-c-]
+*M15/1
+=1
+1GG-
+1AA-
+1BB-
+1C-
+1D-
+1E-
+1F
+1G-
+1F
+1E-
+1D-
+1C-
+1BB-
+1AA-
+1GG-
+==
+*-
+
+
+Example 3: The relative minor scale of F major (D minor). 
+
+!!!OTL: Guide1_RCM6_August2024_Q3
+**kern
+*clefF4
+*k[b-]
+*M15/1
+=1
+1D
+1E
+1F
+1G
+1A
+1B-
+1c#X
+1d
+1c#
+1B-
+1A
+1G
+1F
+1E
+1D
+==
+*-
+
+
+-----
+Now, write the D flat major scale in the bass clef. in the format specified above using whole notes.
+Please write the scale in the specified format.

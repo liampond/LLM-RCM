@@ -1,1 +1,47 @@
 Please return the notes present in an ascending and descending B minor scale, natural form, in the bass clef using a key signature and any necessary accidentals.
+Please write the scale in the specified format.
+
+Make sure there are no leaps in the music, each note should only be a step away from the previous and subsequent notes.
+Remember that a harmonic minor scale is the same as the natural minor, but with a raised 7th. The melodic minor has a raised 6th and 7th, and is natural on the way down. You will need to use accidentals for these.
+The relative minor of a major key has the same key signature as the major key and the first note of the relative minor is three semitones (minor 3) below the first note of the major
+To help you, I will give you some examples.
+
+Example 1: G sharp melodic minor scale in the treble clef.
+
+X:1
+T:Guide1_RCM6_August2024_Q3
+L:1/4
+M:15/1
+I:linebreak $
+K:B
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ G4 A4 B4 c4 d4 ^e4 ^^f4 g4 ^f4 =e4 d4 c4 B4 A4 G4 |] %1
+
+Example 2: G flat major scale in the bass clef.
+
+X:1
+T:Guide2_RCM6_August2024_Q3
+L:1/4
+M:15/1
+I:linebreak $
+K:Gb
+V:1 bass nm="Piano" snm="Pno."
+V:1
+ G,,4 A,,4 B,,4 C,4 D,4 E,4 F,4 G,4 F,4 E,4 D,4 C,4 B,,4 A,,4 G,,4 |] %1
+
+Example 3: The relative minor scale of F major (D minor) in the bass clef.
+
+X:1
+T:Guide3_RCM6_August2024_Q3
+L:1/4
+M:15/1
+I:linebreak $
+K:F
+V:1 bass nm="Piano" snm="Pno."
+V:1
+ D,4 E,4 F,4 G,4 A,4 B,4 ^C4 D4 C4 B,4 A,4 G,4 F,4 E,4 D,4 |] %1
+
+-----
+Now, write the B minor scale, natural form, in the bass clef in the format specified above using whole notes.
+Please write the scale in the specified format.

@@ -1,2 +1,67 @@
 Transpose the melody in the score up a minor sixth and state the correct key signature. Be precise about the notes and the rhythms. Name the new key.
 Give the entire melody, do not leave out notes. The file is readable, please parse it.
+
+Return the transposed score in the specified format.
+
+Here are some examples of how to transpose a melody. Make sure that the interval between each note is the same. All rhythms should be the same. Make sure the new key signature is appropriately adjusted.
+
+Example 1: Transpose the first melody up a perfect fourth. State the key signature.
+
+X:1
+T:Guide1_RCM6_August2024_Q4a
+L:1/4
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ F2 A3/2 A/ | D3 E | F G A B | E4 |] %4
+
+ will become:
+
+ X:1
+T:Guide1_RCM6_August2024_Q4a
+L:1/4
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ B2 d3/2 d/ | G3 A | B c d e | A4 |] %4
+
+ The new key is G major.
+
+-----
+
+Example 2: Transpose the first melody down a minor third.
+
+X:1
+T:Guide1_RCM6_August2024_Q4a
+L:1/8
+M:6/8
+I:linebreak $
+K:Eb
+V:1 bass nm="Piano" snm="Pno."
+V:1
+ B,2 C B,2 G, | A,G,F, D,C,B,, | E,2 F, G,E,C | B,6 |] %4
+
+ will become:
+
+ X:1
+T:Guide1_RCM6_August2024_Q4a
+L:1/8
+M:6/8
+I:linebreak $
+K:C
+V:1 bass nm="Piano" snm="Pno."
+V:1
+ G,2 A, G,2 E, | F,E,D, B,,A,,G,, | C,2 D, E,C,A, | G,6 |] %4
+
+The new key is C major.
+
+----
+
+Transpose the melody in the score up a minor sixth and state the correct key signature. Be precise about the notes and the rhythms. Name the new key.
+Give the entire melody, do not leave out notes. The file is readable, please parse it.
+
+Return the transposed score in the specified format.

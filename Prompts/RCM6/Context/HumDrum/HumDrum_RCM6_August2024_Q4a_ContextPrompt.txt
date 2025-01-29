@@ -1,2 +1,133 @@
 Transpose the melody in the score up a minor sixth and state the correct key signature. Be precise about the notes and the rhythms. Name the new key.
 Give the entire melody, do not leave out notes. The file is readable, please parse it.
+
+Return the transposed score in the specified format.
+
+Here are some examples of how to transpose a melody. Make sure that the interval between each note is the same. All rhythms should be the same. Make sure the new key signature is appropriately adjusted.
+
+Example 1: Transpose the first melody up a perfect fourth. State the key signature.
+
+!!!OTL: Guide1_RCM6_August2024_Q4a
+**kern
+*clefG2
+*k[f#c#]
+*M4/4
+*met(c)
+=1
+2f#
+4.a
+8a
+=
+2.d
+4e
+=
+4f#
+4g
+4a
+4b
+=
+1e
+==
+*-
+
+
+ will become:
+
+!!!OTL: Guide1_RCM6_August2024_Q4a
+**kern
+*clefG2
+*k[f#]
+*M4/4
+*met(c)
+=1
+2b
+4.dd
+8dd
+=
+2.g
+4a
+=
+4b
+4cc
+4dd
+4ee
+=
+1a
+==
+*-
+
+
+ The new key is G major.
+
+-----
+
+Example 2: Transpose the first melody down a minor third.
+
+!!!OTL: Guide1_RCM6_August2024_Q4a
+**kern
+*clefF4
+*k[b-e-a-]
+*M6/8
+=1
+4B-
+8c
+4B-
+8G
+=
+8A-L
+8G
+8FJ
+8DL
+8C
+8BB-J
+=
+4E-
+8F
+8GL
+8E-
+8cJ
+=
+2.B-
+==
+*-
+
+
+ will become:
+
+!!!OTL: Guide1_RCM6_August2024_Q4a
+**kern
+*clefF4
+*k[]
+*M6/8
+=1
+4G
+8A
+4G
+8E
+=
+8FL
+8E
+8DJ
+8BBL
+8AA
+8GGJ
+=
+4C
+8D
+8EL
+8C
+8AJ
+=
+2.G
+==
+*-
+
+
+The new key is C major.
+
+----
+
+Transpose the melody in the score up a minor sixth and state the correct key signature. Be precise about the notes and the rhythms. Name the new key.
+Give the entire melody, do not leave out notes. The file is readable, please parse it.
+
+Return the transposed score in the specified format.

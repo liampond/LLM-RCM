@@ -63,6 +63,84 @@ The upper note is F♯.
 
 Final Answer
 The note that is an Augmented 4th above C is F♯.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
+  <work>
+    <work-title>RCM6_December2023_Q1</work-title>
+    </work>
+  <identification>
+    <encoding>
+      <software>MuseScore 4.4.4</software>
+      <encoding-date>2025-01-29</encoding-date>
+      <supports element="accidental" type="yes"/>
+      <supports element="beam" type="yes"/>
+      <supports element="print" attribute="new-page" type="no"/>
+      <supports element="print" attribute="new-system" type="no"/>
+      <supports element="stem" type="yes"/>
+      </encoding>
+    </identification>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Piano</part-name>
+      <part-abbreviation>Pno.</part-abbreviation>
+      <score-instrument id="P1-I1">
+        <instrument-name>Piano</instrument-name>
+        <instrument-sound>keyboard.piano</instrument-sound>
+        </score-instrument>
+      <midi-device id="P1-I1" port="1"></midi-device>
+      <midi-instrument id="P1-I1">
+        <midi-channel>1</midi-channel>
+        <midi-program>1</midi-program>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    </part-list>
+  <part id="P1">
+    <measure number="1">
+      <attributes>
+        <divisions>1</divisions>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+          </clef>
+        </attributes>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      <note>
+        <chord/>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <accidental>sharp</accidental>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
+      </measure>
+    </part>
+  </score-partwise>
+
+
+
+
 —-
 Here’s another example:
 
@@ -97,35 +175,198 @@ Interval number: 7th → A.
 Correct B𝄫 major scale: A♭ is the 7th note (Major 7th).
 Adjust for Minor quality: Lower A♭ by one semitone to A𝄫.
 Final answer: A𝄫.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
+  <work>
+    <work-title>RCM6_December2023_Q1</work-title>
+    </work>
+  <identification>
+    <encoding>
+      <software>MuseScore 4.4.4</software>
+      <encoding-date>2025-01-29</encoding-date>
+      <supports element="accidental" type="yes"/>
+      <supports element="beam" type="yes"/>
+      <supports element="print" attribute="new-page" type="no"/>
+      <supports element="print" attribute="new-system" type="no"/>
+      <supports element="stem" type="yes"/>
+      </encoding>
+    </identification>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Piano</part-name>
+      <part-abbreviation>Pno.</part-abbreviation>
+      <score-instrument id="P1-I1">
+        <instrument-name>Piano</instrument-name>
+        <instrument-sound>keyboard.piano</instrument-sound>
+        </score-instrument>
+      <midi-device id="P1-I1" port="1"></midi-device>
+      <midi-instrument id="P1-I1">
+        <midi-channel>1</midi-channel>
+        <midi-program>1</midi-program>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    </part-list>
+  <part id="P1">
+    <measure number="1">
+      <attributes>
+        <divisions>1</divisions>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+          </clef>
+        </attributes>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-2</alter>
+          <octave>2</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <accidental>flat-flat</accidental>
+        </note>
+      <note>
+        <chord/>
+        <pitch>
+          <step>A</step>
+          <alter>-2</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <accidental>flat-flat</accidental>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
+      </measure>
+    </part>
+  </score-partwise>
+
+
+
+
 —-
 And one last example:
 
-Example: Determine the Upper note for an augmented 2nd above G
+Example: Determine the Interval Between G and A♯
 
 Step 1: Identify the Lower Note and Interval
 Lower note: G
-Specified interval: Augmented 2nd
+Specified interval: Interval between G and A♯
 
 Step 2: Determine the Interval Number
-Count the letter names, starting with G as 1 and counting up to the 2nd:
-G (1), A (2)
-The letter name of the upper note is A.
+Count the letter names, starting with G as 1:
+G (1), A (2).
+The interval number is a second.
 
 Step 3: Use the Major Scale of the Lower Note
 The G major scale is:
-G, A, B, C, D, E, F♯, G
-In the G major scale, the 2nd note is A, which forms a Major 2nd above G.
+G, A, B, C, D, E, F♯.
+In the G major scale, the note A is the 2nd note, forming a Major 2nd above G.
 
 Step 4: Adjust the Quality of the Interval
-An augmented 2nd is one semitone larger than a Major 2nd
-Raise A by one semitone: A♯
+A♯ is one semitone higher than A.
+Raising a Major 2nd by one semitone makes the interval an Augmented 2nd.
 
 Step 5: Write the Upper Note
-
-The upper note is A♯
+The upper note is A♯, and the interval is an Augmented 2nd.
 
 Final Answer
-The note that is an augmented 2hd above G is A♯.
+The interval between G and A♯ is an Augmented 2nd.
+
+Recap of Steps
+Interval number: 2nd → A.
+Major scale of G: A is a Major 2nd above G.
+Adjust for Augmented quality: Raise A to A♯.
+Final answer: Augmented 2nd.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
+  <work>
+    <work-title>RCM6_December2023_Q1</work-title>
+    </work>
+  <identification>
+    <encoding>
+      <software>MuseScore 4.4.4</software>
+      <encoding-date>2025-01-29</encoding-date>
+      <supports element="accidental" type="yes"/>
+      <supports element="beam" type="yes"/>
+      <supports element="print" attribute="new-page" type="no"/>
+      <supports element="print" attribute="new-system" type="no"/>
+      <supports element="stem" type="yes"/>
+      </encoding>
+    </identification>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Piano</part-name>
+      <part-abbreviation>Pno.</part-abbreviation>
+      <score-instrument id="P1-I1">
+        <instrument-name>Piano</instrument-name>
+        <instrument-sound>keyboard.piano</instrument-sound>
+        </score-instrument>
+      <midi-device id="P1-I1" port="1"></midi-device>
+      <midi-instrument id="P1-I1">
+        <midi-channel>1</midi-channel>
+        <midi-program>1</midi-program>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    </part-list>
+  <part id="P1">
+    <measure number="1">
+      <attributes>
+        <divisions>1</divisions>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      <note>
+        <chord/>
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <accidental>sharp</accidental>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
+      </measure>
+    </part>
+  </score-partwise>
+
+
+
+
 —-
 Now, read the file and return a new file. All notes should occur at the same time as the original ones. Add the notes that would be:
 -A perfect 4th above the first note

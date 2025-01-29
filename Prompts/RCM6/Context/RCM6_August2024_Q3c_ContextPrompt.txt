@@ -1,1 +1,0 @@
-Please return the notes present in an ascending and descending B minor scale, natural form, in the bass clef using a key signature and any necessary accidentals.

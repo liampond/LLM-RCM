@@ -1,3 +1,5 @@
+I am going to ask you to answer the following questions about writing chords. YOu will need to make a file in the specified format
+
 Guide to Writing Chords
 Step 1: Identify the Root Note
 Determine the key: Check whether the given key is major or minor.
@@ -134,7 +136,29 @@ Reorder the notes in closed position: D (7th), E (root), G# (3rd), B (5th).
 
 Step 4: Final Answer
 The dominant seventh chord of A major in third inversion is: D, E, G#, B.
-—-
+—-----
+
+Here is an example file in the specified format along with sample questions. They are all correct.
+
+Write the following chords using a key signature and any necessary accidentals for each:
+-The dominant seventh chord of B minor, harmonic form, in first inversion
+-The supertonic triad of E flat major, in second inversion
+-The subdominant triad of E minor, in root position
+-The mediant triad of F sharp major, in second inversion
+-The subdominant triad of F minor, in first inversion
+
+
+X:1
+T:Guide1_RCM6_August2024_Q5
+L:1/4
+M:4/4
+I:linebreak $
+K:D
+V:1 bass nm="Piano" snm="Pno."
+V:1
+ [^A,,C,E,F,]4 |[K:Eb] [C,F,A,]4 |[K:G] [A,,C,E,]4 |[K:F#] [E,A,C]4 |[K:Ab] [D,F,B,]4 |] %5
+
+------
 
 Now, analyze the file provided above and respond to the following questions. Follow the guide to determine the answer:
 

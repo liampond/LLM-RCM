@@ -63,6 +63,16 @@ The upper note is F♯.
 
 Final Answer
 The note that is an Augmented 4th above C is F♯.
+
+X:1
+T:RCM6_December2023_Q1
+L:1/4
+M:none
+I:linebreak $
+K:C
+V:1 bass nm="Piano" snm="Pno."
+V:1
+ [C,^F,]4 |] %1
 —-
 Here’s another example:
 
@@ -97,6 +107,16 @@ Interval number: 7th → A.
 Correct B𝄫 major scale: A♭ is the 7th note (Major 7th).
 Adjust for Minor quality: Lower A♭ by one semitone to A𝄫.
 Final answer: A𝄫.
+
+X:1
+T:RCM6_December2023_Q1
+L:1/4
+M:none
+I:linebreak $
+K:C
+V:1 bass nm="Piano" snm="Pno."
+V:1
+ [__B,,__A,]4 |] %1
 —-
 And one last example:
 
@@ -131,6 +151,16 @@ Interval number: 2nd → A.
 Major scale of G: A is a Major 2nd above G.
 Adjust for Augmented quality: Raise A to A♯.
 Final answer: Augmented 2nd.
+
+X:1
+T:RCM6_December2023_Q1
+L:1/4
+M:none
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ [G^A]4 |] %1
 —-
 Now, read the file and return a new file. All notes should occur at the same time as the original ones. Add the notes that would be:
 -A perfect 4th above the first note

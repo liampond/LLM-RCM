@@ -90,6 +90,69 @@ Combine the top number (total number of 16ths in the measure) with the bottom nu
 
 Final Answer
 The time signature for the rhythm provided is 9/16, indicating a compound meter with three beats per measure, each divided into three 16th notes.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">RCM6_December2023_Q1</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-29T14:57:56" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">RCM6_August2024_Q2b<lb /></rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" meter.count="9" meter.unit="16">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="G" line="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <measure xml:id="mma8b66" right="end" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <beam>
+                              <note xml:id="n14y1zmf" dur="16" pname="f" oct="4" />
+                              <note xml:id="n1daewqe" dots="1" dur="16" pname="f" oct="4" />
+                              <note xml:id="nt8a4wy" dur="32" pname="f" oct="4" />
+                           </beam>
+                           <beam>
+                              <note xml:id="n1f1e8g" type="mscore-beam-begin" dur="8" pname="f" oct="4" />
+                              <note xml:id="nvlnucs" dur="16" pname="f" oct="4" />
+                           </beam>
+                           <beam>
+                              <note xml:id="n92ojtu" type="mscore-beam-begin" dur="16" pname="f" oct="4" />
+                              <note xml:id="n7i6jrm" dur="16" pname="f" oct="4" />
+                              <note xml:id="n1ww7d9h" dur="16" pname="f" oct="4" />
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
+
+
+
 —--
 Example 2:
 
@@ -130,6 +193,64 @@ Combine the top number (2 beats) with the bottom number (4, representing a quart
 
 Final Answer
 The time signature for the rhythm provided is 2/4, indicating 2 beats per measure, with each beat represented by a quarter note.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">RCM6_December2023_Q1</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-29T15:00:33" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">RCM6_August2024_Q2b<lb /></rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" meter.count="2" meter.unit="4">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="G" line="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <measure xml:id="m1u7hzjs" right="end" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <beam>
+                              <note xml:id="n1p66njw" dots="1" dur="16" pname="f" oct="4" />
+                              <note xml:id="n1r2adem" dur="32" pname="f" oct="4" />
+                              <note xml:id="n1xtf8i2" dur="8" pname="f" oct="4" />
+                           </beam>
+                           <beam>
+                              <note xml:id="n5k3rtc" dots="1" dur="8" pname="f" oct="4" />
+                              <note xml:id="n1dk86kq" dur="16" pname="f" oct="4" />
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
+
+
+
 —--
 Last example:
 
@@ -172,6 +293,69 @@ Since the measure contains 6 beats, the top number of the time signature is 6.
 Step 5: Write the Time Signature
 Combine the top number (6 beats) with the bottom number (quarter note as the beat unit). The time signature is:
 6/4
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">RCM6_December2023_Q1</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-29T15:02:01" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">RCM6_August2024_Q2b<lb /></rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" meter.count="6" meter.unit="4">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="G" line="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <measure xml:id="m1ssbcze" right="end" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <note xml:id="nrk82t4" dur="4" pname="f" oct="4" />
+                           <note xml:id="n1b5g1hh" dots="1" dur="4" pname="f" oct="4" />
+                           <note xml:id="nmwukfj" dur="8" pname="f" oct="4" />
+                           <beam>
+                              <note xml:id="ncu46r4" dur="16" pname="f" oct="4" />
+                              <note xml:id="nk6z7pw" dur="16" pname="f" oct="4" />
+                              <note xml:id="nboon7t" dur="8" pname="f" oct="4" />
+                           </beam>
+                           <note xml:id="nyqzxsc" dur="4" pname="f" oct="4" />
+                           <beam>
+                              <note xml:id="no9zqb2" dur="8" pname="f" oct="4" />
+                              <note xml:id="n1yoc6po" dur="8" pname="f" oct="4" />
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
+
+
+
+
 —-
 
 Now, Modify the file to add the hidden time signature. The time signature is explicitly hidden so you must infer its value from the rhythms of the notes.

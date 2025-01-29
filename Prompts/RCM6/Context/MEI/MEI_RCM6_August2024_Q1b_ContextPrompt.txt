@@ -63,6 +63,62 @@ The upper note is F♯.
 
 Final Answer
 The note that is an Augmented 4th above C is F♯.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">RCM6_December2023_Q1</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-29T14:57:10" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">MusicXML_Guide1_RCM6_August2024_Q1b</rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="F" line="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <measure xml:id="majlzkx" right="end" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <chord xml:id="c1ebvcnf" dur="1">
+                              <note xml:id="n11etlb9" pname="c" oct="3" />
+                              <note xml:id="n6r3pzd" pname="f" oct="3">
+                                 <accid xml:id="a1sd1k56" accid="s" />
+                              </note>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
+
+
+
+
 —-
 Here’s another example:
 
@@ -97,6 +153,64 @@ Interval number: 7th → A.
 Correct B𝄫 major scale: A♭ is the 7th note (Major 7th).
 Adjust for Minor quality: Lower A♭ by one semitone to A𝄫.
 Final answer: A𝄫.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">RCM6_December2023_Q1</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-29T14:59:58" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">MusicXML_Guide2_RCM6_August2024_Q1b</rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="F" line="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <measure xml:id="m1reg7ax" right="end" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <chord xml:id="c1fxpqp4" dur="1">
+                              <note xml:id="n1fr20q2" pname="b" oct="2">
+                                 <accid xml:id="avpo7gi" accid="ff" />
+                              </note>
+                              <note xml:id="nvrru1m" pname="a" oct="3">
+                                 <accid xml:id="a1cazdrz" accid="ff" />
+                              </note>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
+
+
+
+
 —-
 And one last example:
 
@@ -131,6 +245,62 @@ Interval number: 2nd → A.
 Major scale of G: A is a Major 2nd above G.
 Adjust for Augmented quality: Raise A to A♯.
 Final answer: Augmented 2nd.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">RCM6_December2023_Q1</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-29T15:01:34" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">MusicXML_Guide2_RCM6_August2024_Q1b</rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="G" line="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <measure xml:id="m1sbg2fl" right="end" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <chord xml:id="c10qnyc1" dur="1">
+                              <note xml:id="n18f46v" pname="g" oct="4" />
+                              <note xml:id="n19gkddh" pname="a" oct="4">
+                                 <accid xml:id="adfpot8" accid="s" />
+                              </note>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
+
+
+
+
 —-
 Now, read the file and return a new file. All notes should occur at the same time as the original ones. Add the notes that would be:
 -A perfect 4th above the first note

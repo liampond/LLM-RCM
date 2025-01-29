@@ -63,6 +63,18 @@ The upper note is F♯.
 
 Final Answer
 The note that is an Augmented 4th above C is F♯.
+
+!!!OTL: RCM6_December2023_Q1
+**kern
+*clefF4
+*k[]
+=1
+1C 1F#X
+==
+*-
+
+
+
 —-
 Here’s another example:
 
@@ -97,6 +109,18 @@ Interval number: 7th → A.
 Correct B𝄫 major scale: A♭ is the 7th note (Major 7th).
 Adjust for Minor quality: Lower A♭ by one semitone to A𝄫.
 Final answer: A𝄫.
+
+!!!OTL: RCM6_December2023_Q1
+**kern
+*clefF4
+*k[]
+=1
+1BB-- 1A--
+==
+*-
+
+
+
 —-
 And one last example:
 
@@ -131,6 +155,18 @@ Interval number: 2nd → A.
 Major scale of G: A is a Major 2nd above G.
 Adjust for Augmented quality: Raise A to A♯.
 Final answer: Augmented 2nd.
+
+!!!OTL: RCM6_December2023_Q1
+**kern
+*clefG2
+*k[]
+=1
+1g 1a#X
+==
+*-
+
+
+
 —-
 Now, read the file and return a new file. All notes should occur at the same time as the original ones. Add the notes that would be:
 -A perfect 4th above the first note

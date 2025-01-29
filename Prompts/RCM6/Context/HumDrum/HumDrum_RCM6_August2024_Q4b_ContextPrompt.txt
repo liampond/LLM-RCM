@@ -1,4 +1,5 @@
 Transpose the melody in the score up to A flat major using the correct key signature. Be precise about the notes and the rhythms. Name the interval of transposition.
+Return a the new transposed music in the specified format.
 
 To determine the interval of transposition, you must find the interval between the original key and the new key. For example, if the original key is C, and you are transposing to F, you need to find the interval from C to F.
 Here is a guide on how to find an interval:
@@ -140,8 +141,132 @@ Step 4: Combine the Number and Quality
 The interval is a Sixth (from Step 2).
 The quality is Minor (from Step 3).
 Final Answer: The interval between G♯ and E is a Minor sixth.
-—
+—------
+
+Here are some examples like the test question:
+
+Example 1: Transpose the given melody up to G major using the correct key signature. Name the interval of transposition.
+
+!!!OTL: Guide1_RCM6_August2024_Q4a
+**kern
+*clefG2
+*k[f#c#]
+*M4/4
+*met(c)
+=1
+2f#
+4.a
+8a
+=
+2.d
+4e
+=
+4f#
+4g
+4a
+4b
+=
+1e
+==
+*-
+
+
+ will become:
+
+!!!OTL: Guide1_RCM6_August2024_Q4a
+**kern
+*clefG2
+*k[f#]
+*M4/4
+*met(c)
+=1
+2b
+4.dd
+8dd
+=
+2.g
+4a
+=
+4b
+4cc
+4dd
+4ee
+=
+1a
+==
+*-
+
+
+The interval of transposition is up a perfect fourth.
+
+---
+
+Example 2: Transpose the given melody down to C major using the correct key signature. Name the interval of transposition.
+
+!!!OTL: Guide1_RCM6_August2024_Q4a
+**kern
+*clefF4
+*k[b-e-a-]
+*M6/8
+=1
+4B-
+8c
+4B-
+8G
+=
+8A-L
+8G
+8FJ
+8DL
+8C
+8BB-J
+=
+4E-
+8F
+8GL
+8E-
+8cJ
+=
+2.B-
+==
+*-
+
+
+ will become:
+
+!!!OTL: Guide1_RCM6_August2024_Q4a
+**kern
+*clefF4
+*k[]
+*M6/8
+=1
+4G
+8A
+4G
+8E
+=
+8FL
+8E
+8DJ
+8BBL
+8AA
+8GGJ
+=
+4C
+8D
+8EL
+8C
+8AJ
+=
+2.G
+==
+*-
+
+
+The interval of transposition is down a minor third.
+
+------
 
 In order to transpose the melody, you need to adjust all of the original notes by the interval of transposition.
 
-As a reminder, transpose the melody in the score up to A flat major using the correct key signature. Be precise about the notes and the rhythms. Name the interval of transposition.
+As a reminder, transpose the melody in the score up to A flat major using the correct key signature. Be precise about the notes and the rhythms. Name the interval of transposition. Return a new transposed score in the specified format.

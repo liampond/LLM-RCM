@@ -1,3 +1,5 @@
+I am going to ask you to answer the following questions about writing chords. YOu will need to make a file in the specified format
+
 Guide to Writing Chords
 Step 1: Identify the Root Note
 Determine the key: Check whether the given key is major or minor.
@@ -134,7 +136,139 @@ Reorder the notes in closed position: D (7th), E (root), G# (3rd), B (5th).
 
 Step 4: Final Answer
 The dominant seventh chord of A major in third inversion is: D, E, G#, B.
-—-
+—-----
+
+Here is an example file in the specified format along with sample questions. They are all correct.
+
+Write the following chords using a key signature and any necessary accidentals for each:
+-The dominant seventh chord of B minor, harmonic form, in first inversion
+-The supertonic triad of E flat major, in second inversion
+-The subdominant triad of E minor, in root position
+-The mediant triad of F sharp major, in second inversion
+-The subdominant triad of F minor, in first inversion
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Guide1_RCM6_August2024_Q5</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-29T14:58:55" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">Guide1_RCM6_August2024_Q5</rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" keysig="2s" meter.sym="common">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="F" line="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <measure xml:id="mkvoh3u" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <chord xml:id="cj6ss60" dur="1">
+                              <note xml:id="nifl1yg" pname="a" oct="2">
+                                 <accid xml:id="ae3xgwe" accid="s" />
+                              </note>
+                              <note xml:id="nhwiagl" pname="c" oct="3">
+                                 <accid accid.ges="s" />
+                              </note>
+                              <note xml:id="niaxauc" pname="e" oct="3" />
+                              <note xml:id="nrcbvzj" pname="f" oct="3">
+                                 <accid accid.ges="s" />
+                              </note>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef keysig="3f" />
+                  <measure xml:id="m1mq7u17" n="2">
+                     <staff xml:id="m2s1" n="1">
+                        <layer xml:id="m2s1l1" n="1">
+                           <chord xml:id="cbes3qy" dur="1">
+                              <note xml:id="nshrzow" pname="c" oct="3" />
+                              <note xml:id="n1fxw67m" pname="f" oct="3" />
+                              <note xml:id="noumjd8" pname="a" oct="3">
+                                 <accid accid.ges="f" />
+                              </note>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef keysig="1s" />
+                  <measure xml:id="m17m1rcg" n="3">
+                     <staff xml:id="m3s1" n="1">
+                        <layer xml:id="m3s1l1" n="1">
+                           <chord xml:id="cyxguh3" dur="1">
+                              <note xml:id="n12b6pc0" pname="a" oct="2" />
+                              <note xml:id="nz2nlsb" pname="c" oct="3" />
+                              <note xml:id="nrwm4nj" pname="e" oct="3" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef keysig="6s" />
+                  <measure xml:id="m1xbh0um" n="4">
+                     <staff xml:id="m4s1" n="1">
+                        <layer xml:id="m4s1l1" n="1">
+                           <chord xml:id="cfvfa54" dur="1">
+                              <note xml:id="nzkrxel" pname="e" oct="3">
+                                 <accid accid.ges="s" />
+                              </note>
+                              <note xml:id="n1rlwn4y" pname="a" oct="3">
+                                 <accid accid.ges="s" />
+                              </note>
+                              <note xml:id="n1iegez0" pname="c" oct="4">
+                                 <accid accid.ges="s" />
+                              </note>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef keysig="4f" />
+                  <measure xml:id="m1qf4v9" right="end" n="5">
+                     <staff xml:id="m5s1" n="1">
+                        <layer xml:id="m5s1l1" n="1">
+                           <chord xml:id="c1yy38z6" dur="1">
+                              <note xml:id="n141lpel" pname="d" oct="3">
+                                 <accid accid.ges="f" />
+                              </note>
+                              <note xml:id="nmksq2c" pname="f" oct="3" />
+                              <note xml:id="n1td53gr" pname="b" oct="3">
+                                 <accid accid.ges="f" />
+                              </note>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
+
+
+
+------
 
 Now, analyze the file provided above and respond to the following questions. Follow the guide to determine the answer:
 

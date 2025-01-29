@@ -1,1 +1,266 @@
 Please return the notes present in an ascending and descending scale that is the relative minor, melodic form, of B major in the treble clef using a key signature and any necessary accidentals.
+Please write the scale in the specified format.
+
+Make sure there are no leaps in the music, each note should only be a step away from the previous and subsequent notes.
+Remember that a harmonic minor scale is the same as the natural minor, but with a raised 7th. The melodic minor has a raised 6th and 7th, and is natural on the way down. You will need to use accidentals for these.
+The relative minor of a major key has the same key signature as the major key and the first note of the relative minor is three semitones (minor 3) below the first note of the major
+To help you, I will give you some examples.
+
+Example 1: G sharp melodic minor scale in the treble clef.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Guide1_RCM6_August2024_Q3</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-29T14:58:34" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">Guide1_RCM6_August2024_Q3</rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" keysig="5s" meter.count="15" meter.unit="1">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="G" line="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <measure xml:id="mm86sxu" right="end" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <note xml:id="npei14b" dur="1" pname="g" oct="4">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note xml:id="nt4w0a9" dur="1" pname="a" oct="4">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note xml:id="n1lendzm" dur="1" pname="b" oct="4" />
+                           <note xml:id="n1z097nk" dur="1" pname="c" oct="5">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note xml:id="n1vdskbm" dur="1" pname="d" oct="5">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note xml:id="n6b04y4" dur="1" pname="e" oct="5">
+                              <accid xml:id="a6nfvwl" accid="s" />
+                           </note>
+                           <note xml:id="nqxpxd2" dur="1" pname="f" oct="5">
+                              <accid xml:id="a1ul3ci7" accid="x" />
+                           </note>
+                           <note xml:id="n9rf0wj" dur="1" pname="g" oct="5">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note xml:id="n5l9o8c" dur="1" pname="f" oct="5">
+                              <accid xml:id="a15khpai" accid="s" />
+                           </note>
+                           <note xml:id="np4ncku" dur="1" pname="e" oct="5">
+                              <accid xml:id="a1feozvt" accid="n" />
+                           </note>
+                           <note xml:id="n17h9ou4" dur="1" pname="d" oct="5">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note xml:id="nb91u9i" dur="1" pname="c" oct="5">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note xml:id="n1actvj2" dur="1" pname="b" oct="4" />
+                           <note xml:id="n1bt2vjn" dur="1" pname="a" oct="4">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note xml:id="nfjrbkj" dur="1" pname="g" oct="4">
+                              <accid accid.ges="s" />
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
+
+
+
+Example 2: G flat major scale in the bass clef.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Guide1_RCM6_August2024_Q3</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-29T15:00:49" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">Guide2_RCM6_August2024_Q3</rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" keysig="6f" meter.count="15" meter.unit="1">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="F" line="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <measure xml:id="mpn1urs" right="end" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <note xml:id="n1twiq3m" dur="1" pname="g" oct="2">
+                              <accid accid.ges="f" />
+                           </note>
+                           <note xml:id="n1rjnhr7" dur="1" pname="a" oct="2">
+                              <accid accid.ges="f" />
+                           </note>
+                           <note xml:id="n1czvqh7" dur="1" pname="b" oct="2">
+                              <accid accid.ges="f" />
+                           </note>
+                           <note xml:id="n1s6l9u5" dur="1" pname="c" oct="3">
+                              <accid accid.ges="f" />
+                           </note>
+                           <note xml:id="nifwdrl" dur="1" pname="d" oct="3">
+                              <accid accid.ges="f" />
+                           </note>
+                           <note xml:id="n1899jqn" dur="1" pname="e" oct="3">
+                              <accid accid.ges="f" />
+                           </note>
+                           <note xml:id="nyafva4" dur="1" pname="f" oct="3" />
+                           <note xml:id="nggfvro" dur="1" pname="g" oct="3">
+                              <accid accid.ges="f" />
+                           </note>
+                           <note xml:id="n1h5ljr3" dur="1" pname="f" oct="3" />
+                           <note xml:id="nfdlbyn" dur="1" pname="e" oct="3">
+                              <accid accid.ges="f" />
+                           </note>
+                           <note xml:id="n1qz0k5z" dur="1" pname="d" oct="3">
+                              <accid accid.ges="f" />
+                           </note>
+                           <note xml:id="n8hm677" dur="1" pname="c" oct="3">
+                              <accid accid.ges="f" />
+                           </note>
+                           <note xml:id="n1a6tmuv" dur="1" pname="b" oct="2">
+                              <accid accid.ges="f" />
+                           </note>
+                           <note xml:id="n1w8xqp1" dur="1" pname="a" oct="2">
+                              <accid accid.ges="f" />
+                           </note>
+                           <note xml:id="n1dneg8b" dur="1" pname="g" oct="2">
+                              <accid accid.ges="f" />
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
+
+
+
+Example 3: The relative minor scale of F major (D minor) in the bass clef.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Guide1_RCM6_August2024_Q3</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-29T15:02:15" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">Guide2_RCM6_August2024_Q3</rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" keysig="1f" meter.count="15" meter.unit="1">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="F" line="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <measure xml:id="mb7d7mp" right="end" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <note xml:id="nftlq09" dur="1" pname="d" oct="3" />
+                           <note xml:id="nxre88t" dur="1" pname="e" oct="3" />
+                           <note xml:id="n1mks73v" dur="1" pname="f" oct="3" />
+                           <note xml:id="nz569r2" dur="1" pname="g" oct="3" />
+                           <note xml:id="nu4r329" dur="1" pname="a" oct="3" />
+                           <note xml:id="nvu3urj" dur="1" pname="b" oct="3">
+                              <accid accid.ges="f" />
+                           </note>
+                           <note xml:id="n1q3tu8g" dur="1" pname="c" oct="4">
+                              <accid xml:id="a17jynfd" accid="s" />
+                           </note>
+                           <note xml:id="nye9jf" dur="1" pname="d" oct="4" />
+                           <note xml:id="n1yxp3vz" dur="1" pname="c" oct="4">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note xml:id="n1emnce3" dur="1" pname="b" oct="3">
+                              <accid accid.ges="f" />
+                           </note>
+                           <note xml:id="n1wnk0mp" dur="1" pname="a" oct="3" />
+                           <note xml:id="ncsmlq4" dur="1" pname="g" oct="3" />
+                           <note xml:id="ngrdiva" dur="1" pname="f" oct="3" />
+                           <note xml:id="nhaal8q" dur="1" pname="e" oct="3" />
+                           <note xml:id="nznfv4i" dur="1" pname="d" oct="3" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
+
+
+
+-----
+Now, write the relative minor, melodic form, of B major in the treble clef in the format specified above using whole notes.
+Please write the scale in the specified format.

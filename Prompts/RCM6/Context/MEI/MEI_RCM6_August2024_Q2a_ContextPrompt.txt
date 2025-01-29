@@ -79,6 +79,63 @@ Beat 6: Sixteenth rest.
 Beats 7–9: Dotted eighth rest.
 Beats 10–11: Eighth rest.
 Beat 12: Sixteenth note.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">RCM6_December2023_Q1</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-29T15:03:23" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">RCM6_August2024_Q2a<lb /></rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" meter.count="12" meter.unit="16">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="G" line="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <measure xml:id="m6klkrk" right="end" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <note xml:id="n1ayovne" dots="1" dur="8" pname="f" oct="4" />
+                           <note xml:id="naq3tbg" type="mscore-beam-none" dur="16" pname="f" oct="4" />
+                           <rest xml:id="r9ffbe4" type="mscore-beam-none" dur="16" />
+                           <rest xml:id="reo0xrs" type="mscore-beam-none" dur="16" />
+                           <rest xml:id="r1shf03l" type="mscore-beam-none" dots="1" dur="8" />
+                           <rest xml:id="reumter" type="mscore-beam-none" dur="8" />
+                           <note xml:id="nxi8atc" dur="16" pname="f" oct="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
+
+
+
+
 —
 Provided Notes:
 Three triplet eighth notes (beat 1).
@@ -113,6 +170,67 @@ Final Rest Placement:
 Quarter rest for beat 2.
 Quarter rest for beat 3.
 Dotted quarter rest for beat 4 and the first half of beat 5.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">RCM6_December2023_Q1</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-29T15:00:12" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">RCM6_August2024_Q2a<lb /></rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" meter.count="6" meter.unit="4">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="G" line="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <measure xml:id="m5z6q02" right="end" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <beam>
+                              <tuplet xml:id="t13xvad1" num="3" numbase="2">
+                                 <note xml:id="n17s5y8l" dur="8" pname="f" oct="4" />
+                                 <note xml:id="n1wcaton" dur="8" pname="f" oct="4" />
+                                 <note xml:id="nifzdoj" dur="8" pname="f" oct="4" />
+                              </tuplet>
+                           </beam>
+                           <rest xml:id="r1pbim2w" dur="4" />
+                           <rest xml:id="rfqja3g" dur="4" />
+                           <rest xml:id="r41vcj1" dots="1" dur="4" />
+                           <note xml:id="na3okhi" dots="1" dur="4" pname="f" oct="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
+
+
+
+
 —
 One last example:
 Question Summary:
@@ -160,6 +278,60 @@ Total = 3 beats, fulfilling the 3/4 time signature.
 Final Rest Placement:
 Half rest for beats 1–2.
 One sixteenth rest for the first subdivision of beat 3.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">RCM6_December2023_Q1</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-29T15:01:48" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">RCM6_August2024_Q2a<lb /></rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" meter.count="3" meter.unit="4">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="G" line="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <measure xml:id="mgsldat" right="end" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <rest xml:id="rdu4ah6" dur="2" />
+                           <rest xml:id="r27dobi" type="mscore-beam-none" dur="16" />
+                           <beam>
+                              <note xml:id="n1dxcqbn" dur="16" pname="f" oct="4" />
+                              <note xml:id="nkgs569" dur="8" pname="f" oct="4" />
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
+
+
 
 ----
 

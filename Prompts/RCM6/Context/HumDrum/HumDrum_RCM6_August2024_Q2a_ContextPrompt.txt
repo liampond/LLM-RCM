@@ -79,6 +79,25 @@ Beat 6: Sixteenth rest.
 Beats 7–9: Dotted eighth rest.
 Beats 10–11: Eighth rest.
 Beat 12: Sixteenth note.
+
+!!!OTL: RCM6_December2023_Q1
+**kern
+*clefG2
+*k[]
+*M12/16
+=1
+8.f
+16f
+16r
+16r
+8.r
+8r
+16f
+==
+*-
+
+
+
 —
 Provided Notes:
 Three triplet eighth notes (beat 1).
@@ -113,6 +132,25 @@ Final Rest Placement:
 Quarter rest for beat 2.
 Quarter rest for beat 3.
 Dotted quarter rest for beat 4 and the first half of beat 5.
+
+!!!OTL: RCM6_December2023_Q1
+**kern
+*clefG2
+*k[]
+*M6/4
+=1
+12fL
+12f
+12fJ
+4r
+4r
+4.r
+4.f
+==
+*-
+
+
+
 —
 One last example:
 Question Summary:
@@ -160,6 +198,20 @@ Total = 3 beats, fulfilling the 3/4 time signature.
 Final Rest Placement:
 Half rest for beats 1–2.
 One sixteenth rest for the first subdivision of beat 3.
+
+!!!OTL: RCM6_December2023_Q1
+**kern
+*clefG2
+*k[]
+*M3/4
+=1
+2r
+16r
+16fKL
+8fJ
+==
+*-
+
 
 ----
 
