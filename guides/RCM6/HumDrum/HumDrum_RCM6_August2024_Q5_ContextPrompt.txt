@@ -1,0 +1,146 @@
+Guide to Writing Chords
+Step 1: Identify the Root Note
+Determine the key: Check whether the given key is major or minor.
+Write the scale:
+If the key is major, write out the major scale.
+If the key is minor, write out the harmonic minor scale.
+Find the scale degree using the following chart:
+1 = Tonic
+2 = Supertonic
+3 = Mediant
+4 = Subdominant
+5 = Dominant
+6 = Submediant
+Natural 7 = Subtonic (only in natural minor)
+Raised 7th = Leading tone (used in harmonic minor and major scales)
+Match the requested chord type (e.g., dominant = 5th note of the scale) with the corresponding scale degree.
+
+Step 2: Write the Notes of the Chord
+For a triad (three notes):
+The root note = scale degree of the chord.
+The third = 3rd note in the scale, starting from the root (skip one note).
+The fifth = 5th note in the scale, starting from the root.
+If the scale wraps around, continue counting from the beginning.
+For a seventh chord (four notes):
+Add the seventh = 7th note in the scale, starting from the root.
+In minor keys:
+If the chord includes the seventh scale degree, remember that in harmonic minor, this note must be raised with an accidental (e.g., F# instead of F in A minor).
+
+Step 3: Determine the Inversion
+Root position:
+Write the chord in closed position: Root, third, fifth, (seventh if applicable).
+First inversion:
+Reorder the notes in closed position: The third of the chord becomes the lowest note.
+Order: Third, fifth, root, (seventh).
+Second inversion:
+Reorder the notes in closed position: The fifth of the chord becomes the lowest note.
+Order: Fifth, root, third, (seventh).
+Third inversion (only for seventh chords):
+Reorder the notes in closed position: The seventh of the chord becomes the lowest note.
+Order: Seventh, root, third, fifth.
+Important: Only the above closed-position orders are acceptable. Any other order is not correct for inversions.
+
+Step 4: Apply Accidentals
+In minor keys:
+If you use the raised 7th scale degree (leading tone) as part of the chord, it requires an accidental (e.g., G# in A minor).
+Dominant chords in minor keys:
+The third of the dominant chord will always include the raised 7th scale degree.
+—
+Here’s an example:
+How to find the mediant chord of D major in first inversion:
+
+Step 1: Identify the Root Note
+Determine the key: The key is D major.
+Write the scale of D major:
+The notes in the D major scale are: D, E, F#, G, A, B, C#, D.
+Find the mediant chord:
+The mediant is the 3rd scale degree.
+The 3rd scale degree in D major is F#, so F# is the root note of the mediant chord.
+
+Step 2: Write the Notes of the Chord
+The chord is a triad, so it will have three notes: root, third, and fifth.
+Root note = F# (3rd scale degree).
+To find the third of the chord:
+Start from F# and count the 3rd note in the D major scale: F#, G, A → The third is A.
+To find the fifth of the chord:
+Start from F# and count the 5th note in the D major scale: F#, G, A, B, C# → The fifth is C#.
+The mediant chord consists of: F#, A, C#.
+
+Step 3: Determine the Inversion
+The question asks for the first inversion, so:
+In first inversion, the third of the chord becomes the lowest note.
+The notes must be reordered in closed position: A (3rd), C# (5th), F# (root).
+
+Step 4: Final Answer
+The mediant chord of D major in first inversion is: A, C#, F#.
+—
+
+Example 2:
+
+ere’s a step-by-step example to solve how to find the submediant chord of B-flat minor in root position:
+
+Step 1: Identify the Root Note
+Determine the key: The key is B-flat minor.
+Write the scale of B-flat minor:
+Since it’s a minor key, use the harmonic minor scale: B♭, C, D♭, E♭, F, G♭, A, B♭.
+Find the submediant chord:
+The submediant is the 6th scale degree.
+The 6th scale degree in B-flat minor is G♭, so G♭ is the root note of the submediant chord.
+
+Step 2: Write the Notes of the Chord
+The chord is a triad, so it will have three notes: root, third, and fifth.
+Root note = G♭ (6th scale degree).
+To find the third of the chord:
+Start from G♭ and count the 3rd note in the B-flat harmonic minor scale: G♭, A, B♭ → The third is B♭.
+To find the fifth of the chord:
+Start from G♭ and count the 5th note in the B-flat harmonic minor scale: G♭, A, B♭, C, D♭ → The fifth is D♭.
+The submediant chord consists of: G♭, B♭, D♭.
+
+Step 3: Determine the Inversion
+The question asks for root position, so:
+In root position, the notes are written in closed position: Root, third, fifth.
+Order: G♭, B♭, D♭.
+
+Step 4: Final Answer
+The submediant chord of B-flat minor in root position is: G♭, B♭, D♭.
+—-
+Last example:
+
+Here’s a step-by-step example to solve how to find the dominant seventh chord of A major in third inversion:
+
+Step 1: Identify the Root Note
+Determine the key: The key is A major.
+Write the scale of A major:
+The notes in the A major scale are: A, B, C#, D, E, F#, G#, A.
+Find the dominant chord:
+The dominant is the 5th scale degree.
+The 5th scale degree in A major is E, so E is the root note of the dominant chord.
+
+Step 2: Write the Notes of the Chord
+The chord is a dominant seventh, so it will have four notes: root, third, fifth, and seventh.
+Root note = E (5th scale degree).
+To find the third of the chord:
+Start from E and count the 3rd note in the A major scale: E, F#, G# → The third is G#.
+To find the fifth of the chord:
+Start from E and count the 5th note in the A major scale: E, F#, G#, A, B → The fifth is B.
+To find the seventh of the chord:
+Start from E and count the 7th note in the A major scale: E, F#, G#, A, B, C#, D → The seventh is D.
+The dominant seventh chord consists of: E, G#, B, D.
+
+Step 3: Determine the Inversion
+The question asks for third inversion, so:
+In third inversion, the seventh of the chord becomes the lowest note.
+Reorder the notes in closed position: D (7th), E (root), G# (3rd), B (5th).
+
+Step 4: Final Answer
+The dominant seventh chord of A major in third inversion is: D, E, G#, B.
+—-
+
+Now, analyze the file provided above and respond to the following questions. Follow the guide to determine the answer:
+
+Return the notes present in the following chords using a key signature and any necessary accidentals for each. Only use accidentals when they are not covered by the key signature. Return the accidentals in the key signature in the order that they would be printed in a score.
+-The mediant triad of E flat major in root position
+-The submediant triad of A sharp minor, harmonic form, in second inversion
+-The dominant triad of C sharp minor, harmonic form, in first inversion
+-The subdominant triad of G major, in second inversion
+-The dominant 7th chord of B flat minor, harmonic form, in root position

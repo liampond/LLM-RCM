@@ -1,0 +1,140 @@
+I am going to ask you to modify the notes in the file based on provided intervals. All new notes should occur at the same time as the given ones.
+
+However, I will first provide a step-by-step guide on how to determine what the new notes should be based on the intervals.
+
+Step 1: Identify the Lower Note and Interval
+Start by noting the lower note and the specified interval. For example:
+Lower note: D
+Interval: Minor 6th
+
+Step 2: Determine the Interval Number
+Identify the interval number (e.g., unison, 2nd, 3rd, etc.).
+This represents the number of letter names (e.g., A, B, C) between the lower note and the upper note, including the lower note itself.
+Count upward from the lower note through the alphabet, stopping at the interval number.
+Example: For a 6th above D:
+D (1), E (2), F (3), G (4), A (5), B (6).
+The letter name of the upper note is B.
+
+Step 3: Use the Major Scale of the Lower Note
+Recall the major scale of the lower note to determine the natural interval (Major or Perfect).
+Example: The D major scale is: D, E, F♯, G, A, B, C♯.
+In this scale, the 6th note above D is B.
+
+Step 4: Adjust the Quality of the Interval
+Modify the upper note as needed to match the specified interval quality:
+For Perfect intervals (unison, 4th, 5th, octave):
+Raise the note for Augmented.
+Lower the note for Diminished.
+For Major intervals (2nd, 3rd, 6th, 7th):
+Lower the note by one semitone for Minor.
+Lower the note by two semitones for Diminished.
+Raise the note by one semitone for Augmented.
+Example for a Minor 6th above D:
+The 6th in the D major scale is B.
+Lower B by one semitone → B♭.
+The upper note is B♭.
+
+Step 5: Write the Upper Note
+The resulting upper note is the one that matches both the interval number and the interval quality.
+Example: For D and a Minor 6th, the upper note is B♭.
+—
+Now, here are some examples of how you would determine the upper note.
+
+Step 1: Identify the Lower Note and Interval
+Lower note: C
+Specified interval: Augmented 4th
+
+Step 2: Determine the Interval Number
+Count the letter names, starting with C as 1, and count up to the 4th:
+C (1), D (2), E (3), F (4).
+The letter name of the upper note is F.
+
+Step 3: Use the Major Scale of the Lower Note
+Recall the C major scale:
+C, D, E, F, G, A, B.
+The 4th note in the C major scale is F. In the major scale, a 4th is Perfect.
+
+Step 4: Adjust the Quality of the Interval
+An Augmented 4th means the upper note is raised by one semitone from a Perfect 4th.
+Start with F (Perfect 4th) and raise it by one semitone → F♯.
+
+Step 5: Write the Upper Note
+The upper note is F♯.
+
+Final Answer
+The note that is an Augmented 4th above C is F♯.
+—-
+Here’s another example:
+
+Example: Determine the Upper Note for a Minor 7th Above B𝄫
+
+Step 1: Identify the Lower Note and Interval
+Lower note: B𝄫
+Specified interval: Minor 7th
+
+Step 2: Determine the Interval Number
+Count the letter names, starting with B as 1 and counting up to the 7th:
+B (1), C (2), D (3), E (4), F (5), G (6), A (7).
+The letter name of the upper note is A.
+
+Step 3: Use the Major Scale of the Lower Note
+The B𝄫 major scale is:
+B𝄫, C♭, D♭, E𝄫, F♭, G♭, A♭.
+In the B𝄫 major scale, the 7th note is A♭, which forms a Major 7th above B𝄫.
+
+Step 4: Adjust the Quality of the Interval
+A Minor 7th is one semitone lower than a Major 7th.
+Lower A♭ by one semitone → A𝄫.
+
+Step 5: Write the Upper Note
+The upper note is A𝄫.
+
+Final Answer
+The note that is a Minor 7th above B𝄫 is A𝄫.
+
+Recap of Steps
+Interval number: 7th → A.
+Correct B𝄫 major scale: A♭ is the 7th note (Major 7th).
+Adjust for Minor quality: Lower A♭ by one semitone to A𝄫.
+Final answer: A𝄫.
+—-
+And one last example:
+
+Example: Determine the Interval Between G and A♯
+
+Step 1: Identify the Lower Note and Interval
+Lower note: G
+Specified interval: Interval between G and A♯
+
+Step 2: Determine the Interval Number
+Count the letter names, starting with G as 1:
+G (1), A (2).
+The interval number is a second.
+
+Step 3: Use the Major Scale of the Lower Note
+The G major scale is:
+G, A, B, C, D, E, F♯.
+In the G major scale, the note A is the 2nd note, forming a Major 2nd above G.
+
+Step 4: Adjust the Quality of the Interval
+A♯ is one semitone higher than A.
+Raising a Major 2nd by one semitone makes the interval an Augmented 2nd.
+
+Step 5: Write the Upper Note
+The upper note is A♯, and the interval is an Augmented 2nd.
+
+Final Answer
+The interval between G and A♯ is an Augmented 2nd.
+
+Recap of Steps
+Interval number: 2nd → A.
+Major scale of G: A is a Major 2nd above G.
+Adjust for Augmented quality: Raise A to A♯.
+Final answer: Augmented 2nd.
+—-
+Now, read the file and return a new file. All notes should occur at the same time as the original ones. Add the notes that would be:
+-A perfect 4th above the first note
+-A major 3rd above the second note
+-A diminished 8ve above the third note
+-An augmented 6th above the fourth note
+-A minor 2nd above the final note
