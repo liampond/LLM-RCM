@@ -1,0 +1,85 @@
+[TextBlock(text='<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Chord Exercise</title>
+         </titleStmt>
+         <pubStmt><date isodate="2023-12-12"/></pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" clef.shape="F" clef.line="4">
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section>
+                  <measure n="1">
+                     <staff n="1">
+                        <layer n="1">
+                           <chord dur="1">
+                              <note pname="g" oct="2"/>
+                              <note pname="b" oct="2" accid.ges="f"/>
+                              <note pname="e" oct="3" accid.ges="f"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure n="2">
+                     <staff n="1">
+                        <layer n="1">
+                           <chord dur="1">
+                              <note pname="e" oct="3" accid="s"/>
+                              <note pname="f" oct="2" accid="s"/>
+                              <note pname="c" oct="3" accid="s"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure n="3">
+                     <staff n="1">
+                        <layer n="1">
+                           <chord dur="1">
+                              <note pname="e" oct="3" accid="s"/>
+                              <note pname="g" oct="2" accid="s"/>
+                              <note pname="c" oct="3" accid="s"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure n="4">
+                     <staff n="1">
+                        <layer n="1">
+                           <chord dur="1">
+                              <note pname="d" oct="3"/>
+                              <note pname="g" oct="2"/>
+                              <note pname="b" oct="2"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure n="5">
+                     <staff n="1">
+                        <layer n="1">
+                           <chord dur="1">
+                              <note pname="f" oct="2"/>
+                              <note pname="a" oct="2" accid.ges="f"/>
+                              <note pname="c" oct="3" accid="f"/>
+                              <note pname="e" oct="3" accid.ges="f"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>', type='text')]

@@ -1,0 +1,32 @@
+[TextBlock(text='Here is the encoded music file with time signatures added:
+
+!!!OTL: RCM6_August2024_Q1
+**kern
+*clefG2
+*k[]
+*M6/8
+=1
+4.f
+8f
+16fLL
+16fJ
+8fJ
+8fL
+8fJ
+=2
+*M4/4
+16fLL
+16f
+32fL
+32fJJJ
+16.fLL
+32fK
+16fJJ
+8fL
+16fJk
+==
+*-
+!!!system-decoration: {(s1
+
+The first measure is in 6/8 time (adds up to 6 eighth notes)
+The second measure is in 4/4 time (adds up to 4 quarter notes)', type='text')]

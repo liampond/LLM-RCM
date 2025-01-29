@@ -1,0 +1,95 @@
+[TextBlock(text='Looking at the rhythmic values in each measure:
+
+Measure 1:
+- Dotted quarter (12 ppq)
+- Eighth (4 ppq)
+- Two sixteenths + eighth (2+2+4 = 8 ppq)
+- Two eighths (4+4 = 8 ppq)
+Total: 32 ppq = 4/4 time
+
+Measure 2:
+- Two sixteenths + two thirty-seconds (2+2+1+1 = 6 ppq)
+- Dotted sixteenth + thirty-second + sixteenth (3+1+2 = 6 ppq)
+- Eighth + sixteenth (4+2 = 6 ppq)
+Total: 18 ppq = 9/8 time
+
+Here\'s the corrected MEI with time signatures added:
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>RCM6_August2024_Q1</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-05" type="encoding-date">2025-01-05</date>
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <staffGrp>
+                     <staffGrp>
+                        <grpSym symbol="brace" />
+                        <staffDef n="1" lines="5" ppq="8">
+                           <label>Piano</label>
+                           <labelAbbr>Pno.</labelAbbr>
+                           <clef shape="G" line="2" />
+                           <keySig sig="0" />
+                           <meterSig count="4" unit="4" />
+                        </staffDef>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section>
+                  <measure n="1">
+                     <staff n="1">
+                        <layer n="1">
+                           <note dots="1" dur.ppq="12" dur="4" oct="4" pname="f" stem.dir="up" />
+                           <note dur.ppq="4" dur="8" oct="4" pname="f" stem.dir="up" />
+                           <beam>
+                              <note dur.ppq="2" dur="16" oct="4" pname="f" stem.dir="up" />
+                              <note breaksec="1" dur.ppq="2" dur="16" oct="4" pname="f" stem.dir="up" />
+                              <note dur.ppq="4" dur="8" oct="4" pname="f" stem.dir="up" />
+                           </beam>
+                           <beam>
+                              <note dur.ppq="4" dur="8" oct="4" pname="f" stem.dir="up" />
+                              <note dur.ppq="4" dur="8" oct="4" pname="f" stem.dir="up" />
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure n="2">
+                     <staff n="1">
+                        <meterSig count="9" unit="8" />
+                        <layer n="1">
+                           <beam>
+                              <note dur.ppq="2" dur="16" oct="4" pname="f" stem.dir="up" />
+                              <note dur.ppq="2" dur="16" oct="4" pname="f" stem.dir="up" />
+                              <note dur.ppq="1" dur="32" oct="4" pname="f" stem.dir="up" />
+                              <note dur.ppq="1" dur="32" oct="4" pname="f" stem.dir="up" />
+                           </beam>
+                           <beam>
+                              <note dots="1" dur.ppq="3" dur="16" oct="4" pname="f" stem.dir="up" />
+                              <note dur.ppq="1" dur="32" oct="4" pname="f" stem.dir="up" />
+                              <note dur.ppq="2" dur="16" oct="4" pname="f" stem.dir="up" />
+                           </beam>
+                           <beam>
+                              <note dur.ppq="4" dur="8" oct="4" pname="f" stem.dir="up" />
+                              <note dur.ppq="2" dur="16" oct="4" pname="f" stem.dir="up" />
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>', type='text')]

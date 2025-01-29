@@ -1,0 +1,32 @@
+[TextBlock(text='The interval of transposition from E major to A flat major is an augmented third up.
+
+!!!OTL: RCM6_August2024_Q4_transposed
+**kern
+*clefG2
+*k[b-e-a-d-]
+*M4/4
+*met(c)
+=1
+2a-
+4c
+4e-
+=
+4.g
+16a-LL
+16b-JJ
+4a-
+4r
+=
+2ff
+4e-
+4aa-
+=
+4e-
+8d-L
+16cL
+16d-JJ
+4c
+4r
+=||
+*-
+!!!system-decoration: {(s1', type='text')]

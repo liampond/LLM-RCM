@@ -1,0 +1,52 @@
+[TextBlock(text='Looking at the rhythms in each measure:
+
+Measure 1:
+- Dotted quarter (12/8)
+- Eighth (4/8)
+- Two 16ths + eighth (4/8)
+- Two eighths (8/8)
+Total: 28/8 = 7/2 time signature
+
+Measure 2:
+- Four 16ths (4/8)
+- Dotted 16th + 32nd + 16th (4/8)
+- Eighth + 16th (6/8)
+Total: 14/8 = 7/4 time signature
+
+The time signatures are different between the measures. Here\'s the corrected MusicXML with time signatures added:
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+  <!-- Previous header content same as before until attributes -->
+  <part id="P1">
+    <measure number="1" width="576.66">
+      <attributes>
+        <divisions>8</divisions>
+        <key>
+          <fifths>0</fifths>
+        </key>
+        <time>
+          <beats>7</beats>
+          <beat-type>2</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <!-- Rest of measure 1 content same as before -->
+    </measure>
+    <measure number="2" width="401.91">
+      <attributes>
+        <time>
+          <beats>7</beats>
+          <beat-type>4</beat-type>
+        </time>
+      </attributes>
+      <!-- Rest of measure 2 content same as before -->
+    </measure>
+  </part>
+</score-partwise>
+
+The first measure is in 7/2 time and the second measure is in 7/4 time.', type='text')]

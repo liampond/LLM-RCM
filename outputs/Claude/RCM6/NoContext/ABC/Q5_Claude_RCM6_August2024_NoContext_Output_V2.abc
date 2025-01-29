@@ -1,0 +1,7 @@
+[TextBlock(text='X:1
+T:Chord Exercise
+M:4/4
+L:1/2
+K:bass Eb
+V:1 clef=bass
+[E,G,B,]2 || [F=E^c]2 || [^G,^B,^E]2 || [D,G,B,]2 || [F,_A,_C_E]2 |]', type='text')]

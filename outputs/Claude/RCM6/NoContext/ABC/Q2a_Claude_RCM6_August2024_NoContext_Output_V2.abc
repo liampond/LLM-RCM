@@ -1,0 +1,16 @@
+[TextBlock(text='Here is the modified ABC file with rests replacing the placeholder notes:
+
+X:1
+T:RCM6_August2024_Q1
+%%scale 0.83
+%%pagewidth 21.00cm
+%%leftmargin 1.50cm
+%%rightmargin 1.50cm
+L:1/8
+M:4/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+F3 F2 z/ | (3FFF z2 |[M:6/4] F<F F2 z3 | F2 F FF z2 ||[M:9/8] F/FF/ z2 | F/ F2 F z/z/z/z/z ||
+[M:3/4] z2 | F3/4 z2 |]', type='text')]

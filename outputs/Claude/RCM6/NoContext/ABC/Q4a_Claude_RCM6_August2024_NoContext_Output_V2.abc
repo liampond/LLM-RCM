@@ -1,0 +1,15 @@
+[TextBlock(text='The melody transposed up a minor sixth (from E to C) will be in the key of C major.
+
+X:1
+T:RCM6_August2024_Q4_Transposed
+%%scale 0.83
+%%pagewidth 21.00cm
+%%leftmargin 1.50cm
+%%rightmargin 1.50cm
+L:1/16
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ c8 e4 g4 | B6 cd c4 z4 | a8 g4 c\'4 | g4 f2ef e4 z4 ||', type='text')]
