@@ -22,6 +22,8 @@ def save_response(output_path, content, model):
     if model == "Claude":
         content = str(content)
         formatted_string = content.replace("type=text", "").replace("textblock", "")
+        formatted_string = formatted_string.replace("[TextBlock(text=')]", "")
+        formatted_string = formatted_string.replace("', type='text')]", "")
         formatted_string = formatted_string.replace("\\n", "\n")
         formatted_string = formatted_string.strip()
         content = formatted_string
