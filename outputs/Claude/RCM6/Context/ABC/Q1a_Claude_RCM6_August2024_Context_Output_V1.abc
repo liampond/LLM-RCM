@@ -1,0 +1,41 @@
+[TextBlock(text="I'll analyze each measure of the given ABC file, determining the interval between the two notes in each chord.
+
+Measure 1: [Ag]
+Lower note: A
+Upper note: g
+Count: A(1), B(2), C(3), D(4), E(5), F(6), G(7)
+Using A major scale (A, B, C♯, D, E, F♯, G♯)
+G natural is one semitone lower than G♯
+Result: Minor seventh
+
+Measure 2: [F_B]
+Lower note: F
+Upper note: B♭
+Count: F(1), G(2), A(3), B(4)
+Using F major scale (F, G, A, B♭, C, D, E)
+B♭ matches the major scale
+Result: Perfect fourth
+
+Measure 3: [Ec]
+Lower note: E
+Upper note: c
+Count: E(1), F(2), G(3), A(4), B(5), C(6)
+Using E major scale (E, F♯, G♯, A, B, C♯, D♯)
+C natural is one semitone lower than C♯
+Result: Minor sixth
+
+Measure 4: [_cd]
+Lower note: C♭
+Upper note: d
+Count: C(1), D(2)
+Using C♭ major scale (C♭, D♭, E♭, F♭, G♭, A♭, B♭)
+D natural is two semitones higher than D♭
+Result: Augmented second
+
+Measure 5: [Bf]
+Lower note: B
+Upper note: f
+Count: B(1), C(2), D(3), E(4), F(5)
+Using B major scale (B, C♯, D♯, E, F♯, G♯, A♯)
+F natural is one semitone lower than F♯
+Result: Diminished fifth", type='text')]

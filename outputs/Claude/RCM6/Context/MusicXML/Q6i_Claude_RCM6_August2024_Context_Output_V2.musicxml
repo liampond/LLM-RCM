@@ -1,0 +1,38 @@
+[TextBlock(text='Let me analyze this step by step.
+
+1. Key of the melody:
+- Looking at the key signature, there are 3 flats (B♭, E♭, A♭)
+- According to the key signature table, this could be E♭ major or C minor
+- Looking at the melodic content and final cadence, the piece ends on G with B natural (raised leading tone) and D
+- Therefore, this is in C minor
+
+2. Second last chord (measure 3, last beat):
+- Notes from bottom to top: C3, G4, C5, E♭5
+- Root is C
+- Has minor third (E♭)
+- This is a C minor chord
+- Root/quality symbol: Cm
+
+3. Last chord (measure 4):
+- Notes from bottom to top: G2, G4, B♮4, D5
+- Root is G
+- Has major third (B natural)
+- This is a G major chord
+- Root/quality symbol: G
+
+4. Functional symbols (Roman numerals):
+- In C minor:
+  - Cm (second last chord) is the tonic = i
+  - G (last chord) is the dominant = V
+
+5. Cadence type:
+- The progression is i → V
+- Since it ends on V (dominant), this is a half cadence
+
+Final answer:
+- Key: C minor
+- Second last chord root/quality: Cm
+- Last chord root/quality: G
+- Second last chord function: i
+- Last chord function: V
+- Cadence type: Half cadence

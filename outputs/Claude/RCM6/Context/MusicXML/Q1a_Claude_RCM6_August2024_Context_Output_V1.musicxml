@@ -1,0 +1,31 @@
+[TextBlock(text="I'll analyze each measure of the provided MusicXML file to determine the intervals between the two notes in each measure.
+
+Measure 1: A4 to G5
+Step 1: Notes are A and G
+Step 2: Count: A(1), B(2), C(3), D(4), E(5), F(6), G(7)
+Step 3: Using A major scale (A,B,C♯,D,E,F♯,G♯), G is one semitone lower than G♯
+Final Answer: Minor seventh
+
+Measure 2: F♯4 to B♭4
+Step 1: Notes are F♯ and B♭
+Step 2: Count: F(1), G(2), A(3), B(4)
+Step 3: Using F♯ major scale (F♯,G♯,A♯,B,C♯,D♯,E♯), B♭ is two semitones lower than B
+Final Answer: Diminished fourth
+
+Measure 3: E4 to C♯5
+Step 1: Notes are E and C♯
+Step 2: Count: E(1), F(2), G(3), A(4), B(5), C(6)
+Step 3: Using E major scale (E,F♯,G♯,A,B,C♯,D♯), C♯ matches the major scale
+Final Answer: Major sixth
+
+Measure 4: C♭5 to D5
+Step 1: Notes are C♭ and D
+Step 2: Count: C(1), D(2)
+Step 3: Using C♭ major scale (C♭,D♭,E♭,F♭,G♭,A♭,B♭), D is two semitones higher than D♭
+Final Answer: Augmented second
+
+Measure 5: B4 to F♯5
+Step 1: Notes are B and F♯
+Step 2: Count: B(1), C(2), D(3), E(4), F(5)
+Step 3: Using B major scale (B,C♯,D♯,E,F♯,G♯,A♯), F♯ matches the major scale
+Final Answer: Perfect fifth", type='text')]

@@ -1,0 +1,41 @@
+[TextBlock(text="I'll analyze each measure of the provided MEI file to determine the intervals between the notes:
+
+Measure 1:
+Notes: A4 to G5
+Process:
+- Count: A(1), B(2), C(3), D(4), E(5), F(6), G(7)
+- A major scale: A, B, C♯, D, E, F♯, G♯
+- G is one semitone lower than G♯
+Final interval: Minor seventh
+
+Measure 2:
+Notes: F♯4 to B♭4
+Process:
+- Count: F(1), G(2), A(3), B(4)
+- F♯ major scale: F♯, G♯, A♯, B, C♯, D♯, E♯
+- B♭ is two semitones lower than B
+Final interval: Diminished fourth
+
+Measure 3:
+Notes: E4 to C♯5
+Process:
+- Count: E(1), F(2), G(3), A(4), B(5), C(6)
+- E major scale: E, F♯, G♯, A, B, C♯, D♯
+- C♯ matches the major scale
+Final interval: Major sixth
+
+Measure 4:
+Notes: C♭5 to D5
+Process:
+- Count: C(1), D(2)
+- C♭ major scale: C♭, D♭, E♭, F♭, G♭, A♭, B♭
+- D natural is two semitones higher than D♭
+Final interval: Augmented second
+
+Measure 5:
+Notes: B4 to F♯5
+Process:
+- Count: B(1), C(2), D(3), E(4), F(5)
+- B major scale: B, C♯, D♯, E, F♯, G♯, A♯
+- F♯ matches the major scale
+Final interval: Perfect fifth", type='text')]
