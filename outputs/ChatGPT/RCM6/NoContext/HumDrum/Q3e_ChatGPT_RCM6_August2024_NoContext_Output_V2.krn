@@ -1,0 +1,14 @@
+**E-flat minor harmonic scale (ascending and descending) in Humdrum format:**
+
+**Key signature:** 6 flats (B♭, E♭, A♭, D♭, G♭, C♭)
+
+```
+**kern
+*clefF4
+*k[b-e-a-d-g-c-]
+=1
+4E-		4F		4G-		4A-		4B--		4C		4D		4E-
+4E-		4D		4C		4B--		4A-		4G-		4F		4E-
+=2
+*-
+```

@@ -1,0 +1,39 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei">
+  <music>
+    <body>
+      <mdiv>
+        <score>
+          <scoreDef>
+            <keySig sig="3f"/>
+            <staffGrp>
+              <staffDef clef.shape="G" clef.line="2" n="1"/>
+            </staffGrp>
+          </scoreDef>
+          <section>
+            <staff n="1">
+              <layer>
+                <!-- Ascending -->
+                <note pname="g" oct="4" dur="1"/>
+                <note pname="a" oct="4" dur="1"/>
+                <note pname="b" oct="4" dur="1"/>
+                <note pname="c" oct="5" accid="n" dur="1"/>
+                <note pname="d" oct="5" accid="n" dur="1"/>
+                <note pname="e" oct="5" accid="s" dur="1"/>
+                <note pname="f" oct="sharp" dur="1"/>
+                <note pname="g" oct="5" dur="1"/>
+                <!-- Descending -->
+                <note pname="f" oct="sharp" dur="1"/>
+                <note pname="e" oct="5" dur="1"/>
+                <note pname="d" oct="5" dur="1"/>
+                <note pname="c" oct="5" dur="1"/>
+                <note pname="b" oct="4" dur="1"/>
+                <note pname="a" oct="4" dur="1"/>
+                <note pname="g" oct="4" dur="1"/>
+              </layer>
+            </staff>
+          </section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>

@@ -1,0 +1,18 @@
+**Humdrum file:**
+
+```
+**kern
+*k[b-e-]
+*M3/4
+=1
+4C- 4E- 4G-	! E-flat major mediant triad in root position
+*k[a#c#e#]
+4E## 4A# 4C#	! A-sharp minor submediant triad (harmonic form) in second inversion
+*k[c#e#g#]
+4E 4G# 4B	! C-sharp minor dominant triad (harmonic form) in first inversion
+*k[g]
+4D 4G 4B	! G major subdominant triad in second inversion
+*k[b-e-]
+4F 4A- 4C- 4E-	! B-flat minor dominant 7th chord (harmonic form) in root position
+*-
+```

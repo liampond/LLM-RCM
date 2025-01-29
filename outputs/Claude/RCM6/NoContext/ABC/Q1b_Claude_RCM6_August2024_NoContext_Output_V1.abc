@@ -1,0 +1,15 @@
+[TextBlock(text='Here\'s the edited ABC file with the added intervals:
+
+X:1
+T:RCM6_August2024_Q1
+%%scale 0.83
+%%pagewidth 21.00cm
+%%leftmargin 1.50cm
+%%rightmargin 1.50cm
+L:1/4
+M:none
+I:linebreak $
+K:C
+V:1 bass nm="Piano" snm="Pno."
+V:1
+[_B,,_E,]4 | [^D,^F,]4 | [_G,,_G,]4 | [_C,A,]4 | [E,,F,,]4 || %5', type='text')]

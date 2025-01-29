@@ -1,0 +1,25 @@
+**Humdrum format for the melodic minor scale of G# minor (relative minor of B major), ascending and descending:**
+
+**Key signature:** 5 sharps (F#, C#, G#, D#, A#)
+
+**Scale:**
+```
+**kern
+*k[f#c#g#d#a#]
+1g#
+1a#
+1b
+1c# 
+1d# 
+1e# 
+1f##
+1g##
+1f##
+1e#
+1d#
+1c#
+1b
+1a#
+1g#
+*-
+```

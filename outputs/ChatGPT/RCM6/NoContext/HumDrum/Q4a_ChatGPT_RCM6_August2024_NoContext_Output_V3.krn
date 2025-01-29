@@ -1,0 +1,32 @@
+The melody is in E major. Transposing it up a minor sixth moves it to C major. Below is the transposed file:
+
+!!!OTL: RCM6_August2024_Q4_Transposed
+**kern
+*clefG2
+*k[]
+*M4/4
+*met(c)
+=1
+2g
+4b
+4d
+=
+4.f
+16gL
+16aJJ
+4g
+4r
+=
+2ee
+4d
+4gg
+=
+4d
+8cL
+16bL
+16cJJ
+4b
+4r
+=||
+*-
+!!!system-decoration: {(s1

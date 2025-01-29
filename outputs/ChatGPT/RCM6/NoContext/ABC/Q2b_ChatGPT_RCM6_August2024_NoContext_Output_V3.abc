@@ -1,0 +1,34 @@
+To infer the time signature, we analyze the rhythmic content of each measure.
+
+### Measure 1: `F6 F2 FFF2 F2F2`
+- `F6` = 6/16
+- `F2` = 2/16
+- `FFF2` = 3/16 (F, F, F tied to 2/16)
+- `F2F2` = 4/16 (F2 + F2)
+
+Total = 6/16 + 2/16 + 3/16 + 4/16 = **15/16**
+
+### Measure 2: `FFF/F/ F>FF F2F`
+- `FFF/F/` = 3/16 (F, F, F with a slur)
+- `F>FF` = 3/16 (F accented, F, F)
+- `F2F` = 4/16 (F2 + F)
+
+Total = 3/16 + 3/16 + 4/16 = **10/16**
+
+### Updated ABC file with time signatures:
+X:1  
+T:RCM6_August2024_Q1  
+%%scale 0.83  
+%%pagewidth 21.00cm  
+%%leftmargin 1.50cm  
+%%rightmargin 1.50cm  
+L:1/16  
+M:none  
+I:linebreak $  
+K:C  
+V:1 treble nm="Piano" snm="Pno."  
+V:1  
+M:15/16  
+ F6 F2 FFF2 F2F2 |  
+M:10/16  
+ FFF/F/ F>FF F2F |] %2

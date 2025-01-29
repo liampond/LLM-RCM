@@ -1,0 +1,17 @@
+[TextBlock(text='Let me analyze the melody:
+
+-Key: E-flat major (3 flats: B-flat, E-flat, A-flat)
+
+-Second last chord (measure 4): C major (C)
+Root position C with notes C, G, C, E-flat (appears as an augmented triad due to the E-flat in the melody)
+
+-Last chord (measure 5): G major (G)
+Root position G with notes G, B natural, D
+
+-Functional symbol for second last chord: VI (or VI+) in E-flat major
+
+-Functional symbol for last chord: III in E-flat major
+
+-Type of cadence: Half cadence (ends on III, which functions as V/VI, creating a half cadence effect in the temporary tonicization of VI)
+
+Note: This progression shows some chromatic harmony with the use of B natural, suggesting secondary dominant function of the final G major chord.', type='text')]

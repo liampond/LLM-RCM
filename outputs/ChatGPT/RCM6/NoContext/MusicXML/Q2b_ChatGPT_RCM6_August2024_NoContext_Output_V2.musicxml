@@ -1,0 +1,58 @@
+To determine the time signature for each measure, we analyze the total rhythmic duration of the notes in each measure.
+
+### Measure 1:
+- **Dotted quarter note**: 1.5 beats
+- **Eighth note**: 0.5 beats
+- **Sixteenth note**: 0.25 beats (×2 = 0.5 beats for two sixteenths)
+- **Eighth note**: 0.5 beats (×2 = 1 beat for two eighths)
+
+**Total**: 1.5 + 0.5 + 0.5 + 1 = **4 beats**.
+
+**Inferred time signature**: **4/4**.
+
+---
+
+### Measure 2:
+- **Two sixteenth notes**: 0.25 beats each (0.25 × 2 = 0.5 beats)
+- **Two thirty-second notes**: 0.125 beats each (0.125 × 2 = 0.25 beats)
+- **Dotted sixteenth note**: 0.375 beats
+- **Thirty-second note**: 0.125 beats
+- **Sixteenth note**: 0.25 beats
+- **Eighth note**: 0.5 beats
+- **Sixteenth note**: 0.25 beats
+
+**Total**: 0.5 + 0.25 + 0.375 + 0.125 + 0.25 + 0.5 + 0.25 = **2 beats**.
+
+**Inferred time signature**: **2/4**.
+
+---
+
+### Updated MusicXML with Time Signatures:
+```xml
+<measure number="1" width="576.66">
+  <attributes>
+    <divisions>8</divisions>
+    <key>
+      <fifths>0</fifths>
+    </key>
+    <time>
+      <beats>4</beats>
+      <beat-type>4</beat-type>
+    </time>
+    <clef>
+      <sign>G</sign>
+      <line>2</line>
+    </clef>
+  </attributes>
+  ...
+</measure>
+<measure number="2" width="401.91">
+  <attributes>
+    <time>
+      <beats>2</beats>
+      <beat-type>4</beat-type>
+    </time>
+  </attributes>
+  ...
+</measure>
+```

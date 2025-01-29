@@ -1,0 +1,38 @@
+**Humdrum File:**
+
+```
+**kern
+*k[b-e-]		! Key signature for E-flat major
+*M3			! Time signature
+4c-		! E-flat major mediant triad in root position: G, B-flat, E-flat
+4e-		! Root
+4g
+4b-
+
+*k[##]		! Key signature for A-sharp minor
+*M3			! Time signature
+4c-		! A-sharp minor mediant triad in root position: G, B-flat, E-flat
+4e-		! Root
+4g
+4b-
+
+*k[##]		! Key signature for A-sharp minor
+*M3			! Time signature
+4c-		! A-sharp minor mediant triad in root position: G, B-flat, E-flat
+4e-		! Root
+4g
+4b-
+
+*k[##]		! Key signature for A-sharp minor
+*M3			! Time signature
+4c-		! A-sharp minor mediant triad in root position: G, B-flat, E-flat
+4e-		! Root
+4g
+4b-
+
+*k[##]		! Key signature for A-sharp minor
+*M3			! Time signature
+4c-		! A-sharp minor mediant triad in root position: G, B-flat, E-flat
+4e-		! Root
+4g
+4b-

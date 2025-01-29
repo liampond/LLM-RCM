@@ -1,6 +1,0 @@
-[TextBlock(text='Here are the notes for the D flat major scale in the bass clef, ascending and descending:
-
-Ascending: D♭ - E♭ - F - G♭ - A♭ - B♭ - C - D♭
-Descending: D♭ - C - B♭ - A♭ - G♭ - F - E♭ - D♭
-
-The key signature for D♭ major has five flats: B♭, E♭, A♭, D♭, and G♭.', type='text')]

@@ -1,0 +1,13 @@
+[TextBlock(text='Let me analyze this melody:
+
+-Key: Eb major
+
+-Second last chord [Gce]: C minor (Cm)
+-Last chord [G=Bd]: G major (G)
+
+-Second last chord functional symbol: vi
+-Last chord functional symbol: III
+
+-Type of cadence: Half cadence (ends on III, which is the dominant of the relative minor key)
+
+This progression moves from the submediant (vi) to III, which functions as V in the temporary tonicization of C minor, creating a half cadence effect in the relative minor.', type='text')]

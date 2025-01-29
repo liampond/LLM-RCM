@@ -1,0 +1,19 @@
+X: 1
+T: Chord Examples
+M: 4/4
+L: 1/4
+K: Eb
+% a. Mediant triad of E flat major in root position
+B G Eb | 
+K: A#m
+% b. Submediant triad of A sharp minor, harmonic form, in second inversion
+Fx Dx A# |
+K: C#m
+% c. Dominant triad of C sharp minor, harmonic form, in first inversion
+G# E B |
+K: G
+% d. Subdominant triad of G major, in second inversion
+D G C |
+K: Bb-
+% e. Dominant 7th chord of B flat minor, harmonic form, in root position
+F Ab C Eb |

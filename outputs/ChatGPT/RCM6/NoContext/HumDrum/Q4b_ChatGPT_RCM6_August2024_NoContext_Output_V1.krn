@@ -1,0 +1,32 @@
+The interval of transposition is a **minor third up** (E major to A-flat major). Below is the transposed file in HumDrum format:
+
+!!!OTL: RCM6_August2024_Q4_Transposed
+**kern
+*clefG2
+*k[b-e-a-d-]
+*M4/4
+*met(c)
+=1
+2g
+4b-
+4d
+=
+4.f
+16gLL
+16aJJ
+4g
+4r
+=
+2ee-
+4d
+4gg
+=
+4d
+8cL
+16b-L
+16cJJ
+4b-
+4r
+=||
+*-
+!!!system-decoration: {(s1

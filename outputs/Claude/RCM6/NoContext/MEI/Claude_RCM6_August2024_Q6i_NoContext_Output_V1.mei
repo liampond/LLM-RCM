@@ -1,0 +1,18 @@
+[TextBlock(text='Let me analyze the melody:
+
+-Key: E♭ major (3 flats)
+
+-Second last chord (measure 3): C minor (Cm)
+Root position triad containing C-E♭-G
+
+-Last chord (measure 4): G major (G)
+Root position triad containing G-B♮-D
+
+-Functional symbol for second last chord: vi (submediant)
+
+-Functional symbol for last chord: III (mediant)
+Note: This is a secondary dominant functioning as V/vi
+
+-Type of cadence: Half cadence (ending on III which functions as V/vi)
+
+The progression moves from vi to V/vi, creating a half cadence in relation to the temporary tonic of C minor.', type='text')]

@@ -1,0 +1,35 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei">
+  <music>
+    <body>
+      <mdiv>
+        <score>
+          <scoreDef key.sig="3f" clef.shape="F" clef.line="4" meter.count="1" meter.unit="1"/>
+          <section>
+            <staff n="1">
+              <layer>
+                <!-- Ascending -->
+                <note pname="e" oct="3" dur="1" accid="f"/>
+                <note pname="f" oct="3" dur="1"/>
+                <note pname="g" oct="3" dur="1" accid="f"/>
+                <note pname="a" oct="3" dur="1" accid="f"/>
+                <note pname="b" oct="3" dur="1" accid="n"/>
+                <note pname="c" oct="4" dur="1" accid="f"/>
+                <note pname="d" oct="4" dur="1" accid="n"/>
+                <note pname="e" oct="4" dur="1" accid="f"/>
+                <!-- Descending -->
+                <note pname="e" oct="4" dur="1" accid="f"/>
+                <note pname="d" oct="4" dur="1" accid="n"/>
+                <note pname="c" oct="4" dur="1" accid="f"/>
+                <note pname="b" oct="3" dur="1" accid="n"/>
+                <note pname="a" oct="3" dur="1" accid="f"/>
+                <note pname="g" oct="3" dur="1" accid="f"/>
+                <note pname="f" oct="3" dur="1"/>
+                <note pname="e" oct="3" dur="1" accid="f"/>
+              </layer>
+            </staff>
+          </section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>

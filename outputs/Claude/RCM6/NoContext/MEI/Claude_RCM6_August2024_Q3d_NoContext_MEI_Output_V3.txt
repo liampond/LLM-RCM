@@ -1,8 +1,0 @@
-[TextBlock(text='Here are the notes for the A major scale:
-
-Ascending: A B C# D E F# G# A
-Descending: A G# F# E D C# B A
-
-The key signature for A major has three sharps: F#, C#, and G#.
-
-In both ascending and descending forms, no additional accidentals are needed as all necessary sharps are covered by the key signature.', type='text')]

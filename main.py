@@ -198,7 +198,7 @@ def main(exam, context, datatype, question, model, examdate):
     os.makedirs(output_dir, exist_ok=True)
 
     file_extension = settings.EXTENSION_MAP[datatype]
-    output_filename = f"{model}_{exam}_{examdate}_{question}_{context}_Output{file_extension}"
+    output_filename = f"{question}_{model}_{exam}_{examdate}_{context}_Output{file_extension}"
     output_path = os.path.join(output_dir, output_filename)
 
     save_response(output_path, response, model)
