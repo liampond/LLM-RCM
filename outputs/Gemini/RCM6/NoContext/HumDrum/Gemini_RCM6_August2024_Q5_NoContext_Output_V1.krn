@@ -1,0 +1,39 @@
+**a.**
+```humdrum
+!!!keysig: Eb major
+*clefF4
+*M4/4
+Eb4 | G4 | Bb4 ||
+*||
+```
+
+**b.**
+!!!keysig: a# minor
+*clefF4
+*M4/4
+C#5 | F#5 | A#5 ||
+*||
+
+
+**c.**
+!!!keysig: c# minor
+*clefF4
+*M4/4
+G#4 | C#5 | E#5 ||
+*||
+
+
+**d.**
+!!!keysig: G major
+*clefF4
+*M4/4
+C4 | D4 | G4 ||
+*||
+
+
+**e.**
+!!!keysig: bb minor
+*clefF4
+*M4/4
+Bb4 | D5 | F5 | Ab5 ||
+*||

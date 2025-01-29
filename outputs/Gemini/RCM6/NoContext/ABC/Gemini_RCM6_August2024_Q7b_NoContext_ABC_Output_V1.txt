@@ -1,6 +1,0 @@
--Key: A major
--Time signature: 3/4
--Bar 1: Fmaj
--Bar 2: Dmin
--Bar 3: Cmaj
--Bar 4: Fmaj

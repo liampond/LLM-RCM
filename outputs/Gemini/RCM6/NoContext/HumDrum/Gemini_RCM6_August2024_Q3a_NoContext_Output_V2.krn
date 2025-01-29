@@ -1,0 +1,37 @@
+**Clef:**
+
+```humdrum
+!!!CLEF: B
+```
+
+**Key Signature:**
+
+```humdrum
+*k[b-,-e-,-a-,-d-,-g-,-c-]
+```
+
+**Scale (ascending):**
+
+```humdrum
+Db4 w
+Eb4 w
+F4 w
+Gb4 w
+Ab4 w
+Bb4 w
+C5 w
+Db5 w
+```
+
+**Scale (descending):**
+
+```humdrum
+Db5 w
+C5 w
+Bb4 w
+Ab4 w
+Gb4 w
+F4 w
+Eb4 w
+Db4 w
+```

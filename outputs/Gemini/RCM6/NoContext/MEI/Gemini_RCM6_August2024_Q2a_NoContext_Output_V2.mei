@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>RCM6_August2024_Q1</title>
+            <respStmt/>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-05" type="encoding-date">2025-01-05</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application isodate="2025-01-09T13:07:04" version="5.0.0-dev-4196bb0">
+               <name>Verovio</name>
+               <p>Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">RCM6_August2024_Q2a</rend>
+                  </pgHead>
+                  <pgFoot>
+                     <rend/>
+                  </pgFoot>
+                  <staffGrp>
+                     <staffGrp>
+                        <grpSym symbol="brace"/>
+                        <staffDef n="1" lines="5" ppq="24">
+                           <label>Piano</label>
+                           <labelAbbr>Pno.</labelAbbr>
+                           <instrDef midi.channel="0" midi.instrnum="0" midi.volume="78.00%"/>
+                           <clef shape="G" line="2"/>
+                           <keySig sig="0"/>
+                           <meterSig count="4" unit="2"/>
+                        </staffDef>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section>
+                  <measure n="1">
+                     <staff n="1">
+                        <layer n="1">
+                           <note dots="1" dur="4" dur.ppq="36" oct="4" pname="f" stem.dir="up"/>
+                           <rest dur="4" dur.ppq="24"/>
+                           <note dur="16" dur.ppq="6" oct="4" pname="f" stem.dir="up"/>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure n="2">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <tuplet bracket.visible="false" num="3" numbase="2">
+                                 <note dur="8" dur.ppq="8" oct="4" pname="f" stem.dir="up"/>
+                                 <note dur="8" dur.ppq="8" oct="4" pname="f" stem.dir="up"/>
+                                 <note dur="8" dur.ppq="8" oct="4" pname="f" stem.dir="up"/>
+                              </tuplet>
+                           </beam>
+                           <rest dur="4" dur.ppq="24"/>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef>
+                     <meterSig count="6" unit="4"/>
+                  </scoreDef>
+                  <measure n="3">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="16" dur.ppq="6" oct="4" pname="f" stem.dir="up"/>
+                              <note dots="1" dur="8" dur.ppq="18" oct="4" pname="f" stem.dir="up"/>
+                           </beam>
+                           <rest dur="4" dur.ppq="24"/>
+                           <note dots="1" dur="4" dur.ppq="36" oct="4" pname="f" stem.dir="up"/>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure n="4" right="dbl">
+                     <staff n="1">
+                        <layer n="1">
+                           <rest dur="4" dur.ppq="24"/>
+                           <note dur="8" dur.ppq="12" oct="4" pname="f" stem.dir="up"/>
+                           <beam>
+                              <note dur="8" dur.ppq="12" oct="4" pname="f" stem.dir="up"/>
+                              <note dur="8" dur.ppq="12" oct="4" pname="f" stem.dir="up"/>
+                           </beam>
+                           <note dur="4" dur.ppq="24" oct="4" pname="f" stem.dir="up"/>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef>
+                     <meterSig count="9" unit="8"/>
+                  </scoreDef>
+                  <measure n="5">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="16" dur.ppq="6" oct="4" pname="f" stem.dir="up"/>
+                              <note dur="8" dur.ppq="12" oct="4" pname="f" stem.dir="up"/>
+                              <note dur="16" dur.ppq="6" oct="4" pname="f" stem.dir="up"/>
+                           </beam>
+                           <rest dur="4" dur.ppq="24"/>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure n="6" right="dbl">
+                     <staff n="1">
+                        <layer n="1">
+                           <note dur="16" dur.ppq="6" oct="4" pname="f" stem.dir="up"/>
+                           <rest dur="4" dur.ppq="24"/>
+                           <note dur="8" dur.ppq="12" oct="4" pname="f" stem.dir="up"/>
+                           <beam>
+                              <note dur="16" dur.ppq="6" oct="4" pname="f" stem.dir="up"/>
+                              <note dur="16" dur.ppq="6" oct="4" pname="f" stem.dir="up"/>
+                              <note dur="16" dur.ppq="6" oct="4" pname="f" stem.dir="up"/>
+                              <note breaksec="1" dur="16" dur.ppq="6" oct="4" pname="f" stem.dir="up"/>
+                              <note dur="8" dur.ppq="12" oct="4" pname="f" stem.dir="up"/>
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef>
+                     <meterSig count="3" unit="4"/>
+                  </scoreDef>
+                  <measure n="7">
+                     <staff n="1">
+                        <layer n="1">
+                           <rest dur="4" dur.ppq="24"/>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure n="8" right="end">
+                     <staff n="1">
+                        <layer n="1">
+                           <note dots="1" dur="16" dur.ppq="9" oct="4" pname="f" stem.dir="up"/>
+                           <rest dur="4" dur.ppq="24"/>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

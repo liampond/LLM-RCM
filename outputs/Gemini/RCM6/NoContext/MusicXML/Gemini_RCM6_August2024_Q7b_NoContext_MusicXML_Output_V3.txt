@@ -1,6 +1,0 @@
-- Key: A major (A major is the relative major of F# minor, which is indicated by the key signature)
-- Time Signature: 3/4
-- Bar 1: F# (can also be considered a D major/F# major polychord)
-- Bar 2: B (B major triad is spelled B, D#, F#. Only B and D# are present in the melody)
-- Bar 3: C#m (C# minor triad is spelled C#, E, G#. Only C#, E# and G# are present in the melody. The E is altered to E#)
-- Bar 4: F# (F# major triad is spelled F#, A#, C#. Only F# is present in the melody)

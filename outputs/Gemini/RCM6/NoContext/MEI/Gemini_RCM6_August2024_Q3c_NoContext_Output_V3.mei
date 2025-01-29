@@ -1,0 +1,47 @@
+```mei
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+ <meiHead>
+  <fileDesc>
+   <titleStmt>
+    <title>B Minor Scale</title>
+   </titleStmt>
+  </fileDesc>
+ </meiHead>
+ <music>
+  <body>
+   <mdiv>
+    <score>
+     <scoreDef>
+      <staffGrp>
+       <staffDef n="1" clef.shape="bass" clef.line="4" key.sig="2s" key.mode="minor"/>
+      </staffGrp>
+     </scoreDef>
+     <section>
+      <measure>
+       <staff n="1">
+        <layer n="1">
+         <note dur="1" oct="3" pname="b"/>
+         <note dur="1" oct="4" pname="c"/>
+         <note dur="1" oct="4" pname="d"/>
+         <note dur="1" oct="4" pname="e"/>
+         <note dur="1" oct="4" pname="f"/>
+         <note dur="1" oct="4" pname="g"/>
+         <note dur="1" oct="4" pname="a"/>
+         <note dur="1" oct="4" pname="b"/>
+         <note dur="1" oct="4" pname="a"/>
+         <note dur="1" oct="4" pname="g"/>
+         <note dur="1" oct="4" pname="f"/>
+         <note dur="1" oct="4" pname="e"/>
+         <note dur="1" oct="4" pname="d"/>
+         <note dur="1" oct="4" pname="c"/>
+         <note dur="1" oct="3" pname="b"/>
+        </layer>
+       </staff>
+      </measure>
+     </section>
+    </score>
+   </mdiv>
+  </body>
+ </music>
+</mei>
+```

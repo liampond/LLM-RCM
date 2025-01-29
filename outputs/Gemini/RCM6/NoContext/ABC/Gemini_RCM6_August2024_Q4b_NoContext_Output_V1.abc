@@ -1,0 +1,15 @@
+X:1
+T:RCM6_August2024_Q4_Transposed
+%%scale 0.83
+%%pagewidth 21.00cm
+%%leftmargin 1.50cm
+%%rightmargin 1.50cm
+L:1/16
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ Ab8 c4 eb4 | f6 g ab4 z4 | e8 d4 ab4 | d4 c2ba c4 z4 || %4
+
+Interval of transposition: Major third up.

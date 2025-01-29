@@ -1,6 +1,0 @@
-- Key: A major (A major is the relative major of F# minor, the key signature given)
-- Time Signature: 3/4
-- Bar 1: F# (F# major triad is implied)
-- Bar 2: B (B major triad is implied)
-- Bar 3: C#m (C# minor triad is implied)
-- Bar 4: F# (F# major triad is implied)

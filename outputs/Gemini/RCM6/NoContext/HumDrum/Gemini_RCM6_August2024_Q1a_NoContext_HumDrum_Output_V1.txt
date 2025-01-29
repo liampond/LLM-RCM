@@ -1,5 +1,0 @@
-Measure 1: Perfect fifth
-Measure 2: Augmented fourth
-Measure 3: Minor third
-Measure 4: Major second
-Measure 5: Minor sixth

@@ -1,0 +1,26 @@
+**Clef: treble**
+**Key signature: g# minor**
+**Time signature: 4/4**
+
+```humdrum
+!!!COM: Relative minor, melodic form, of B major (ascending and descending)
+!!!k[f#c#g#d#a#]
+*k[f#c#g#d#a#]
+*M4/4
+*clefG2
+g#2w
+a#2w
+b2w
+c#2w
+d#2w
+e#2w
+f#2w
+f#2w
+e2w
+d#2w
+c#2w
+b2w
+a#2w
+g#2w
+*-
+```

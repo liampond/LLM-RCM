@@ -1,6 +1,0 @@
-Bar 1: Eighth rest
-Bar 2: Quarter rest
-Bar 3: Two eighth rests
-Bar 4: Eighth rest
-Bar 7: Two eighth rests
-Bar 8: Quarter rest

@@ -1,1 +1,1 @@
-Return the intervals between the notes in each measure. If you have a diminished fifth or augmented fourth, do not say tritone. Specify the the interval with precision.
+Return the intervals between the notes in each measure.

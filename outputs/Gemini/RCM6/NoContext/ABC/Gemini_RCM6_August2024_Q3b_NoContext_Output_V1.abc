@@ -1,0 +1,9 @@
+X: 1
+T: G# melodic minor scale
+M: 4/4
+L: 1/1
+K: G# minor
+V:1 clef=treble
+"G#"G,"A"A,"B"B,C,D,E,"F#"F#,"G#"G, "G#"G,F#,"E"E,D,C,"B"B,"A"A,"G#"G,
+V:2 clef=bass
+zG,zA,zB,zC,zD,zE,zF#,zG, zG,zF#,zE,zD,zC,zB,zA,zG

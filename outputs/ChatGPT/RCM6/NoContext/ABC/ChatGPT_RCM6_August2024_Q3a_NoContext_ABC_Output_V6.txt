@@ -1,0 +1,11 @@
+Here is the D-flat major scale in ABC notation, ascending and descending, in the bass clef. The key signature is specified, and whole notes are used.
+
+```
+X: 1
+T: D-flat Major Scale
+C: Music Theorist
+M: 4/4
+L: 1/1
+K: Db bass
+DB, EB, FB, GB, AB, BB, CB, DB | DB, CB, BB, AB, GB, FB, EB, DB |
+```

@@ -1,8 +1,0 @@
-Measure 1: 4/4
-Measure 2: 4/4
-
-**Explanation:**
-
-* **Measure 1:** Contains a dotted quarter note (12/8 = 3/4 of a whole note), an eighth note (4/8 = 1/4 of a whole note), followed by notes totaling another quarter note.  This adds up to 4/4.
-
-* **Measure 2:**  All the notes in the second measure add up to a whole note's value (sixteenth notes, a dotted eighth, thirty-second notes, etc. - the total duration is equivalent to 32/32). This also indicates a 4/4 time signature.

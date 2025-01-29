@@ -1,5 +1,0 @@
-* **Perfect 4th above Bb2:** Eb3
-* **Major 3rd above D#3:** F##3 (or Gx3)
-* **Diminished 8ve above Gb2:** Fbb2
-* **Augmented 6th above Cb3:** Abb3
-* **Minor 2nd above E2:** F2

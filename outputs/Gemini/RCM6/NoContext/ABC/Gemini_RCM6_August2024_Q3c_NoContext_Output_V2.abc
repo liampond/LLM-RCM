@@ -1,0 +1,10 @@
+X: 1
+T: B minor natural scale
+M: 4/4
+L: 1/1
+K: Bmin
+%%staves {1 2}
+V:1 clef=bass
+B,2 | B,2 |
+V:2 clef=bass
+B,,2 | B,,2 |

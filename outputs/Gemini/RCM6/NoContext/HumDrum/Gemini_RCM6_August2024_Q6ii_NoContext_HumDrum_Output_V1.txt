@@ -1,6 +1,0 @@
-- Key: D# minor
-- Last chord: A major
-- Second last chord: D# diminished
-- Last chord function: V/V (dominant of the dominant)
-- Second last chord function: vii°/V (diminished seventh of V)
-- Cadence type: Half cadence

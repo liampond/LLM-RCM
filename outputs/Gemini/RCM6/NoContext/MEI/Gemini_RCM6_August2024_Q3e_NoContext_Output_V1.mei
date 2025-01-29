@@ -1,0 +1,39 @@
+```mei
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>E-flat minor, harmonic form</title>
+      </titleStmt>
+    </fileDesc>
+  </meiHead>
+  <music>
+    <body>
+      <staff clef.shape="F" clef.line="4">
+        <key sig="3f">
+          <measure>
+            <note pname="Eb" oct="2" dur="1" />
+            <note pname="F" oct="2" dur="1" />
+            <note pname="G" oct="2" dur="1" />
+            <note pname="Ab" oct="2" dur="1" />
+            <note pname="B" oct="2" dur="1"  />
+            <note pname="C" oct="3" dur="1" />
+            <note pname="D" accid="s" oct="3" dur="1" />
+            <note pname="Eb" oct="3" dur="1" />
+          </measure>
+          <measure>
+            <note pname="Eb" oct="3" dur="1" />
+            <note pname="D" accid="s" oct="3" dur="1" />
+            <note pname="C" oct="3" dur="1" />
+            <note pname="B" oct="2" dur="1" />
+            <note pname="Ab" oct="2" dur="1" />
+            <note pname="G" oct="2" dur="1" />
+            <note pname="F" oct="2" dur="1" />
+            <note pname="Eb" oct="2" dur="1" />
+          </measure>
+        </key>
+      </staff>
+    </body>
+  </music>
+</mei>
+```

@@ -1,6 +1,0 @@
-* **Key:** Eb Major
-* **Second to last chord:** Eb Major
-* **Last chord:** Gb Major
-* **Function of the second to last chord:** IV
-* **Function of the last chord:** I64 (first inversion)
-* **Cadence Type:** Half Cadence

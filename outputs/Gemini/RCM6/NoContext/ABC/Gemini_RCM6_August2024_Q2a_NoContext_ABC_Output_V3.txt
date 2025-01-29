@@ -1,7 +1,0 @@
-Bar 1: Eighth rest
-Bar 2: Quarter rest
-Bar 3: Two eighth rests
-Bar 4: Eighth rest
-Bar 6: Quarter rest
-Bar 7: Dotted eighth rest
-Bar 8: No rest needed (bar is complete).

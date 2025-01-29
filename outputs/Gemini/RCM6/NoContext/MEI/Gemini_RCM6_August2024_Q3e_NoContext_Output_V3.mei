@@ -1,0 +1,47 @@
+```mei
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+ <meiHead>
+  <fileDesc>
+   <titleStmt>
+    <title>E-flat minor, harmonic form</title>
+   </titleStmt>
+  </fileDesc>
+ </meiHead>
+ <music>
+  <body>
+   <mdiv>
+    <score>
+     <scoreDef>
+      <clef>bass</clef>
+      <keySig>
+       <key pname="eb" mode="minor"/>
+      </keySig>
+     </scoreDef>
+     <staffGrp>
+      <staffDef n="1"/>
+      <staff n="1">
+       <layer n="1">
+        <note pname="eb" oct="2" dur="1"/>
+        <note pname="f" oct="2" dur="1"/>
+        <note pname="g" oct="2" dur="1"/>
+        <note pname="ab" oct="2" dur="1"/>
+        <note pname="bb" oct="2" dur="1"/>
+        <note pname="c" oct="3" dur="1"/>
+        <note pname="d" accid="s" oct="3" dur="1"/>
+        <note pname="eb" oct="3" dur="1"/>
+        <note pname="d" accid="s" oct="3" dur="1"/>
+        <note pname="c" oct="3" dur="1"/>
+        <note pname="bb" oct="2" dur="1"/>
+        <note pname="ab" oct="2" dur="1"/>
+        <note pname="g" oct="2" dur="1"/>
+        <note pname="f" oct="2" dur="1"/>
+        <note pname="eb" oct="2" dur="1"/>
+       </layer>
+      </staff>
+     </staffGrp>
+    </score>
+   </mdiv>
+  </body>
+ </music>
+</mei>
+```

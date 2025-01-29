@@ -1,0 +1,54 @@
+```mei
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+ <meiHead>
+  <fileDesc>
+   <titleStmt>
+    <title>D-flat Major Scale</title>
+   </titleStmt>
+  </fileDesc>
+ </meiHead>
+ <music>
+  <body>
+   <mdiv>
+    <score>
+     <scoreDef>
+      <staffGrp>
+       <staffDef n="1" clef.shape="bass" clef.line="4" key.sig="5f" />
+      </staffGrp>
+     </scoreDef>
+     <section>
+      <measure n="1">
+       <staff n="1">
+        <layer n="1">
+         <note dur="1" oct="2" pname="d" accid="f" />
+         <note dur="1" oct="2" pname="e" accid="f" />
+         <note dur="1" oct="2" pname="f" />
+         <note dur="1" oct="2" pname="g" accid="f" />
+         <note dur="1" oct="2" pname="a" accid="f" />
+         <note dur="1" oct="3" pname="b" accid="ff" />
+         <note dur="1" oct="3" pname="c" />
+         <note dur="1" oct="3" pname="d" accid="f" />
+        </layer>
+       </staff>
+      </measure>
+      <measure n="2">
+       <staff n="1">
+        <layer n="1">
+         <note dur="1" oct="3" pname="d" accid="f" />
+         <note dur="1" oct="3" pname="c" />
+         <note dur="1" oct="3" pname="b" accid="ff" />
+         <note dur="1" oct="2" pname="a" accid="f" />
+         <note dur="1" oct="2" pname="g" accid="f" />
+         <note dur="1" oct="2" pname="f" />
+         <note dur="1" oct="2" pname="e" accid="f" />
+         <note dur="1" oct="2" pname="d" accid="f" />
+        </layer>
+       </staff>
+      </measure>
+     </section>
+    </score>
+   </mdiv>
+  </body>
+ </music>
+</mei>
+```

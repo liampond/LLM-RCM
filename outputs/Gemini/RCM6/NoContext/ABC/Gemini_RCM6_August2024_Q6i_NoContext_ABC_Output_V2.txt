@@ -1,6 +1,0 @@
-- Key: Eb major
-- Second last chord: V7 (G dominant 7)
-- Last chord: I (Eb major)
-- Second last chord function: Dominant
-- Last chord function: Tonic
-- Cadence type: Authentic

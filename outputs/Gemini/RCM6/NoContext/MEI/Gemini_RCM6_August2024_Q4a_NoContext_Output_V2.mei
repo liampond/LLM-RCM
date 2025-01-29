@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Transposed Melody</title>
+         </titleStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" ppq="4">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="G" line="2"/>
+                        <keySig sig="6s"/>  </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section>
+                  <measure n="1">
+                     <staff n="1">
+                        <layer n="1">
+                           <note dur="2" oct="5" pname="c" stem.dir="down"/>
+                           <note dur="4" oct="5" pname="e" stem.dir="down"/>
+                           <note dur="4" oct="5" pname="g" stem.dir="down" accid.ges="s"/>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure n="2">
+                     <staff n="1">
+                        <layer n="1">
+                           <note dots="1" dur="4" oct="5" pname="a" stem.dir="down" accid.ges="s"/>
+                           <beam>
+                              <note dur="16" oct="5" pname="c" stem.dir="down"/>
+                              <note dur="16" oct="5" pname="d" stem.dir="down" accid.ges="s"/>
+                           </beam>
+                           <note dur="4" oct="5" pname="c" stem.dir="down"/>
+                           <rest dur="4"/>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure n="3">
+                     <staff n="1">
+                        <layer n="1">
+                           <note dur="2" oct="6" pname="g" stem.dir="down" accid.ges="s"/>
+                           <note dur="4" oct="5" pname="g" stem.dir="down" accid.ges="s"/>
+                           <note dur="4" oct="6" pname="c" stem.dir="down"/>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure n="4" right="dbl">
+                     <staff n="1">
+                        <layer n="1">
+                           <note dur="4" oct="5" pname="g" stem.dir="down" accid.ges="s"/>
+                           <beam>
+                              <note dur="8" oct="5" pname="f" stem.dir="down" accid.ges="s"/>
+                              <note dur="16" oct="5" pname="e" stem.dir="down"/>
+                              <note dur="16" oct="5" pname="f" stem.dir="down" accid.ges="s"/>
+                           </beam>
+                           <note dur="4" oct="5" pname="e" stem.dir="down"/>
+                           <rest dur="4"/>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
+
+The new key is C# major.

@@ -1,6 +1,0 @@
-- Key: A major (A Ionian)
-- Time signature: 3/4
-- Bar 1: A major
-- Bar 2: D major
-- Bar 3: E major
-- Bar 4: F# major

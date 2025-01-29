@@ -1,9 +1,0 @@
-The transposed melody, up a minor sixth (9 semitones), would be:
-
-* **Measure 1:** C#5 (half note), E#5 (quarter note), G#5 (quarter note)
-* **Measure 2:** A#4 (dotted quarter note), B4 (16th note), C#5 (16th note), B4 (quarter note), rest (quarter note)
-* **Measure 3:** G5 (half note), A#5 (quarter note), C#6 (quarter note)
-* **Measure 4:** A#5 (quarter note), B5 (eighth note), C#6 (16th note), B5 (16th note), C#6 (quarter note), rest (quarter note)
-
-
-The new key signature would be **C# major** (7 sharps).  The new key is **C# major**.

@@ -1,5 +1,0 @@
-* **Perfect 4th above the first note (Bb2):** Eb3
-* **Major 3rd above the second note (D#3):** F##3 (or Gx3)
-* **Diminished octave above the third note (Gb2):** Fbb3
-* **Augmented 6th above the fourth note (Cb3):** A3
-* **Minor 2nd above the fifth note (E2):** F2

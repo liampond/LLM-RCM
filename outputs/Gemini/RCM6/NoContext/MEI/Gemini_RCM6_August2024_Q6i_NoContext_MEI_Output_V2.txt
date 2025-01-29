@@ -1,6 +1,0 @@
-* **Key:** Eb major
-* **Second to last chord (root/quality):** Cmin7 (C Eb G Bb)
-* **Last chord (root/quality):** Gbmaj (Gb Bb Db)
-* **Second to last chord (functional):**  ii7 (supertonic 7th chord) or iim7 (minor supertonic 7th chord) in roman numeral analysis.
-* **Last chord (functional):** V (dominant)
-* **Cadence type:** Half cadence (ends on V)

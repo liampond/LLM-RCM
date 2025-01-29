@@ -1,0 +1,43 @@
+**Clef:**
+
+```humdrum
+!!!CLEF=Bass
+```
+
+**Key Signature:**
+
+```humdrum
+*k[b-:]
+```
+
+**Scale (Ascending):**
+
+```humdrum
+*M4/4
+=1
+B-
+C
+D
+E-
+F
+G
+A
+B-
+=||
+```
+
+**Scale (Descending):**
+
+```humdrum
+*M4/4
+=1
+B-
+A
+G
+F
+E-
+D
+C
+B-
+=||
+```
