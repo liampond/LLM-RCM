@@ -15,7 +15,6 @@ GUIDE_QUESTIONS = ["Q1b", "Q2a", "Q2b", "Q3a", "Q3b", "Q3c", "Q3d", "Q3e", "Q5",
 
 # Prompt Pathing
 base_prompt_path = "prompts"
-guide_path = "guides"
 all_prompts = "AllPrompts"
 encoded_files = "EncodedFiles"
 
@@ -30,7 +29,7 @@ def chatgpt_build_conversation(exam, context, datatype, question, examdate):
 
     # Build question prompt path
     if question in GUIDE_QUESTIONS and context == "Context":
-        question_prompt_path = os.path.join(guide_path, exam, datatype, f"{datatype}_{exam}_{examdate}_{question}_{context}Prompt.txt")
+        question_prompt_path = os.path.join(base_prompt_path, exam, context, datatype, f"{datatype}_{exam}_{examdate}_{question}_{context}Prompt.txt")
     else:
         question_prompt_path = os.path.join(base_prompt_path, exam, context, f"{exam}_{examdate}_{question}_{context}Prompt.txt")
     question_prompt = load_prompt(question_prompt_path)
@@ -59,7 +58,7 @@ def chatgpt_build_conversation(exam, context, datatype, question, examdate):
             {"role": "user", "content": f"Here is the encoded music file in {datatype} format:\n\n{encoded_file_content}"},
             {"role": "user", "content": question_prompt}
         ]
-
+    print(f"Prompt retrieved from {question_prompt_path}")
     return conversation
 
 def deepseek_build_conversation(exam, context, datatype, question, examdate):
@@ -101,8 +100,10 @@ def deepseek_build_conversation(exam, context, datatype, question, examdate):
     return conversation
 
 def gemini_build_conversation(exam, context, datatype, question, examdate):
-    # Build question prompt path
-    question_prompt_path = os.path.join("prompts", exam, context, f"{exam}_{examdate}_{question}_{context}Prompt.txt")
+    if question in GUIDE_QUESTIONS and context == "Context":
+        question_prompt_path = os.path.join(base_prompt_path, exam, context, datatype, f"{datatype}_{exam}_{examdate}_{question}_{context}Prompt.txt")
+    else:
+        question_prompt_path = os.path.join(base_prompt_path, exam, context, f"{exam}_{examdate}_{question}_{context}Prompt.txt")
     question_prompt = load_prompt(question_prompt_path)
 
     # Build datatype-specific prompt path
@@ -131,13 +132,15 @@ def gemini_build_conversation(exam, context, datatype, question, examdate):
             {"role": "user", "parts": datatype_prompt},
             {"role": "user", "parts": f"Here is the encoded music file in {datatype} format:\n\n{encoded_file_content}"}
         ]
-
+    print(f"Prompt retrieved from {question_prompt_path}")
     return conversation, history
 
 def claude_build_conversation(exam, context, datatype, question, examdate):
 
-    # Build question prompt path
-    question_prompt_path = os.path.join("prompts", exam, context, f"{exam}_{examdate}_{question}_{context}Prompt.txt")
+    if question in GUIDE_QUESTIONS and context == "Context":
+        question_prompt_path = os.path.join(base_prompt_path, exam, context, datatype, f"{datatype}_{exam}_{examdate}_{question}_{context}Prompt.txt")
+    else:
+        question_prompt_path = os.path.join(base_prompt_path, exam, context, f"{exam}_{examdate}_{question}_{context}Prompt.txt")
     question_prompt = load_prompt(question_prompt_path)
 
     # Build datatype-specific prompt path
@@ -167,6 +170,7 @@ def claude_build_conversation(exam, context, datatype, question, examdate):
             {"role": "user", "content": f"{datatype_prompt} \n----\n Here is the encoded music file in {datatype} format:\n\n{encoded_file_content} \n-----\n {question_prompt}"}
         ]
 
+    print(f"Prompt retrieved from {question_prompt_path}")
     return conversation
 
 def call_model_api(model, conversation, history=""):
