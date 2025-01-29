@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Guide1_RCM6_August2024_Q3</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-29T14:58:34" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">Guide1_RCM6_August2024_Q3</rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" keysig="5s" meter.count="15" meter.unit="1">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="G" line="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <measure xml:id="mm86sxu" right="end" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <note xml:id="npei14b" dur="1" pname="g" oct="4">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note xml:id="nt4w0a9" dur="1" pname="a" oct="4">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note xml:id="n1lendzm" dur="1" pname="b" oct="4" />
+                           <note xml:id="n1z097nk" dur="1" pname="c" oct="5">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note xml:id="n1vdskbm" dur="1" pname="d" oct="5">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note xml:id="n6b04y4" dur="1" pname="e" oct="5">
+                              <accid xml:id="a6nfvwl" accid="s" />
+                           </note>
+                           <note xml:id="nqxpxd2" dur="1" pname="f" oct="5">
+                              <accid xml:id="a1ul3ci7" accid="x" />
+                           </note>
+                           <note xml:id="n9rf0wj" dur="1" pname="g" oct="5">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note xml:id="n5l9o8c" dur="1" pname="f" oct="5">
+                              <accid xml:id="a15khpai" accid="s" />
+                           </note>
+                           <note xml:id="np4ncku" dur="1" pname="e" oct="5">
+                              <accid xml:id="a1feozvt" accid="n" />
+                           </note>
+                           <note xml:id="n17h9ou4" dur="1" pname="d" oct="5">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note xml:id="nb91u9i" dur="1" pname="c" oct="5">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note xml:id="n1actvj2" dur="1" pname="b" oct="4" />
+                           <note xml:id="n1bt2vjn" dur="1" pname="a" oct="4">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note xml:id="nfjrbkj" dur="1" pname="g" oct="4">
+                              <accid accid.ges="s" />
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

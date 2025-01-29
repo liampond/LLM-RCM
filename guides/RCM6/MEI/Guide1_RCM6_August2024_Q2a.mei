@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">RCM6_December2023_Q1</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-29T15:03:23" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">RCM6_August2024_Q2a<lb /></rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" meter.count="12" meter.unit="16">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="G" line="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <measure xml:id="m6klkrk" right="end" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <note xml:id="n1ayovne" dots="1" dur="8" pname="f" oct="4" />
+                           <note xml:id="naq3tbg" type="mscore-beam-none" dur="16" pname="f" oct="4" />
+                           <rest xml:id="r9ffbe4" type="mscore-beam-none" dur="16" />
+                           <rest xml:id="reo0xrs" type="mscore-beam-none" dur="16" />
+                           <rest xml:id="r1shf03l" type="mscore-beam-none" dots="1" dur="8" />
+                           <rest xml:id="reumter" type="mscore-beam-none" dur="8" />
+                           <note xml:id="nxi8atc" dur="16" pname="f" oct="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

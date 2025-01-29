@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Guide1_RCM6_August2024_Q3</title>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-01-29T15:02:15" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">Guide2_RCM6_August2024_Q3</rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" keysig="1f" meter.count="15" meter.unit="1">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <clef shape="F" line="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1">
+                  <measure xml:id="mb7d7mp" right="end" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <note xml:id="nftlq09" dur="1" pname="d" oct="3" />
+                           <note xml:id="nxre88t" dur="1" pname="e" oct="3" />
+                           <note xml:id="n1mks73v" dur="1" pname="f" oct="3" />
+                           <note xml:id="nz569r2" dur="1" pname="g" oct="3" />
+                           <note xml:id="nu4r329" dur="1" pname="a" oct="3" />
+                           <note xml:id="nvu3urj" dur="1" pname="b" oct="3">
+                              <accid accid.ges="f" />
+                           </note>
+                           <note xml:id="n1q3tu8g" dur="1" pname="c" oct="4">
+                              <accid xml:id="a17jynfd" accid="s" />
+                           </note>
+                           <note xml:id="nye9jf" dur="1" pname="d" oct="4" />
+                           <note xml:id="n1yxp3vz" dur="1" pname="c" oct="4">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note xml:id="n1emnce3" dur="1" pname="b" oct="3">
+                              <accid accid.ges="f" />
+                           </note>
+                           <note xml:id="n1wnk0mp" dur="1" pname="a" oct="3" />
+                           <note xml:id="ncsmlq4" dur="1" pname="g" oct="3" />
+                           <note xml:id="ngrdiva" dur="1" pname="f" oct="3" />
+                           <note xml:id="nhaal8q" dur="1" pname="e" oct="3" />
+                           <note xml:id="nznfv4i" dur="1" pname="d" oct="3" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
