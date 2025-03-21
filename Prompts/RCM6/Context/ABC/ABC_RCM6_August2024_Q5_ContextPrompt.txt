@@ -160,7 +160,9 @@ V:1
 
 ------
 
-Now, analyze the file provided above and respond to the following questions. Follow the guide to determine the answer:
+Now, analyze the file provided above and respond to the following questions. 
+Return a file in ABC format.in the bass clef. write a new key signature every bar.
+Follow the guide to determine the answer:
 
 Return the notes present in the following chords using a key signature and any necessary accidentals for each. Only use accidentals when they are not covered by the key signature. Return the accidentals in the key signature in the order that they would be printed in a score.
 -The mediant triad of E flat major in root position
