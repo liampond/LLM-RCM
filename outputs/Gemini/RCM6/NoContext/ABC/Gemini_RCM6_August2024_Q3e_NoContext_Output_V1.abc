@@ -1,9 +1,0 @@
-X: 1
-T: Eb minor, harmonic
-M: 4/4
-L: 1/1
-K: Eb minor
-V:1 clef=bass
-z4 | Eb,4 D,4 Db,4 C,4 Bb,4 Ab4 G4 F#4 | Eb,4 F#4 G4 Ab4 Bb,4 C,4 Db,4 D,4 | Eb,4 ||
-V:2 clef=bass
-z4 | Eb,4 D,4 Db,4 C,4 Bb,4 Ab4 G4 F#4 | Eb,4 F#4 G4 Ab4 Bb,4 C,4 Db,4 D,4 | Eb,4 ||

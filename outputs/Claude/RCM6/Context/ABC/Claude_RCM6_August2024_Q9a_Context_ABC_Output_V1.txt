@@ -1,8 +1,0 @@
-[TextBlock(text='Here are the opposites from Group 1 and Group 2:
-
-forte → piano
-tre corde → una corda
-meno → più
-primo → secondo
-senza → con
-grave → animato', type='text')]

@@ -1,9 +1,0 @@
-In the harmonic form of the E-flat minor scale, the 7th degree is raised by a semitone. Below are the notes for the **ascending** and **descending** E-flat minor harmonic scale in the **bass clef**, using the key signature of E-flat minor (6 flats: B♭, E♭, A♭, D♭, G♭, and C♭) and any necessary accidentals:
-
-### Ascending:
-E♭ - F - G♭ - A♭ - B♭ - C♭ - D♮ - E♭
-
-### Descending:
-E♭ - D♮ - C♭ - B♭ - A♭ - G♭ - F - E♭
-
-The raised 7th degree (D♮) is indicated with a natural accidental.

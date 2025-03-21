@@ -1,5 +1,0 @@
-### Key of the Melody:
-The key signature indicates **one sharp (F#)**, which suggests the key is either **G major** or **E minor**. Examining the melody, the frequent use of **D (16dd)** and **B (16bb)**, along with the absence of a strong leading tone (D#) to E, suggests the melody is in **G major**.
-
-### Time Signature:
-The rhythm of the melody suggests a **compound duple meter (6/8)**. This inference is based on the grouping of sixteenth notes into patterns that align with two beats per measure, each subdivided into three smaller units.

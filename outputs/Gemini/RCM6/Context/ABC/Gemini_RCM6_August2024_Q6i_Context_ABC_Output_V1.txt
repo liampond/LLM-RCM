@@ -1,7 +1,0 @@
-* **Key:** Eb Major
-* **Root/quality chord symbol of the second last chord:** C
-* **Root/quality chord symbol of the last chord:** G
-* **Functional chord symbol for the second last chord:** IV
-* **Functional chord symbol for the last chord:** I
-* **Type of cadence:** Authentic
-

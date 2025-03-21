@@ -1,9 +1,0 @@
-[TextBlock(text="Let me analyze the intervals between the notes in each measure:
-
-Measure 1: [Ag] - A to G is a descending major 2nd (M2↓)
-Measure 2: [F_B] - F to B♭ is an ascending perfect 4th (P4↑)
-Measure 3: [Ec] - E to C is an ascending minor 6th (m6↑)
-Measure 4: [_cd] - C♭ to D is an ascending major 2nd (M2↑)
-Measure 5: [Bf] - B to F is a descending perfect 4th (P4↓)
-
-Each measure contains a two-note chord, and I've provided the interval between the lower and upper notes in each chord.", type='text')]

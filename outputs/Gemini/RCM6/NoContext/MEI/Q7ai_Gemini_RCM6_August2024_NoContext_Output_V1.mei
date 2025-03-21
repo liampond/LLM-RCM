@@ -1,7 +1,0 @@
-**Key:** G major
-
-**Time signature:** 3/4
-
-**Summary:**
-
-The melody is in G major, as suggested by the one-sharp key signature and the prominent use of G major scale degrees (G, B, and D).  The time signature is 3/4.  While the `<meterSig>` element is missing information, each measure contains six sixteenth notes, which group into three beats of two sixteenths (equivalent to three quarter notes). This rhythmic pattern strongly suggests a 3/4 time signature.

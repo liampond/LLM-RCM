@@ -1,9 +1,0 @@
-**Measure 1:** A4 to G5 is a Minor seventh.
-
-**Measure 2:** F#4 to B♭4 is a Diminished fifth.
-
-**Measure 3:** E4 to C#5 is a Major sixth.
-
-**Measure 4:** C♭5 to D5 is an Augmented second.
-
-**Measure 5:** B4 to F#5 is a Major sixth. 

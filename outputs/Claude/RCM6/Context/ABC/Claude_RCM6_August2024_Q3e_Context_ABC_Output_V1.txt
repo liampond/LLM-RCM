@@ -1,7 +1,0 @@
-[TextBlock(text='Here are the notes for the E flat minor harmonic scale in ascending and descending order in bass clef:
-
-Ascending: E♭ - F - G♭ - A♭ - B♭ - C♭ - D♮ - E♭
-Descending: E♭ - D♮ - C♭ - B♭ - A♭ - G♭ - F - E♭
-
-The key signature for E♭ minor has 6 flats: B♭, E♭, A♭, D♭, G♭, C♭
-The seventh scale degree (D) is raised by a natural sign in both directions, as per the harmonic minor scale form.', type='text')]

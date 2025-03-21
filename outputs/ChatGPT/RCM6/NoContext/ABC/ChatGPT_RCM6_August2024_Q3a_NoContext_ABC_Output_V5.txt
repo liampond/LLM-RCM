@@ -1,8 +1,0 @@
-In ABC notation, the D-flat major scale in the bass clef, ascending and descending, with a key signature and whole notes, would look like this:
-
-```
-K: Db bass
-Db | Eb | F | Gb | Ab | Bb | C | Db | C | Bb | Ab | Gb | F | Eb | Db |
-``` 
-
-This represents the D-flat major scale ascending and descending, with the appropriate key signature applied.

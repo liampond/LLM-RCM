@@ -1,6 +1,0 @@
-- **Key:** E-flat major
-- **Second to last chord (root/quality):** C minor
-- **Last chord (root/quality):** G major
-- **Second to last chord (functional):** iv
-- **Last chord (functional):** V
-- **Cadence:** Half

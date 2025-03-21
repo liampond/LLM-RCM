@@ -1,7 +1,0 @@
-Here are the notes based on the intervals you specified:
-
-* **Perfect 4th above _B,, (B double flat in the sub-contra octave):** E,, (E double flat in the sub-contra octave)
-* **Major 3rd above ^D, (D sharp in the contra octave):** F#, (F sharp in the contra octave)
-* **Diminished 8ve above _G,, (G double flat in the sub-contra octave):**  G,,𝄫 (G triple flat in the sub-contra octave).  A diminished octave is enharmonically equivalent to a major seventh.
-* **Augmented 6th above _C, (C in the contra octave):** A,♯ (A sharp in the contra octave)
-* **Minor 2nd above E,, (E double flat in the sub-contra octave):** F,, (F double flat in the sub-contra octave) 

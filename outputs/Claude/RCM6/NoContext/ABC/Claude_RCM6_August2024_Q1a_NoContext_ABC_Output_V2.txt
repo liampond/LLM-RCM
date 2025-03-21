@@ -1,9 +1,0 @@
-[TextBlock(text="I'll analyze each measure's interval between the two notes:
-
-Measure 1: [A,g] - Augmented seventh (A7)
-Measure 2: [F,B♭] - Perfect fourth (P4)
-Measure 3: [E,c] - Minor sixth (m6)
-Measure 4: [c,d♭] - Minor second (m2)
-Measure 5: [B,f] - Diminished fifth (d5)
-
-I've listed these intervals by measuring from the lower note to the higher note in each dyad.", type='text')]
