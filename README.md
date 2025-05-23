@@ -1,8 +1,10 @@
+## **DISCLAIMER: This repository is outdated and only exists as a legacy reference for the paper below. The current repository is [LLM-MusicTheory](https://github.com/liampond/LLM-MusicTheory)**
+
 # LLM-RCM
 
 This repository accompanies the paper *Teaching LLMs Music Theory with In-Context Learning and Chain-of-Thought Prompting: Pedagogical Strategies for Machines*, which explores how large language models (LLMs) like ChatGPT, Claude, and Gemini can be taught to reason about music theory using in-context learning and chain-of-thought prompting. The study systematically evaluates model performance on Royal Conservatory of Music (RCM) Level 6 theory exam questions encoded in ABC, Humdrum, MEI, and MusicXML formats.
 
-The paper was published and presented at the 17th International Conference on Computer Supported Music Education (CSME/CSEDU 2025) in Porto, Portugal, on April 3, 2025.
+The paper was published and presented at the 17th International Conference on Computer Supported Music Education (CSME/CSEDU 2025) in Porto, Portugal, on April 3, 2025. DOI: [10.5220/0013506100003932](https://doi.org/10.5220/0013506100003932)
 
 Pond, Liam, and Ichiro Fujinaga. 2025. “Teaching LLMs Music Theory with In-Context Learning and Chain-of-Thought Prompting: Pedagogical Strategies for Machines.” In *Proceedings of the 17th International Conference on Computer Supported Education (CSEDU 2025)* 1: 671–81. ISBN 978-989-758-746-7.
 
