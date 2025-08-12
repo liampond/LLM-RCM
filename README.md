@@ -1,4 +1,4 @@
-## **DISCLAIMER: This repository is outdated and only exists as a legacy reference for the paper below. The current repository is [LLM-MusicTheory](https://github.com/liampond/LLM-MusicTheory)**
+## **DISCLAIMER: This repository is outdated and only exists as a legacy reference for the paper below. Future work is being done in [LLM-MusicTheory](https://github.com/liampond/LLM-MusicTheory)**.
 
 # LLM-RCM
 
